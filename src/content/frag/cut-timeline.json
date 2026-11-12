@@ -1,0 +1,107 @@
+[
+ {
+  "date": "1921",
+  "label": "Scully builds a lathe",
+  "detail": "John J. Scully builds a weight-driven disc lathe.",
+  "source_url": "https://www.wikiwand.com/en/articles/Mastering_lathe",
+  "era": "Before 1948"
+ },
+ {
+  "date": "1931",
+  "label": "Neumann AM31",
+  "detail": "Neumann's first lathe, the AM31, arrives.",
+  "source_url": "https://www.wikiwand.com/en/articles/Mastering_lathe",
+  "era": "Before 1948"
+ },
+ {
+  "date": "1946",
+  "label": "Ortofon cutter head",
+  "detail": "Ortofon makes its first moving-coil cutter head.",
+  "source_url": "https://pspatialaudio.com/lathes.htm",
+  "era": "Before 1948"
+ },
+ {
+  "date": "1948",
+  "label": "The hot stylus",
+  "detail": "William S. Bachman at Columbia develops the heated cutting stylus.",
+  "source_url": "https://microgroove.jp/history-of-phono-eq-curves/en/FAQ/what-is-hot-stylus/",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1950",
+  "label": "Variable pitch at Scully",
+  "detail": "Per Wikipedia, Scully introduces variable pitch, automated in 1955.",
+  "source_url": "https://www.wikiwand.com/en/articles/Mastering_lathe",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1954",
+  "label": "RIAA curve standardized",
+  "detail": "The RIAA equalization curve replaces a mix of competing EQs, after the 1953 NARTB standard.",
+  "source_url": "https://microgroove.jp/history-of-phono-eq-curves/en/FAQ/what-is-hot-stylus/",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1957",
+  "label": "45/45 stereo cutter head",
+  "detail": "Per Wikipedia, Western Electric/Westrex demonstrates the first commercial 45/45 stereo cutter head.",
+  "source_url": "https://www.wikiwand.com/en/articles/Mastering_lathe",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1970",
+  "label": "Neumann VMS 70",
+  "detail": "Neumann's VMS 70, which Pspatial Audio calls the world's most popular recording lathe.",
+  "source_url": "https://pspatialaudio.com/lathes.htm",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1976-09",
+  "label": "IEC adds a fourth time constant",
+  "detail": "The IEC adds a 7950 microsecond infrasonic roll-off to the RIAA curve.",
+  "source_url": "https://www.stereophile.com/features/cut_and_thrust_riaa_lp_equalization/index.html",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1980",
+  "label": "Neumann VMS 80",
+  "detail": "Neumann's last lathe line, the first without the traditional bed, with DC servo motors.",
+  "source_url": "https://www.psaudio.com/blogs/copper/around-the-world-in-80-lathes-part-two",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1989",
+  "label": "Last VMS-82 DMM lathe",
+  "detail": "The last Neumann VMS-82 DMM lathe is assembled in Berlin.",
+  "source_url": "https://www.psaudio.com/blogs/copper/around-the-world-in-80-lathes-part-two",
+  "era": "1982-2006"
+ },
+ {
+  "date": "2005",
+  "label": "US loses its last DMM room",
+  "detail": "Per Wikipedia, the last public DMM facility in the US closes.",
+  "source_url": "https://en.wikipedia.org/wiki/Direct_metal_mastering",
+  "era": "1982-2006"
+ },
+ {
+  "date": "2020-02-06",
+  "label": "Lacquer factory fire",
+  "detail": "A fire destroys the Apollo Masters lacquer factory in Banning, California, leaving MDC in Japan as the sole lacquer maker.",
+  "source_url": "https://en.wikipedia.org/wiki/Apollo_Masters_Corporation_fire",
+  "era": "2007-now"
+ },
+ {
+  "date": "2023-07",
+  "label": "Agnew Type 612",
+  "detail": "A new disk mastering lathe is unveiled at the International Disk Recording and Mastering Convention.",
+  "source_url": "https://agnewanalog.com/blog/agnew-analog-reference-instruments-type-612-a-new-disk-mastering-lathe.html",
+  "era": "2007-now"
+ },
+ {
+  "date": "2026-07-17",
+  "label": "APC-2 lathe",
+  "detail": "MusicTech reports the Teenage Engineering and SUPERSENSE APC-2, a 104 kg made-to-order lathe.",
+  "source_url": "https://musictech.com/news/gear/teenage-engineering-apc-2/",
+  "era": "2007-now"
+ }
+]

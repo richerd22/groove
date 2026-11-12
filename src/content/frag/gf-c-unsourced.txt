@@ -1,0 +1,3 @@
+A standards text (RIAA or IEC 60098 full text) stating which phase convention - in-phase lateral or in-phase vertical - the 45/45 stereo groove uses.
+An industry-wide typical tracking-force range for modern cartridges.
+DVS user numbers (how many DJs use Serato, Traktor or other timecode systems) from a primary source.

@@ -1,0 +1,37 @@
+[
+ {
+  "title": "Library of Congress: Care, Handling and Storage of Records",
+  "url": "https://www.loc.gov/preserv/care/record.html",
+  "why": "The archival baseline for handling, storage climate and sleeves."
+ },
+ {
+  "title": "Stereophile: Cut and Thrust: RIAA LP Equalization",
+  "url": "https://www.stereophile.com/features/cut_and_thrust_riaa_lp_equalization/index.html",
+  "why": "The clearest deep explainer of the RIAA curve and the 1976 IEC amendment."
+ },
+ {
+  "title": "Davis and Frayne: The Westrex StereoDisk System (1958)",
+  "url": "https://dsu-digital-sound-design.github.io/f-23-history-of-recorded-music/lectures/week-8/control-men/The_Westrex_Stereo_Disk_System.pdf",
+  "why": "The primary source for how the stereo groove was designed."
+ },
+ {
+  "title": "Mixxx: How Does Timecode Vinyl Actually Work? (Pt. 3)",
+  "url": "https://mixxx.org/news/2025-08-27-dvs-internals-pt3/",
+  "why": "An open-source teardown of Serato and Traktor timecode."
+ },
+ {
+  "title": "Pspatial Audio: Record wear",
+  "url": "https://pspatialaudio.com/record_wear.htm",
+  "why": "A footnoted summary of the 1968 RCA wear study."
+ },
+ {
+  "title": "IEEE Spectrum: Consumer Electronics Hall of Fame: SL-1200",
+  "url": "https://spectrum.ieee.org/the-consumer-electronics-hall-of-fame-the-matsushitatechnics-sl1200",
+  "why": "A short engineer's-eye take on why direct drive changed DJing."
+ },
+ {
+  "title": "Audio-Technica: Phono Cartridges 2025 catalogue",
+  "url": "https://online.flippingbook.com/view/420781538/33/",
+  "why": "Manufacturer stylus-life hours by shape."
+ }
+]

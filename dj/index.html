@@ -1,0 +1,321 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Records and DJs | The Groove</title><meta name="description" content="This section is about how DJs turned the record player into an instrument. A Japanese direct-drive turntable launched in 1972 became the club standard, scratching came out of the Bronx in the mid-1970s (the sources disagree on the year and on who was first), and since the early 2000s timecode vinyl "><link rel="canonical" href="https://groove.cold.fyi/dj/"><meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#141210"><meta property="og:type" content="article"><meta property="og:site_name" content="cold.fyi">
+<meta property="og:title" content="Records and DJs | The Groove"><meta property="og:description" content="This section is about how DJs turned the record player into an instrument. A Japanese direct-drive turntable launched in 1972 became the club standard, scratching came out of the Bronx in the mid-1970s (the sources disagree on the year and on who was first), and since the early 2000s timecode vinyl "><meta property="og:url" content="https://groove.cold.fyi/dj/">
+<meta property="og:image" content="https://groove.cold.fyi/og.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="alternate" type="text/plain" href="/llms.txt" title="llms.txt">
+<link rel="preload" href="/fonts/gloock-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="/fonts/crimson-pro-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<script>try{var t=localStorage.getItem('groove-theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Records and DJs", "description": "This section is about how DJs turned the record player into an instrument. A Japanese direct-drive turntable launched in 1972 became the club standard, scratching came out of the Bronx in the mid-1970s (the sources disagree on the year and on who was first), and since the early 2000s timecode vinyl ", "url": "https://groove.cold.fyi/dj/", "inLanguage": "en", "datePublished": "2026-11-12", "dateModified": "2026-11-12", "image": "https://groove.cold.fyi/og.png", "author": {"@type": "Organization", "name": "Third Polar Arch", "url": "https://thirdpolararch.com"}, "publisher": {"@type": "Organization", "name": "Third Polar Arch", "url": "https://thirdpolararch.com"}, "isPartOf": {"@type": "CreativeWork", "name": "The Groove: how a vinyl record gets made", "url": "https://groove.cold.fyi/"}}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "The Groove", "item": "https://groove.cold.fyi/"}, {"@type": "ListItem", "position": 2, "name": "Records and DJs", "item": "https://groove.cold.fyi/dj/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Who invented scratching?", "acceptedAnswer": {"@type": "Answer", "text": "Grand Wizzard Theodore in the Bronx is usually credited. KEXP dates his discovery to 1975 and his public debut to 1977, other sources give the early 1980s or early 1970s, and KEXP notes he may not have been the first."}}, {"@type": "Question", "name": "How does Serato timecode vinyl work?", "acceptedAnswer": {"@type": "Answer", "text": "The control record carries a 1,000 Hz tone with the right channel 90 degrees behind the left, which tells the software speed and direction. Position bits on the tone let absolute mode know where the needle is, per open-source developers who reverse-engineered it."}}]}</script><style>@font-face{font-family:'Gloock';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/gloock-latin-400-normal.woff2) format('woff2')}@font-face{font-family:'Crimson Pro';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/crimson-pro-latin-400-normal.woff2) format('woff2')}@font-face{font-family:'Crimson Pro';font-style:italic;font-weight:400;font-display:swap;src:url(/fonts/crimson-pro-latin-400-italic.woff2) format('woff2')}@font-face{font-family:'Crimson Pro';font-style:normal;font-weight:600;font-display:swap;src:url(/fonts/crimson-pro-latin-600-normal.woff2) format('woff2')}@font-face{font-family:'IBM Plex Mono';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/ibm-plex-mono-latin-400-normal.woff2) format('woff2')}@font-face{font-family:'IBM Plex Mono';font-style:normal;font-weight:600;font-display:swap;src:url(/fonts/ibm-plex-mono-latin-600-normal.woff2) format('woff2')}@font-face{font-family:'Caveat';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/caveat-latin-500-normal.woff2) format('woff2')}/* The Groove. Layout: an LP in its sleeve. Light mode is the kraft inner sleeve; dark mode ("Wax") is the record itself.
+   A record drawn in code turns in the hero, the contents are a back-cover tracklist (Side A / Side B, track numbers, run times),
+   section numbers read like matrix codes, and anything etched in the dead wax is set in a hand-scratched face. */
+:root{
+  color-scheme:light;
+  --bg:#efe4cf; --paper:#f7efe0; --paper2:#e6d7bb; --ink:#1c1712; --muted:#6c5f50; --line:rgba(28,23,18,.16);
+  --label:#e2452c; --label-ink:#fff4e6; --label2:#1f5c5a; --gold:#a97b23; --link:#9c2f1c; --hl:#f3c96a;
+  --vinyl:#141210; --groove:#2c2722; --groove2:#3a342d; --sheen:rgba(255,255,255,.08); --wax:#1d1a17; --etch:#bdb2a2;
+  --f-display:"Gloock","Iowan Old Style",Georgia,serif; --f-body:"Crimson Pro","Iowan Old Style",Georgia,serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,monospace; --f-etch:"Caveat","Bradley Hand","Segoe Print",cursive;
+  --measure:66ch;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){color-scheme:dark;
+  --bg:#100e0c; --paper:#17140f; --paper2:#211d17; --ink:#efe5d3; --muted:#a99a86; --line:rgba(239,229,211,.14);
+  --label:#ef5a3c; --label-ink:#fff4e6; --label2:#4fa6a1; --gold:#d9a645; --link:#f08a6c; --hl:#5a4417;
+  --vinyl:#0b0a09; --groove:#221e1a; --groove2:#2e2923; --sheen:rgba(255,255,255,.06); --wax:#171411; --etch:#9c907f}}
+:root[data-theme="dark"]{color-scheme:dark;
+  --bg:#100e0c; --paper:#17140f; --paper2:#211d17; --ink:#efe5d3; --muted:#a99a86; --line:rgba(239,229,211,.14);
+  --label:#ef5a3c; --label-ink:#fff4e6; --label2:#4fa6a1; --gold:#d9a645; --link:#f08a6c; --hl:#5a4417;
+  --vinyl:#0b0a09; --groove:#221e1a; --groove2:#2e2923; --sheen:rgba(255,255,255,.06); --wax:#171411; --etch:#9c907f}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 1.18rem/1.6 var(--f-body);
+  background-image:radial-gradient(circle at 20% 10%,rgba(255,255,255,.18),transparent 40%),repeating-linear-gradient(0deg,transparent 0 3px,rgba(0,0,0,.012) 3px 4px)}
+a{color:var(--link);text-underline-offset:.18em;text-decoration-thickness:1px}
+a:hover{text-decoration-thickness:2px}
+:focus-visible{outline:2px solid var(--label);outline-offset:2px;border-radius:3px}
+.skip{position:absolute;left:-999px}.skip:focus{left:1rem;top:1rem;background:var(--paper);padding:.5rem 1rem;z-index:9}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+.progress{position:fixed;top:0;left:0;height:3px;width:0;background:var(--label);z-index:20}
+.mast{display:flex;justify-content:space-between;align-items:center;gap:1rem;padding:.9rem max(16px,env(safe-area-inset-left,0px)) .9rem max(16px,env(safe-area-inset-right,0px));
+  font:600 .78rem/1 var(--f-mono);letter-spacing:.08em;text-transform:uppercase;border-bottom:1px solid var(--line)}
+.mast a{color:var(--ink);text-decoration:none}.mast .sep{margin:0 .5rem;color:var(--muted)}
+.theme-btn{font:600 .72rem/1 var(--f-mono);letter-spacing:.1em;text-transform:uppercase;background:var(--vinyl);color:var(--etch);border:0;border-radius:999px;padding:.55rem .85rem;cursor:pointer}
+:root[data-theme="dark"] .theme-btn{background:var(--label);color:var(--label-ink)}
+
+/* hero */
+.hero{padding:clamp(1.5rem,5vw,4rem) max(16px,env(safe-area-inset-left,0px)) 1rem max(16px,env(safe-area-inset-right,0px));border-bottom:1px solid var(--line)}
+.hero-in{max-width:76rem;margin:0 auto;display:grid;grid-template-columns:1.1fr .9fr;gap:clamp(1rem,4vw,3rem);align-items:center}
+.kicker,.k{font:600 .72rem/1.3 var(--f-mono);letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin:0 0 .6rem}
+.title{font:400 clamp(4rem,13vw,9.5rem)/.86 var(--f-display);letter-spacing:-.02em;margin:0 0 1rem}
+.dek{font:400 clamp(1.25rem,2.6vw,1.6rem)/1.35 var(--f-body);font-style:italic;max-width:32rem;margin:0 0 1rem}
+.stats{font:400 .8rem/1.5 var(--f-mono);color:var(--muted)}.stats b{color:var(--ink);font-weight:600}
+.cta{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:1.2rem}
+.cta a{font:600 .8rem/1 var(--f-mono);letter-spacing:.06em;text-transform:uppercase;text-decoration:none;color:var(--ink);border:1.5px solid var(--ink);border-radius:999px;padding:.75rem 1rem}
+.cta a.primary{background:var(--label);border-color:var(--label);color:var(--label-ink)}
+.lp{width:100%;max-width:30rem;display:block;margin:0 auto;filter:drop-shadow(0 18px 30px rgba(0,0,0,.35))}
+.lp .disc{fill:var(--vinyl)}.lp .gr{fill:none;stroke:var(--groove);stroke-width:1.1}.lp .gr.gap{stroke:var(--vinyl);stroke-width:3}
+.lp .sheen{fill:var(--sheen)}.lp .wax{fill:var(--wax)}.lp .label{fill:var(--label)}.lp .label-ring{fill:none;stroke:var(--label-ink);stroke-opacity:.35;stroke-width:1}
+.lp .lt{font:400 13px var(--f-display);fill:var(--label-ink);text-anchor:middle;letter-spacing:1px}
+.lp .ls{font:600 6.5px var(--f-mono);fill:var(--label-ink);text-anchor:middle;letter-spacing:1.2px;opacity:.85}
+.lp .etch{font:500 7.5px var(--f-etch);fill:var(--etch);letter-spacing:.5px}.lp .hole{fill:var(--bg)}
+@media (prefers-reduced-motion:no-preference){.hero .lp{animation:spin 1.8s linear infinite}.hero .lp:hover{animation-play-state:paused}}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* tracklist (contents) */
+.back{max-width:76rem;margin:2.5rem auto;padding:0 max(16px,env(safe-area-inset-left,0px)) 0 max(16px,env(safe-area-inset-right,0px))}
+.back h2{margin-bottom:1rem}
+.tracks{display:grid;grid-template-columns:1fr 1fr;gap:1.4rem 2.6rem;background:var(--vinyl);color:var(--etch);border-radius:6px;padding:clamp(1.2rem,3vw,2.2rem)}
+.tracks .sl{font:400 1.6rem/1 var(--f-display);color:var(--label-ink);margin:0 0 .6rem}
+.tracks ol{list-style:none;margin:0;padding:0}
+.tracks li a{display:grid;grid-template-columns:2.6rem 1fr auto;gap:.6rem;align-items:baseline;padding:.42rem 0;border-bottom:1px dotted rgba(189,178,162,.25);text-decoration:none;color:var(--etch)}
+.tracks .tn{font:600 .74rem/1 var(--f-mono);color:var(--label)}
+.tracks .tt{font:400 1.05rem/1.25 var(--f-body);color:#efe5d3}
+.tracks .td{font:400 .74rem/1 var(--f-mono)}
+.tracks li a:hover .tt,.tracks li a.on .tt{color:var(--hl)}
+.tracks li a.on .tt{text-decoration:underline}
+
+/* lede, paths */
+.col{max-width:var(--measure);margin:0 auto;padding:0 max(16px,env(safe-area-inset-left,0px)) 3rem max(16px,env(safe-area-inset-right,0px));min-width:0}
+.lede{font-size:1.24rem}.lede p:first-of-type::first-letter{font:400 3.6em/.8 var(--f-display);float:left;margin:.06em .1em 0 0;color:var(--label)}
+.lede em:first-child{display:block;font-size:1.05rem;color:var(--muted)}
+.paths{max-width:76rem;margin:0 auto 3rem;padding:0 max(16px,env(safe-area-inset-left,0px)) 0 max(16px,env(safe-area-inset-right,0px))}
+.pgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(14rem,1fr));gap:1rem}
+.path{background:var(--paper);border:1px solid var(--line);border-radius:999px 999px 14px 14px;padding:2.4rem 1.2rem 1.2rem;position:relative}
+.path::before{content:"";position:absolute;top:.8rem;left:50%;width:1.1rem;height:1.1rem;margin-left:-.55rem;border-radius:50%;background:var(--label);box-shadow:0 0 0 .35rem var(--paper2)}
+.path b{font:400 1.35rem/1.15 var(--f-display);display:block;margin-bottom:.3rem}.path p{font-size:1rem;margin:.2rem 0 .6rem}
+.path a{font:600 .74rem/1.9 var(--f-mono);margin-right:.5rem}
+
+/* sections */
+.layout{display:grid;grid-template-columns:19rem minmax(0,1fr);gap:2rem;max-width:84rem;margin:0 auto;padding-top:1.4rem}
+.layout>.tracks{position:sticky;top:1rem;align-self:start;grid-template-columns:1fr;max-height:calc(100vh - 2rem);overflow:auto;margin-left:max(16px,env(safe-area-inset-left,0px));font-size:.95rem}
+.layout>.tracks .tt{font-size:.95rem}
+h1{font:400 clamp(2.4rem,6vw,4rem)/1 var(--f-display);margin:.4rem 0 1rem;letter-spacing:-.01em;text-wrap:balance}
+article h3,.col h2{font:400 clamp(1.5rem,3.2vw,2rem)/1.15 var(--f-display);margin:2.4rem 0 .6rem;text-wrap:balance}
+article h3 .anchor,article h4 .anchor{margin-left:.35rem;color:var(--muted);text-decoration:none;opacity:0;font-size:.7em}
+article h3:hover .anchor{opacity:1}
+article h4{font:600 1.2rem/1.3 var(--f-body);margin:1.6rem 0 .3rem}
+.readmeta{font:400 .78rem/1.4 var(--f-mono);color:var(--muted);margin:0}.readmeta .tn{color:var(--label);font-weight:600}
+p.short{background:var(--paper);border-left:4px solid var(--label);padding:1rem 1.2rem;border-radius:0 12px 12px 0;font-size:1.15rem}
+.intoc{background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:.9rem 1.1rem;margin:1rem 0}
+.intoc ol{margin:.2rem 0 0;padding-left:1.2rem;font-size:1rem;columns:2;column-gap:2rem}.intoc li{break-inside:avoid}
+sup.fn{font:600 .6em/0 var(--f-mono);margin-left:.08em}sup.fn a{text-decoration:none;color:var(--label)}
+.col{overflow-wrap:anywhere}
+article table{width:100%;border-collapse:collapse;font-size:1rem;margin:1rem 0;display:block;overflow-x:auto}
+article th,article td{text-align:left;padding:.45rem .6rem;border-bottom:1px solid var(--line);vertical-align:top}
+article th{font:600 .72rem/1.3 var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+blockquote{margin:1.4rem 0;padding:.2rem 0 .2rem 1.2rem;border-left:3px solid var(--gold);font-style:italic}
+.qa{margin:2.6rem 0;background:var(--paper);border-radius:14px;padding:1rem 1.3rem}.qa dt{font-weight:600;margin-top:.8rem}.qa dd{margin:.2rem 0 0}
+.fix{font:400 .82rem/1.4 var(--f-mono)}
+.pn{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:2.4rem 0}
+.pn a{display:block;padding:1rem;border:1px solid var(--line);border-radius:12px;text-decoration:none;color:var(--ink);font:400 1.1rem/1.25 var(--f-display)}
+.pn a span{display:block;font:600 .7rem/1.4 var(--f-mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}.pn .nx{text-align:right}
+.refs{font-size:.95rem;border-top:1px solid var(--line);margin-top:2rem}.refs li{margin:.25rem 0;overflow-wrap:anywhere}
+.allsec{border-top:2px solid var(--ink);margin-top:3rem;padding-top:1rem}
+
+/* modules */
+.mod{background:var(--vinyl);color:#efe5d3;border-radius:14px;padding:1.2rem clamp(1rem,3vw,1.6rem);margin:2rem 0;--ink:#efe5d3;--muted:#a99a86;--line:rgba(239,229,211,.14);--link:#f08a6c;--paper:#1d1a17}
+.mod .kick{font:600 .7rem/1 var(--f-mono);letter-spacing:.18em;text-transform:uppercase;color:var(--label);margin:0}
+.mod h3{font:400 1.7rem/1.1 var(--f-display);margin:.4rem 0 .3rem;color:#fff4e6}
+.mod-head p{font-size:1rem;color:#cdbfaa;margin:.2rem 0 1rem}
+.tools{display:flex;flex-wrap:wrap;gap:.5rem .8rem;align-items:center;margin:.4rem 0 .8rem}
+.tools input,.calc input,.calc select{font:400 1rem/1.2 var(--f-mono);padding:.6rem .7rem;border:1px solid var(--line);border-radius:10px;background:#0b0a09;color:#efe5d3;min-width:min(100%,22rem);flex:1}
+.chips{display:flex;flex-wrap:wrap;gap:.3rem}
+.chips button{font:600 .68rem/1 var(--f-mono);letter-spacing:.08em;text-transform:uppercase;padding:.5rem .65rem;border-radius:999px;border:1px solid var(--line);background:transparent;color:#efe5d3;cursor:pointer}
+.chips button[aria-pressed="true"]{background:var(--label);border-color:var(--label);color:#fff4e6}
+.cnt{font:400 .78rem/1 var(--f-mono);color:#a99a86}
+.tbl{overflow-x:auto}
+.dc{width:100%;border-collapse:collapse;font-size:1rem}
+.dc th,.dc td{text-align:left;padding:.55rem .6rem;border-bottom:1px solid var(--line);vertical-align:top}
+.dc th{font:600 .68rem/1.3 var(--f-mono);letter-spacing:.1em;text-transform:uppercase;color:#a99a86}
+.dc td.etch{font:500 1.45rem/1.1 var(--f-etch);color:#e8dccb;overflow-wrap:anywhere;min-width:7rem}
+.dc .ex{font:400 .72rem/1.4 var(--f-mono);color:#a99a86;white-space:normal}
+.dc td.k{font:400 .72rem/1.4 var(--f-mono);color:#a99a86;text-transform:uppercase;letter-spacing:.06em}
+.dc tr.hide,.gl li.hide,.tl li.hide{display:none}
+a.s{font:400 .72rem/1 var(--f-mono);margin-left:.25rem}
+.calc{display:grid;grid-template-columns:1fr 1fr;gap:.8rem}
+.field{display:flex;flex-direction:column;gap:.3rem;font:600 .7rem/1.2 var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:#a99a86}
+.out{font:400 1.2rem/1.4 var(--f-body);margin:.8rem 0 0}.out b{color:var(--hl)}
+:root:not([data-theme="dark"]) .mod .out b{color:#f3c96a}
+.tl{list-style:none;margin:0;padding:0;border-left:2px solid var(--label);max-height:34rem;overflow:auto}
+.tl li{padding:.4rem 0 .6rem 1rem;position:relative;font-size:1rem}.tl li::before{content:"";position:absolute;left:-.42rem;top:.75rem;width:.7rem;height:.7rem;border-radius:50%;background:var(--vinyl);border:2px solid var(--label)}
+.tl .d{display:block;font:600 .72rem/1.4 var(--f-mono);color:var(--label)}
+.gl{list-style:none;margin:0;padding:0;columns:20rem;column-gap:2rem}.gl li{break-inside:avoid;margin:0 0 .7rem;font-size:1rem}.gl dfn{font:400 1.1rem/1.2 var(--f-display);font-style:normal;color:#fff4e6;display:block}
+.res li{margin:.4rem 0;font-size:1rem}
+#quiz .q{margin:0 0 1.2rem}#quiz .q p{margin:.2rem 0 .5rem;font-size:1.1rem}
+#quiz button{display:block;width:100%;text-align:left;font:400 1rem/1.3 var(--f-body);background:#1d1a17;color:#efe5d3;border:1px solid var(--line);border-radius:10px;padding:.6rem .8rem;margin:.3rem 0;cursor:pointer}
+#quiz button.right{border-color:#5fb37a;background:#1c2b20}#quiz button.wrong{border-color:var(--label);background:#2e1915}
+#quiz .why{font-size:.98rem;color:#cdbfaa}
+
+/* footer */
+.foot{background:var(--vinyl);color:var(--etch);margin-top:3rem;padding:2rem max(16px,env(safe-area-inset-left,0px)) 3rem max(16px,env(safe-area-inset-right,0px));font-size:.95rem}
+.foot-in{max-width:76rem;margin:0 auto}.foot a{color:#efe5d3}.foot .k{color:var(--label)}
+.sis{list-style:none;padding:0;columns:18rem;column-gap:2rem;margin:0 0 1.4rem}.sis li{margin:.2rem 0}.sis span{color:var(--etch)}
+
+@media (max-width:980px){.layout{grid-template-columns:minmax(0,1fr)}.layout>.tracks{position:static;max-height:none;margin:0 max(16px,env(safe-area-inset-left,0px)) 1rem max(16px,env(safe-area-inset-right,0px));order:2}}
+@media (max-width:760px){.hero-in{grid-template-columns:1fr}.hero-v{order:-1;max-width:18rem;margin:0 auto}.tracks{grid-template-columns:1fr}.calc{grid-template-columns:1fr}.intoc ol{columns:1}.pn{grid-template-columns:1fr}.pn .nx{text-align:left}}
+@media print{.mast,.tracks,.foot,.progress,.cta{display:none}}
+.tbl{overflow-x:auto;max-width:100%}.mod{min-width:0;max-width:100%}
+.dc td.k{overflow-wrap:normal;word-break:normal;hyphens:none}
+sup.fn+sup.fn::before{content:",";margin-right:.1em}
+</style></head><body><a class="skip" href="#main">Skip to the text</a><div class="progress" id="progress" aria-hidden="true"></div>
+<header class="mast"><span><a href="https://cold.fyi">cold.fyi</a><span class="sep">/</span><a href="/">The Groove</a></span><button class="theme-btn" id="theme-btn" type="button">Flip it</button></header>
+<div class="layout"><nav class="tracks" aria-label="Sections"><div class="side"><p class="sl">Side A</p><ol><li><a href="/history/"><span class="tn">A1</span><span class="tt">A short history of the record</span><span class="td">18:00</span></a></li><li><a href="/cutting/"><span class="tn">A2</span><span class="tt">How a record is cut</span><span class="td">14:00</span></a></li><li><a href="/pressing/"><span class="tn">A3</span><span class="tt">How a record is pressed</span><span class="td">10:00</span></a></li><li><a href="/formats/"><span class="tn">A4</span><span class="tt">Sizes, speeds, weights and colors</span><span class="td">7:00</span></a></li><li><a href="/runout/"><span class="tn">A5</span><span class="tt">The runout groove: what the etchings mean</span><span class="td">18:00</span></a></li><li><a href="/playing/"><span class="tn">A6</span><span class="tt">How a turntable plays a record</span><span class="td">11:00</span></a></li></ol></div><div class="side"><p class="sl">Side B</p><ol><li><a href="/dj/" aria-current=page class=on><span class="tn">B1</span><span class="tt">Records and DJs</span><span class="td">6:00</span></a></li><li><a href="/collecting/"><span class="tn">B2</span><span class="tt">Collecting and grading records</span><span class="td">8:00</span></a></li><li><a href="/money/"><span class="tn">B3</span><span class="tt">What a record costs, and who gets paid</span><span class="td">8:00</span></a></li><li><a href="/planet/"><span class="tn">B4</span><span class="tt">Vinyl and the planet</span><span class="td">5:00</span></a></li><li><a href="/world/"><span class="tn">B5</span><span class="tt">Where records are made</span><span class="td">5:00</span></a></li><li><a href="/next/"><span class="tn">B6</span><span class="tt">Test yourself, and where to go next</span><span class="td">20:00</span></a></li></ol></div></nav><main class="col" id="main">
+<p class="readmeta"><span class="tn">B1</span> · about 6 min · updated November 2026</p>
+<h1>Records and DJs</h1>
+<nav class="intoc" aria-label="On this page"><p class="k">On this side</p><ol><li><a href="#how-did-a-hi-fi-turntable-end-up-in-every-club">How did a hi-fi turntable end up in every club?</a></li><li><a href="#how-many-were-sold">How many were sold?</a></li><li><a href="#when-did-it-stop-and-when-did-it-come-back">When did it stop, and when did it come back?</a></li><li><a href="#what-do-the-numbers-on-a-dj-deck-mean">What do the numbers on a DJ deck mean?</a></li><li><a href="#who-invented-scratching-and-when">Who invented scratching, and when?</a></li><li><a href="#is-turntablism-older-than-hip-hop">Is turntablism older than hip-hop?</a></li><li><a href="#how-does-timecode-vinyl-work">How does timecode vinyl work?</a></li><li><a href="#where-did-dvs-come-from">Where did DVS come from?</a></li><li><a href="#why-do-djs-still-buy-records">Why do DJs still buy records?</a></li></ol></nav>
+<article><p class="short"><strong>The short version:</strong> This section is about how DJs turned the record player into an instrument. A Japanese direct-drive turntable launched in 1972 became the club standard, scratching came out of the Bronx in the mid-1970s (the sources disagree on the year and on who was first), and since the early 2000s timecode vinyl has let DJs keep the feel of a record while playing digital files.</p>
+<h3 id="how-did-a-hi-fi-turntable-end-up-in-every-club">How did a hi-fi turntable end up in every club?<a class="anchor" href="#how-did-a-hi-fi-turntable-end-up-in-every-club" aria-label="Link to this">#</a></h3>
+<p>Matsushita, now Panasonic, launched the <strong>Technics SL-1200</strong> in October 1972, developed the year before by a team led by Shuichi Obata.<sup class="fn"><a href="#src-143" data-n="143">143</a></sup> It used <strong>direct drive</strong>, with the platter sitting on the motor (drive types are covered in <a href="/playing/">playing records</a>). For DJs that meant high torque, a near-instant start and steady speed with less wow and flutter, and a platter that could be pushed around by hand or spun backward without harm.<sup class="fn"><a href="#src-135" data-n="135">135</a></sup> Belt drives were less consistent and prone to failure, so in the belt era DJs developed the <strong>slip cue</strong> (hold the record still while the platter turned, then let go), which IEEE Spectrum says works better on direct drives; in its words, "Scratching was impossible on belt drives, because it would destroy them."<sup class="fn"><a href="#src-135" data-n="135">135</a></sup></p>
+<p>Technics' own history says that in August 1973 DJ Kool Herc used "a pair of Technics direct drive turntables" in the Bronx for his breakbeat technique; the page does not name the model, and it is a maker's account.<sup class="fn"><a href="#src-136" data-n="136">136</a></sup> The 1979 SL-1200MK2 is billed by Technics as "the first turntable specifically developed for use in discos,"<sup class="fn"><a href="#src-136" data-n="136">136</a></sup> and per Wikipedia its main change was braking that matched its acceleration.<sup class="fn"><a href="#src-143" data-n="143">143</a></sup> As the club scene grew from the 1980s, Technics says, the series became the de facto standard turntable in clubs.<sup class="fn"><a href="#src-136" data-n="136">136</a></sup> Per Wikipedia, an SL-1210MK2 is on display at London's Science Museum.<sup class="fn"><a href="#src-143" data-n="143">143</a></sup> IEEE Spectrum calls the direct-drive turntable "the only music-playback device to become a musical instrument itself."<sup class="fn"><a href="#src-135" data-n="135">135</a></sup></p>
+<h3 id="how-many-were-sold">How many were sold?<a class="anchor" href="#how-many-were-sold" aria-label="Link to this">#</a></h3>
+<p>Nobody independent has counted, and the two figures in circulation both trace back to the maker. Technics says 3.5 million units "over the past 35 years," without saying when that period ended.<sup class="fn"><a href="#src-136" data-n="136">136</a></sup> Wikipedia says "more than 3 million units sold," citing a Technics history page and press.<sup class="fn"><a href="#src-143" data-n="143">143</a></sup> Read both as manufacturer-reported cumulative totals, not audited sales.</p>
+<h3 id="when-did-it-stop-and-when-did-it-come-back">When did it stop, and when did it come back?<a class="anchor" href="#when-did-it-stop-and-when-did-it-come-back" aria-label="Link to this">#</a></h3>
+<p>Per Wikipedia, Panasonic announced the end of Technics analog turntables on November 1, 2010, through the DMC World DJ Championships home page,<sup class="fn"><a href="#src-143" data-n="143">143</a></sup> and IEEE Spectrum counts 38 years of production ending that year.<sup class="fn"><a href="#src-135" data-n="135">135</a></sup> At CES 2016 the deck returned as the SL-1200G and a limited SL-1200GAE of 1,200 units; the GAE shipped in April 2016 and the G in October, at a reported launch price of about USD 4,000 / GBP 3,100 / EUR 3,499.<sup class="fn"><a href="#src-143" data-n="143">143</a></sup> The SL-1200MK7 followed at CES 2019,<sup class="fn"><a href="#src-143" data-n="143">143</a></sup> which Technics calls "a full revival of the feel of the SL-1200MK2."<sup class="fn"><a href="#src-136" data-n="136">136</a></sup> Per Wikipedia, production moved from Japan to Malaysia in 2021, though the source it cites for that is thin.<sup class="fn"><a href="#src-143" data-n="143">143</a></sup></p>
+<h3 id="what-do-the-numbers-on-a-dj-deck-mean">What do the numbers on a DJ deck mean?<a class="anchor" href="#what-do-the-numbers-on-a-dj-deck-mean" aria-label="Link to this">#</a></h3>
+<p>The MK7 is a fair modern reference. Panasonic lists:<sup class="fn"><a href="#src-137" data-n="137">137</a></sup></p>
+<table>
+<thead>
+<tr>
+<th>Spec</th>
+<th>SL-1200MK7 (maker figure)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Wow and flutter</td>
+<td>0.025% weighted RMS</td>
+</tr>
+<tr>
+<td>Start-up to 33 1/3 rpm</td>
+<td>0.7 s</td>
+</tr>
+<tr>
+<td>Starting torque</td>
+<td>0.18 N·m</td>
+</tr>
+<tr>
+<td>Pitch range</td>
+<td>up to ±16%</td>
+</tr>
+<tr>
+<td>Speeds</td>
+<td>33 1/3, 45, 78 rpm</td>
+</tr>
+<tr>
+<td>Effective arm length</td>
+<td>230 mm</td>
+</tr>
+<tr>
+<td>Weight</td>
+<td>about 9.6 kg, with a 1.8 kg platter</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Pitch control</strong> is the fader that speeds the platter up or slows it down to match tempos. Per Wikipedia the classic range was ±8%, and the MK5G, released in 2002, added a ±16% button and was the first Technics deck with digitally controlled pitch.<sup class="fn"><a href="#src-143" data-n="143">143</a></sup></p>
+<h3 id="who-invented-scratching-and-when">Who invented scratching, and when?<a class="anchor" href="#who-invented-scratching-and-when" aria-label="Link to this">#</a></h3>
+<p>The usual story: Grand Wizzard Theodore (Theodore Livingston), about 12 years old in the Bronx, found it by accident, moving a record back and forth while his mother told him to turn the music down.<sup class="fn"><a href="#src-144" data-n="144">144</a></sup> KEXP dates that discovery to 1975 and his public debut to 1977 at the Sparkle club, with Grandmaster Flash and Theodore's older brother, Mean Gene, as mentors.<sup class="fn"><a href="#src-144" data-n="144">144</a></sup> KEXP also hedges: it is "difficult to attribute specific people or dates," and he "might not be the first person" to rock a record back and forth, only the first known to see what it could do.<sup class="fn"><a href="#src-144" data-n="144">144</a></sup></p>
+<p>The dates do not agree across sources. KEXP says 1975 for the discovery and 1977 for the debut.<sup class="fn"><a href="#src-144" data-n="144">144</a></sup> The Vinyl Factory places it in the "early 1980s" and calls it legend.<sup class="fn"><a href="#src-145" data-n="145">145</a></sup> IEEE Spectrum says club DJs developed scratching in the "early 1970s."<sup class="fn"><a href="#src-135" data-n="135">135</a></sup></p>
+<h3 id="is-turntablism-older-than-hip-hop">Is turntablism older than hip-hop?<a class="anchor" href="#is-turntablism-older-than-hip-hop" aria-label="Link to this">#</a></h3>
+<p>Records as instruments go back further. John Cage's Imaginary Landscape No. 1 (1939) used records switched between speeds, Pierre Schaeffer's Etude aux Chemins de Fer (1948) was built from manipulated recordings of steam locomotives, and Cage's 33 1/3 (1969) was written for 12 record players.<sup class="fn"><a href="#src-145" data-n="145">145</a></sup> DMC has run its annual World DJ Championships since 1985, and in 1995 DJ Babu of the Beat Junkies coined the word <strong>turntablism</strong>.<sup class="fn"><a href="#src-145" data-n="145">145</a></sup> Technics dates the concept of turntablism to the 1990s.<sup class="fn"><a href="#src-136" data-n="136">136</a></sup></p>
+<h3 id="how-does-timecode-vinyl-work">How does timecode vinyl work?<a class="anchor" href="#how-does-timecode-vinyl-work" aria-label="Link to this">#</a></h3>
+<p>A <strong>DVS</strong> (digital vinyl system) swaps the music on the record for a control signal. The turntable's output goes into an audio interface or mixer, software reads the signal for speed, direction and position, plays a digital file to match, and sends that audio back to the mixer like any other deck.<sup class="fn"><a href="#src-146" data-n="146">146</a></sup> There is always some latency, and lower is better.<sup class="fn"><a href="#src-146" data-n="146">146</a></sup></p>
+<p>Open-source developers on the Mixxx project have taken the signals apart. Serato's control record carries a 1,000 Hz tone with the right channel shifted a quarter cycle (90 degrees) against the left; comparing the two at each zero crossing tells forward from backward, and counting crossings, 2,000 a second at normal speed, gives speed.<sup class="fn"><a href="#src-147" data-n="147">147</a></sup> In <strong>relative mode</strong> the software uses only speed and direction; in <strong>absolute mode</strong> it also reads where the needle is, so dropping the needle further in jumps the track.<sup class="fn"><a href="#src-147" data-n="147">147</a></sup> Position comes from bits riding on the carrier: Serato uses amplitude modulation and a 20-bit sequence with up to 1,048,575 states, while Traktor's MK2 timecode uses a 2,500 Hz carrier, about 2.5 times Serato's resolution, and a 110-bit sequence.<sup class="fn"><a href="#src-148" data-n="148">148</a></sup> These are reverse-engineered findings, not vendor specs.</p>
+<h3 id="where-did-dvs-come-from">Where did DVS come from?<a class="anchor" href="#where-did-dvs-come-from" aria-label="Link to this">#</a></h3>
+<p>Wikipedia cites Chris Bauer's Spacedeck project, dated 1998, and says Final Scratch, released in 2001, was "the first DVS software sold publicly."<sup class="fn"><a href="#src-146" data-n="146">146</a></sup> Serato began in 1997, when Steve West was at the University of Auckland in New Zealand and wrote a pitch and tempo algorithm, and Serato Scratch Live came out with Rane in 2004.<sup class="fn"><a href="#src-149" data-n="149">149</a></sup> Native Instruments' Traktor Scratch reached stores worldwide in May 2007 at a suggested USD 669 / EUR 599, with a cheaper crossgrade for owners of FinalScratch and Serato Scratch Live.<sup class="fn"><a href="#src-150" data-n="150">150</a></sup> In 2011 the DMC championships began allowing vinyl-emulation systems.<sup class="fn"><a href="#src-145" data-n="145">145</a></sup> For how turntables, CDJs and DVS rigs sit together in a working club booth, see https://showfile.cold.fyi/.</p>
+<h3 id="why-do-djs-still-buy-records">Why do DJs still buy records?<a class="anchor" href="#why-do-djs-still-buy-records" aria-label="Link to this">#</a></h3>
+<p>No survey of why working DJs buy vinyl in 2026 was among the sources, so this answer stays short. What the sources do support: direct-drive decks were built to be handled, pushed and reversed,<sup class="fn"><a href="#src-135" data-n="135">135</a></sup> DVS exists to keep that hand-on-platter control while the music comes from files,<sup class="fn"><a href="#src-146" data-n="146">146</a></sup> and Technics judged demand strong enough to restart production in 2016 and add the MK7 in 2019.<sup class="fn"><a href="#src-143" data-n="143">143</a></sup></p>
+<p>Published sales data is scarce and mostly about hardware. Citing MI Salestrak figures, DJ TechTools reported that turntables took about 14% of US unit sales of DJ technology in May 2016, against 6.3% for CDJs and 42% for controllers.<sup class="fn"><a href="#src-151" data-n="151">151</a></sup> On the record side (see <a href="/money/">what a record costs</a>), Resident Advisor reported in 2023 that pressing costs and plant delays had labels and shops asking whether the dance 12-inch was on the way out; one label cofounder said pressing 300 records had gone from little more than GBP 1,000 to close to GBP 2,000, and 12-inch singles from about GBP 9 to GBP 14.<sup class="fn"><a href="#src-152" data-n="152">152</a></sup></p></article>
+<section class="qa"><h2>Quick answers</h2><dl><dt>Who invented scratching?</dt><dd>Grand Wizzard Theodore in the Bronx is usually credited. KEXP dates his discovery to 1975 and his public debut to 1977, other sources give the early 1980s or early 1970s, and KEXP notes he may not have been the first.</dd><dt>How does Serato timecode vinyl work?</dt><dd>The control record carries a 1,000 Hz tone with the right channel 90 degrees behind the left, which tells the software speed and direction. Position bits on the tone let absolute mode know where the needle is, per open-source developers who reverse-engineered it.</dd></dl></section>
+<p class="fix"><a href="mailto:hello@thirdpolararch.com?subject=groove.cold.fyi%20-%20dj">Spot a mistake in this section? Tell us.</a></p>
+<nav class="pn"><a href="/playing/"><span>Previous track</span>How a turntable plays a record</a><a class="nx" href="/collecting/"><span>Next track</span>Collecting and grading records</a></nav>
+<section class="refs"><h2>Sources for this side</h2><ol><li id="src-135" value="135"><a href="https://spectrum.ieee.org/the-consumer-electronics-hall-of-fame-the-matsushitatechnics-sl1200" rel="noopener" target="_blank">IEEE Spectrum: The Consumer Electronics Hall of Fame: The Matsushita/Technics SL-1200</a></li><li id="src-136" value="136"><a href="https://technics.com/global/home/60th-anniversary/technics-brand-story/history-of-the-sl-1200.html" rel="noopener" target="_blank">Technics: History of the SL-1200</a></li><li id="src-137" value="137"><a href="https://help.na.panasonic.com/wp-content/uploads/2024/11/SL1200MK7_Specifications_US_1.pdf" rel="noopener" target="_blank">Panasonic: SL-1200MK7 Specifications (US)</a></li><li id="src-143" value="143"><a href="https://en.wikipedia.org/wiki/Technics_SL-1200" rel="noopener" target="_blank">Wikipedia: Technics SL-1200</a></li><li id="src-144" value="144"><a href="https://kexp.org/podcasts/50-years-of-hip-hop/2023/2/15/1977-grand-wizzard-theodore-and-the-invention-of-scratching" rel="noopener" target="_blank">KEXP: 1977: Grand Wizzard Theodore and the Invention of Scratching</a></li><li id="src-145" value="145"><a href="https://www.thevinylfactory.com/features/a-brief-history-of-turntablism" rel="noopener" target="_blank">The Vinyl Factory: From John Cage to Kool Herc: A Brief History of Turntablism</a></li><li id="src-146" value="146"><a href="https://en.wikipedia.org/wiki/Vinyl_emulation" rel="noopener" target="_blank">Wikipedia: Vinyl emulation</a></li><li id="src-147" value="147"><a href="https://homepages.rub.de/jan.holthuis/how-does-timecode-vinyl-actually-work-pt-1.html" rel="noopener" target="_blank">Jan Holthuis: How Does Timecode Vinyl Actually Work? (Pt. 1)</a></li><li id="src-148" value="148"><a href="https://mixxx.org/news/2025-08-27-dvs-internals-pt3/" rel="noopener" target="_blank">Mixxx: How Does Timecode Vinyl Actually Work? (Pt. 3)</a></li><li id="src-149" value="149"><a href="https://audioculture.co.nz/articles/serato-the-new-zealand-created-global-standard-in-djing" rel="noopener" target="_blank">AudioCulture: Serato: the New Zealand-created global standard in DJing</a></li><li id="src-150" value="150"><a href="https://sonicstate.com/news/2007/05/03/dj-system-ships/" rel="noopener" target="_blank">Sonicstate: Native Instruments Traktor Scratch ships (2007-05-03)</a></li><li id="src-151" value="151"><a href="https://djtechtools.com/2016/07/27/are-dj-turntables-outselling-cdjs" rel="noopener" target="_blank">DJ TechTools (Dan White): Are DJ Turntables Outselling CDJs? (2016-07-27)</a></li><li id="src-152" value="152"><a href="https://ra.co/news/78699" rel="noopener" target="_blank">Resident Advisor (Michael Lawson): &#x27;It&#x27;s becoming harder and harder&#x27;: Is the dance music 12-inch on the way out? (2023-04-17)</a></li></ol></section>
+</main></div><footer class="foot"><div class="foot-in"><p class="k">More deep dives from cold.fyi</p><ul class="sis"><li><a href="https://polo.cold.fyi/">Polo</a> <span>- how Coachella works</span></li><li><a href="https://wristband.cold.fyi/">The Wristband</a> <span>- how music festivals work</span></li><li><a href="https://lastcall.cold.fyi/">Last Call</a> <span>- how nightlife works</span></li><li><a href="https://noise.cold.fyi/">The Noise</a> <span>- every sound in a city</span></li><li><a href="https://showfile.cold.fyi/">The Show File</a> <span>- how a dance music show is made</span></li><li><a href="https://tickets.cold.fyi/">The Ticket</a> <span>- how a concert ticket gets from artist to fan</span></li><li><a href="https://airwaves.cold.fyi/">The Airwaves</a> <span>- every radio signal over a city</span></li><li><a href="https://streetcode.cold.fyi/">Street Code</a> <span>- every mark on the street</span></li><li><a href="https://works.cold.fyi/">How a City Works</a> <span>- the systems under every street</span></li><li><a href="https://penamnesty.cold.fyi/">The Pens Went Away</a> <span>- pharma swag</span></li></ul>
+<p>made with &lt;3 in boston · <a href="https://thirdpolararch.com">Third Polar Arch</a> · Independent. Not affiliated with any label, pressing plant, store or brand named here.
+<a href="/corrections/">Corrections</a> · <a href="/sources/">All 200 sources</a> · <a href="/llms.txt">llms.txt</a> · <a href="mailto:hello@thirdpolararch.com?subject=groove.cold.fyi">hello@thirdpolararch.com</a></p></div></footer>
+<script>(function () {
+  "use strict";
+  var $ = function (id) { return document.getElementById(id); };
+  var all = function (sel, root) { return [].slice.call((root || document).querySelectorAll(sel)); };
+  var norm = function (s) { return (s || "").normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase(); };
+  function readJSON(id) { try { return JSON.parse($(id).textContent); } catch (e) { return null; } }
+  function store(k, v) { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch (e) { return null; } }
+
+  /* theme: system by default, remembered per viewer */
+  var tb = $("theme-btn"), root = document.documentElement;
+  function isDark() { var t = root.dataset.theme; return t ? t === "dark" : window.matchMedia("(prefers-color-scheme: dark)").matches; }
+  function label() { if (tb) tb.textContent = isDark() ? "Sleeve" : "Wax"; }
+  if (tb) { label(); tb.addEventListener("click", function () { var n = isDark() ? "light" : "dark"; root.dataset.theme = n; store("groove-theme", n); label(); }); }
+
+  /* reading progress */
+  var pr = $("progress");
+  if (pr) window.addEventListener("scroll", function () {
+    var h = document.documentElement, max = h.scrollHeight - h.clientHeight;
+    pr.style.width = (max > 0 ? (h.scrollTop / max) * 100 : 0) + "%";
+  }, { passive: true });
+
+  /* footnotes: hover or focus shows the source title */
+  all("sup.fn a").forEach(function (a) {
+    var li = $("src-" + a.dataset.n); if (li) a.title = li.textContent.trim();
+  });
+
+  /* chip groups + search filter helper */
+  function filter(input, chipsSel, items, attrS, attrK) {
+    var q = $(input), k = "", chips = all(chipsSel);
+    function go() {
+      var t = norm(q ? q.value.trim() : ""), n = 0;
+      items.forEach(function (el) {
+        var m = (!t || norm(el.dataset[attrS] || el.textContent).indexOf(t) > -1) && (!k || el.dataset[attrK] === k);
+        el.classList.toggle("hide", !m); if (m) n++;
+      });
+      return n;
+    }
+    chips.forEach(function (b) { b.addEventListener("click", function () { k = b.dataset[attrK]; chips.forEach(function (x) { x.setAttribute("aria-pressed", x === b ? "true" : "false"); }); after(go()); }); });
+    var cnt = null, after = function (n) { if (cnt) cnt.textContent = n + " of " + items.length; };
+    if (q) q.addEventListener("input", function () { after(go()); });
+    return function (c) { cnt = c; after(go()); };
+  }
+  var dl = all("#dc-list tr");
+  if (dl.length) filter("dc-q", "#decoder .chips button", dl, "s", "k")($("dc-cnt"));
+  var gl = all("#gl-list li");
+  if (gl.length) filter("gl-q", "#glossary .chips button", gl, "s", "x")(null);
+  var tl = all("#tl-list li");
+  if (tl.length) filter(null, "#timeline .chips button", tl, "s", "era")(null);
+
+  /* side-length check */
+  var sd = readJSON("st-data"), sf = $("st-f"), sm = $("st-m"), so = $("st-out");
+  function side() {
+    if (!sd || !sf) return;
+    var r = sd.filter(function (x) { return x.id === sf.value; })[0], m = parseFloat(sm.value);
+    if (!r || !(m > 0)) { so.textContent = ""; return; }
+    var msg;
+    if (m <= r.comfortable) msg = "<b>Fits comfortably.</b> " + r.label + " is good for about " + r.comfortable + " minutes a side at full level.";
+    else if (m <= r.max) msg = "<b>Fits, with trade-offs.</b> Past about " + r.comfortable + " minutes the cut gets quieter and the bass gets reined in; " + r.max + " minutes is about the practical ceiling.";
+    else msg = "<b>Too long for one side.</b> The cited ceiling for " + r.label + " is about " + r.max + " minutes. Split it across sides, drop to 33⅓, or go up a size.";
+    so.innerHTML = msg + (r.source ? ' <a class="s" href="' + r.source + '" target="_blank" rel="noopener">source</a>' : "");
+  }
+  if (sf) { sf.addEventListener("change", side); sm.addEventListener("input", side); side(); }
+
+  /* quiz */
+  var qd = readJSON("quiz-data"), qz = $("quiz");
+  if (qd && qz) {
+    var score = 0, done = 0;
+    qd.forEach(function (q, i) {
+      var d = document.createElement("div"); d.className = "q";
+      d.innerHTML = "<p><b>" + (i + 1) + ".</b> " + q.q.replace(/</g, "&lt;") + "</p>";
+      q.options.forEach(function (o, j) {
+        var b = document.createElement("button"); b.type = "button"; b.textContent = o;
+        b.addEventListener("click", function () {
+          if (d.dataset.done) return; d.dataset.done = 1; done++;
+          if (j === q.answer) { score++; b.classList.add("right"); } else { b.classList.add("wrong"); d.querySelectorAll("button")[q.answer].classList.add("right"); }
+          var w = document.createElement("p"); w.className = "why";
+          w.innerHTML = q.why.replace(/</g, "&lt;") + (q.section ? ' <a href="/' + q.section + '/">Read more</a>' : "") + (done === qd.length ? " <b>Score: " + score + " of " + qd.length + ".</b>" : "");
+          d.appendChild(w);
+        });
+        d.appendChild(b);
+      });
+      qz.appendChild(d);
+    });
+  }
+})();
+</script></body></html>

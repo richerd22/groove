@@ -1,0 +1,128 @@
+[
+ {
+  "term": "Dead wax",
+  "definition": "The smooth band between the last groove and the label, also called the runout or matrix area, where codes are stamped or etched.",
+  "section": "runout",
+  "source_url": "https://en.wikipedia.org/wiki/Dead_wax"
+ },
+ {
+  "term": "Matrix number",
+  "definition": "The per-side production code in the dead wax that files the stamper and ties it to the right label.",
+  "section": "runout",
+  "source_url": "https://en.wikipedia.org/wiki/Dead_wax"
+ },
+ {
+  "term": "Catalog number",
+  "definition": "The release's number, usually the same on both labels; unlike the matrix number it does not change from side to side.",
+  "section": "runout",
+  "source_url": "https://en.wikipedia.org/wiki/Dead_wax"
+ },
+ {
+  "term": "Cut number",
+  "definition": "The suffix after the dash showing which cut of a side this is, such as -1 or -2.",
+  "section": "runout",
+  "source_url": "https://en.wikipedia.org/wiki/Dead_wax"
+ },
+ {
+  "term": "Stamper code",
+  "definition": "Letters or numbers showing which stamper pressed the copy, such as EMI's GRAMOPHLTD and Decca's BUCKINGHAM ciphers.",
+  "section": "runout",
+  "source_url": "https://pspatialaudio.com/deadwax.htm"
+ },
+ {
+  "term": "Mother number",
+  "definition": "The code showing which mother (the positive metal part) a stamper was made from.",
+  "section": "runout",
+  "source_url": "https://pspatialaudio.com/deadwax.htm"
+ },
+ {
+  "term": "Etched vs stamped",
+  "definition": "Hand-scribed into the lacquer vs machine-punched; Discogs asks that the difference go in notes.",
+  "section": "runout",
+  "source_url": "https://support.discogs.com/hc/articles/360005054893-Database-Guidelines-5-Barcodes-Identifiers"
+ },
+ {
+  "term": "Delta number",
+  "definition": "A triangle plus five digits: a job code used by Monarch and other plants, not proof of one plant.",
+  "section": "runout",
+  "source_url": "https://melrose8481.squarespace.com/runouts-basics"
+ },
+ {
+  "term": "Pressing ring",
+  "definition": "The circular indent on the label left by the press; its diameter can point to a plant.",
+  "section": "runout",
+  "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
+ },
+ {
+  "term": "DMM",
+  "definition": "Direct Metal Mastering: cutting straight into a copper-plated master instead of a lacquer.",
+  "section": "runout",
+  "source_url": "https://en.wikipedia.org/wiki/Direct_metal_mastering"
+ },
+ {
+  "term": "Porky Prime Cut",
+  "definition": "The runout signature of UK cutting engineer George Peckham.",
+  "section": "runout",
+  "source_url": "https://www.soundandvision.com/content/porkys-prime-cuts"
+ },
+ {
+  "term": "IAM triangle",
+  "definition": "A triangle with IAM inside, marking Capitol's Scranton plant about 1963-1973.",
+  "section": "runout",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
+ },
+ {
+  "term": "RE",
+  "definition": "A repress marker on some matrices.",
+  "section": "runout",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
+ },
+ {
+  "term": "Mastering SID / Mould SID",
+  "definition": "Source codes on CDs: an L-code added at glass mastering and an IFPI code added at pressing.",
+  "section": "runout",
+  "source_url": "https://support.discogs.com/hc/articles/360005054893-Database-Guidelines-5-Barcodes-Identifiers"
+ },
+ {
+  "term": "First pressing",
+  "definition": "Copies from the first production run; matrix data alone does not prove it.",
+  "section": "collecting",
+  "source_url": "https://en.wikipedia.org/wiki/Dead_wax"
+ },
+ {
+  "term": "Goldmine standard",
+  "definition": "The grading scale used mostly by US sellers and Discogs: M, NM, VG+, VG, G+, G, F, P.",
+  "section": "collecting",
+  "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/record-collectors-goldmine-what-are-the-differences-between-the-vinyl-record-grading-scales"
+ },
+ {
+  "term": "Near Mint (NM)",
+  "definition": "As summarized by Jazz Collector, a nearly perfect record with no obvious wear.",
+  "section": "collecting",
+  "source_url": "https://jazzcollector.com/features/grading-records/"
+ },
+ {
+  "term": "Very Good Plus (VG+)",
+  "definition": "As summarized by Jazz Collector, a record showing signs of careful play and slight wear.",
+  "section": "collecting",
+  "source_url": "https://jazzcollector.com/features/grading-records/"
+ },
+ {
+  "term": "Record Collector scale",
+  "definition": "The UK grading scale, which includes Excellent at roughly Goldmine VG+.",
+  "section": "collecting",
+  "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/record-collectors-goldmine-what-are-the-differences-between-the-vinyl-record-grading-scales"
+ },
+ {
+  "term": "Record Store Day",
+  "definition": "An annual day of shop-only limited releases, first held April 19, 2008.",
+  "section": "collecting",
+  "source_url": "https://www.recordstoreday.co.uk/about"
+ },
+ {
+  "term": "Discogs",
+  "definition": "A user-built music database and marketplace launched in November 2000.",
+  "section": "collecting",
+  "source_url": "https://en.wikipedia.org/wiki/Discogs"
+ }
+]

@@ -1,0 +1,793 @@
+[
+ {
+  "marking": "Porky / A Porky Prime Cut",
+  "meaning": "George Peckham, a UK cutting engineer who began at Apple in London in 1968.",
+  "kind": "Engineer",
+  "example": "A Porky Prime Cut",
+  "source_url": "https://www.soundandvision.com/content/porkys-prime-cuts"
+ },
+ {
+  "marking": "Pecko Duck, Delta Pork, Pecko's Delta, Porky Pecko",
+  "meaning": "Variant signatures of George Peckham.",
+  "kind": "Engineer",
+  "source_url": "https://www.soundandvision.com/content/porkys-prime-cuts"
+ },
+ {
+  "marking": "GP",
+  "meaning": "Listed by one collector as George Peckham; the same collector later read AT/GP as George Piros, so check the context.",
+  "kind": "Engineer",
+  "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
+ },
+ {
+  "marking": "AT/GP",
+  "meaning": "George Piros at Atlantic Studios, New York (a reader correction adopted by the collector who lists it).",
+  "kind": "Engineer",
+  "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
+ },
+ {
+  "marking": "P + number (e.g. P13, P17)",
+  "meaning": "George Piros at Fine Recording; the number names a specific lathe and cutter-head combination.",
+  "kind": "Engineer",
+  "example": "P13",
+  "source_url": "https://cool.culturalheritage.org/byform/mailing-lists/arsclist/2007/07/msg00079.html"
+ },
+ {
+  "marking": "JJ",
+  "meaning": "John Johnson, Fine Recording era.",
+  "kind": "Engineer",
+  "source_url": "https://cool.culturalheritage.org/byform/mailing-lists/arsclist/2007/07/msg00079.html"
+ },
+ {
+  "marking": "RL",
+  "meaning": "Robert (Bob) Ludwig, mastering engineer.",
+  "kind": "Engineer",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
+ },
+ {
+  "marking": "BG",
+  "meaning": "Bernie Grundman, mastering engineer.",
+  "kind": "Engineer",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
+ },
+ {
+  "marking": "KG",
+  "meaning": "Kevin Gray, mastering engineer.",
+  "kind": "Engineer",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
+ },
+ {
+  "marking": "CB",
+  "meaning": "Chris Bellman; the mark is tiny and easy to misread.",
+  "kind": "Engineer",
+  "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
+ },
+ {
+  "marking": "GC / STERLING GC",
+  "meaning": "Greg Calbi, mastering engineer.",
+  "kind": "Engineer",
+  "example": "STERLING GC",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
+ },
+ {
+  "marking": "HW",
+  "meaning": "Howie Weinberg at Masterdisk.",
+  "kind": "Engineer",
+  "source_url": "https://www.vovyl.com/blog/a-collectors-guide-to-american-vinyl-lp-pressings"
+ },
+ {
+  "marking": "GK",
+  "meaning": "Gilbert Kong at Masterdisk.",
+  "kind": "Engineer",
+  "source_url": "https://www.vovyl.com/blog/a-collectors-guide-to-american-vinyl-lp-pressings"
+ },
+ {
+  "marking": "LH",
+  "meaning": "Lee Hulko, co-founder of Sterling Sound.",
+  "kind": "Engineer",
+  "source_url": "https://www.vovyl.com/blog/a-collectors-guide-to-american-vinyl-lp-pressings"
+ },
+ {
+  "marking": "TJ",
+  "meaning": "Ted Jensen at Sterling Sound.",
+  "kind": "Engineer",
+  "source_url": "https://www.vovyl.com/blog/a-collectors-guide-to-american-vinyl-lp-pressings"
+ },
+ {
+  "marking": "RKS",
+  "meaning": "Ryan K. Smith at Sterling Sound.",
+  "kind": "Engineer",
+  "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
+ },
+ {
+  "marking": "BK",
+  "meaning": "Bill Kipper, mastering engineer.",
+  "kind": "Engineer",
+  "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
+ },
+ {
+  "marking": "RJ",
+  "meaning": "Ray Janos, mastering engineer.",
+  "kind": "Engineer",
+  "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
+ },
+ {
+  "marking": "Wally",
+  "meaning": "Wally Traugott, mastering engineer.",
+  "kind": "Engineer",
+  "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
+ },
+ {
+  "marking": "RVG / VAN GELDER",
+  "meaning": "Rudy Van Gelder, on classic jazz cuts.",
+  "kind": "Engineer",
+  "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
+ },
+ {
+  "marking": "f (at right)",
+  "meaning": "Sam Feldman at Bell Sound, per one collector's photo caption.",
+  "kind": "Engineer",
+  "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
+ },
+ {
+  "marking": "Bird wings (sometimes a small flower)",
+  "meaning": "Brian Gardner at Allen Zentz Mastering.",
+  "kind": "Engineer",
+  "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
+ },
+ {
+  "marking": "Eyebrows",
+  "meaning": "David Turner, cutting engineer.",
+  "kind": "Engineer",
+  "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
+ },
+ {
+  "marking": "¢ (cent sign)",
+  "meaning": "Tom Coyne; the cent sign is a pun on his name.",
+  "kind": "Engineer",
+  "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/what-do-the-etchings-at-the-end-of-a-record-mean"
+ },
+ {
+  "marking": "MILES",
+  "meaning": "Miles Showell, cutting engineer.",
+  "kind": "Engineer",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
+ },
+ {
+  "marking": "ØPHASE",
+  "meaning": "Ashley Burchett, cutting engineer.",
+  "kind": "Engineer",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
+ },
+ {
+  "marking": "HTM",
+  "meaning": "Harry T. Moss at EMI and Abbey Road.",
+  "kind": "Engineer",
+  "example": "Revolver; The Dark Side of the Moon",
+  "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/what-do-the-etchings-at-the-end-of-a-record-mean"
+ },
+ {
+  "marking": "BLAIR, BLAIR'S, BL△IR",
+  "meaning": "Chris Blair at Abbey Road.",
+  "kind": "Engineer",
+  "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/what-do-the-etchings-at-the-end-of-a-record-mean"
+ },
+ {
+  "marking": "Bilbo / \"Bilbo Ta1pe\" variants",
+  "meaning": "Denis Blackham, cutting engineer.",
+  "kind": "Engineer",
+  "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/what-do-the-etchings-at-the-end-of-a-record-mean"
+ },
+ {
+  "marking": "Boppin' Bob",
+  "meaning": "John Robert Jones, at Decca and then Discos Columbia in Madrid, 1968-1975.",
+  "kind": "Engineer",
+  "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/what-do-the-etchings-at-the-end-of-a-record-mean"
+ },
+ {
+  "marking": "Cookie",
+  "meaning": "Ian Cooper, at Pye and Utopia and later an independent DMM room.",
+  "kind": "Engineer",
+  "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/what-do-the-etchings-at-the-end-of-a-record-mean"
+ },
+ {
+  "marking": "MATT'S",
+  "meaning": "Matt Colton, who has cut at Porky's, Alchemy and AIR.",
+  "kind": "Engineer",
+  "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/what-do-the-etchings-at-the-end-of-a-record-mean"
+ },
+ {
+  "marking": "A (Decca example)",
+  "meaning": "Guy Fletcher, shown by an engineer letter suffix in a Decca example.",
+  "kind": "Engineer",
+  "source_url": "https://pspatialaudio.com/deadwax.htm"
+ },
+ {
+  "marking": "Letter after cut number (e.g. -1R)",
+  "meaning": "Identifies the mastering engineer at that firm.",
+  "kind": "Code",
+  "example": "AM 438-1R",
+  "source_url": "https://pspatialaudio.com/deadwax.htm"
+ },
+ {
+  "marking": "STERLING (stamped or etched), SS (small)",
+  "meaning": "Sterling Sound, New York mastering house.",
+  "kind": "Mastering house",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
+ },
+ {
+  "marking": "\"Mastered by MasterDisc\" stamp",
+  "meaning": "Masterdisk, New York, a variant imprint of the house name.",
+  "kind": "Mastering house",
+  "source_url": "https://cool.culturalheritage.org/byform/mailing-lists/arsclist/2007/07/msg00079.html"
+ },
+ {
+  "marking": "Two rings with a gauge forming an \"A\"; drum and two sticks; compass forming \"A\"",
+  "meaning": "Artisan Sound Recorders, Los Angeles; sources describe its logo in different ways.",
+  "kind": "Mastering house",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
+ },
+ {
+  "marking": "AZ",
+  "meaning": "Allen Zentz Mastering.",
+  "kind": "Mastering house",
+  "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
+ },
+ {
+  "marking": "TOWNHOUSE",
+  "meaning": "Townhouse Studios, London.",
+  "kind": "Mastering house",
+  "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/what-do-the-etchings-at-the-end-of-a-record-mean"
+ },
+ {
+  "marking": "STRAWBERRY",
+  "meaning": "Strawberry Mastering, London.",
+  "kind": "Mastering house",
+  "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/what-do-the-etchings-at-the-end-of-a-record-mean"
+ },
+ {
+  "marking": "SST",
+  "meaning": "Schallplatten Schneid Technik Brüggemann, a German lacquer-cutting house (not a pressing plant).",
+  "kind": "Mastering house",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "380",
+  "meaning": "Lacquer cut by Philips in France.",
+  "kind": "Mastering house",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "SLM (stamp/etch)",
+  "meaning": "Sheffield Lab Matrix; lacquers plated there 1979-1984.",
+  "kind": "Pressing plant",
+  "source_url": "https://melrose8481.squarespace.com/runouts-basics"
+ },
+ {
+  "marking": "DMM",
+  "meaning": "Direct Metal Mastering: cut into a copper-plated master instead of a lacquer.",
+  "kind": "Format/process",
+  "source_url": "https://en.wikipedia.org/wiki/Direct_metal_mastering"
+ },
+ {
+  "marking": "Triangle (78 era)",
+  "meaning": "Western Electric (Westrex) moving-iron cutting system.",
+  "kind": "Format/process",
+  "source_url": "https://pspatialaudio.com/deadwax.htm"
+ },
+ {
+  "marking": "Square (78 era)",
+  "meaning": "Blumlein moving-coil cutter.",
+  "kind": "Format/process",
+  "source_url": "https://pspatialaudio.com/deadwax.htm"
+ },
+ {
+  "marking": "U (East German labels, 1980s)",
+  "meaning": "UC noise-reduction encoding, per Wikipedia.",
+  "kind": "Format/process",
+  "source_url": "https://en.wikipedia.org/wiki/Dead_wax"
+ },
+ {
+  "marking": "IAM in a triangle",
+  "meaning": "Capitol's Scranton, Pennsylvania plant, about 1963-1973; IAM is the International Association of Machinists, the union.",
+  "kind": "Pressing plant",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
+ },
+ {
+  "marking": "Rifle / arrow / \"wine glass\" (·─◁, ---<)",
+  "meaning": "Capitol's Winchester, Virginia plant.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "WW",
+  "meaning": "Capitol Winchester on Warner Bros. releases.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "Five- or six-point star",
+  "meaning": "Capitol's Los Angeles plant.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "LW",
+  "meaning": "Capitol Los Angeles on Warner Bros. releases.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "0 (stamped or etched)",
+  "meaning": "Capitol's Jacksonville, Illinois plant.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "P (small, faint, stamped) / CP / CP-1, CP-2",
+  "meaning": "Columbia's Pitman, New Jersey plant.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.analogplanet.com/node/120712"
+ },
+ {
+  "marking": "CT, CTH",
+  "meaning": "Columbia's Terre Haute, Indiana plant.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.analogplanet.com/node/120712"
+ },
+ {
+  "marking": "S, SI, SII, CS, CSM",
+  "meaning": "Columbia's Santa Maria, California plant.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.analogplanet.com/node/120712"
+ },
+ {
+  "marking": "Label plant numbers 56 / 73 / 25 (1979)",
+  "meaning": "Columbia Pitman / Terre Haute / Santa Maria, printed on the label.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "H (stamped)",
+  "meaning": "RCA's Hollywood, California plant.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.elvisrecords.com/pressing-plants"
+ },
+ {
+  "marking": "I (stamped)",
+  "meaning": "RCA's Indianapolis, Indiana plant.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.elvisrecords.com/pressing-plants"
+ },
+ {
+  "marking": "R (stamped)",
+  "meaning": "RCA's Rockaway, New Jersey plant.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.elvisrecords.com/pressing-plants"
+ },
+ {
+  "marking": "SRC logo (large S, small R and C)",
+  "meaning": "Specialty Records Corporation, Olyphant, Pennsylvania.",
+  "kind": "Pressing plant",
+  "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
+ },
+ {
+  "marking": "SP",
+  "meaning": "Specialty Records.",
+  "kind": "Pressing plant",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
+ },
+ {
+  "marking": "K-###",
+  "meaning": "Allied Record Company, Los Angeles, per one source; another describes Allied's mark as a Q-shaped stamp.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "Q-shaped stamp",
+  "meaning": "Allied Records, Hollywood, per one collector; another source lists Allied as K-###.",
+  "kind": "Pressing plant",
+  "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
+ },
+ {
+  "marking": "MR in a circle (stamped, sometimes reversed; etched after 1985)",
+  "meaning": "Monarch Record Mfg. Co., Los Angeles.",
+  "kind": "Pressing plant",
+  "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
+ },
+ {
+  "marking": "△ + five digits (delta number)",
+  "meaning": "A job code used by Monarch and other plants; not proof of Monarch by itself.",
+  "kind": "Code",
+  "example": "△12345",
+  "source_url": "https://melrose8481.squarespace.com/runouts-basics"
+ },
+ {
+  "marking": "ALCO (A, L, C inside an O)",
+  "meaning": "Alco Research and Engineering, Los Angeles.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "PR / PRC",
+  "meaning": "PRC, Richmond, Indiana.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "U in a circle / URP",
+  "meaning": "United Record Pressing, Nashville.",
+  "kind": "Pressing plant",
+  "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
+ },
+ {
+  "marking": "AB (hand-etched near 12 o'clock)",
+  "meaning": "Abbey Manufacturing, East Newark, New Jersey.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.vovyl.com/blog/a-collectors-guide-to-american-vinyl-lp-pressings"
+ },
+ {
+  "marking": "⧈-G-⧈",
+  "meaning": "MCA's Gloversville, New York plant.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "◈-P-◈",
+  "meaning": "MCA's Pinckneyville, Illinois plant.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "Block S (faint)",
+  "meaning": "MGM's Bloomfield, New Jersey plant.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "SMK / SMI",
+  "meaning": "Sound Makers, Westville, New Jersey.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "5 + \"Nashville Matrix\"",
+  "meaning": "Southern Plastics, Nashville.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "Bestway",
+  "meaning": "Bestway Products, Mountainside, New Jersey.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "=1 (inverted 1) and ▽",
+  "meaning": "Optimal Media, Röbel, Germany.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "P USA",
+  "meaning": "Pallas (Germany) pressing for US export.",
+  "kind": "Pressing plant",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
+ },
+ {
+  "marking": "-#####- (four or five digits in hyphens)",
+  "meaning": "Pallas, Diepholz, Germany.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "3-digit date + F-####",
+  "meaning": "Sonopress, Gütersloh, Germany; the first three digits are a date.",
+  "kind": "Pressing plant",
+  "example": "107 F-2654 = July 1991",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "Manufactured In Germany (stamped)",
+  "meaning": "Teldec-Press, Nortorf, Germany.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "MP / MPO",
+  "meaning": "MPO, France.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "M3 + six digits",
+  "meaning": "Pathé Marconi, Chatou, France; 3 marks a 7-inch and 1 a 12-inch.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "DM",
+  "meaning": "Columbia's Don Mills, Ontario plant.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "Small odd Q",
+  "meaning": "Quality Records, Toronto.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "✱ (six-point asterisk)",
+  "meaning": "Audio Services, Wednesbury, UK.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "Orlake / OR / O",
+  "meaning": "Orlake Records, Dagenham, UK (early 1970s).",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "G-code at 3 o'clock, mother number at 9",
+  "meaning": "EMI Hayes, UK; the stamper letters use the GRAMOPHLTD cipher (G=1 ... D=0).",
+  "kind": "Code",
+  "example": "GG = 11th stamper",
+  "source_url": "https://pspatialaudio.com/deadwax.htm"
+ },
+ {
+  "marking": "KT at 12 o'clock",
+  "meaning": "A Gramophone Co. tax code.",
+  "kind": "Code",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "Letters at 3 o'clock (BUCKINGHAM cipher)",
+  "meaning": "Decca UK stamper number, coded B=1, U=2 ... M=0.",
+  "kind": "Code",
+  "example": "NN = 66th stamper",
+  "source_url": "https://pspatialaudio.com/deadwax.htm"
+ },
+ {
+  "marking": "OI_7261_IA_I",
+  "meaning": "CBS Haarlem, Netherlands (1977-1987) matrix style.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "####-AO",
+  "meaning": "Discos CBS, Madrid.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "LP + date",
+  "meaning": "Ljudpress, Östersund, Sweden.",
+  "kind": "Pressing plant",
+  "example": "LP 910207",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "710",
+  "meaning": "Musikkindustri, Oslo.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "CGD triangle logo",
+  "meaning": "CGD, Milan.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "Matrix at 12, stamper at 3, mother letter at 9",
+  "meaning": "CBS Aston Clinton (Aylesbury, UK) layout.",
+  "kind": "Code",
+  "source_url": "https://www.home.zappafrenzy.com/?p=18842"
+ },
+ {
+  "marking": "ST / MO prefix",
+  "meaning": "Stereo / mono (example given for Atlantic), per a shop blog.",
+  "kind": "Format/process",
+  "source_url": "https://musicrecordshop.com/blogs/news/how-to-identify-a-vinyl-pressing"
+ },
+ {
+  "marking": "YEX, YAX / XEX",
+  "meaning": "EMI lacquer prefixes: YEX and YAX usually stereo, XEX usually mono, per a shop blog.",
+  "kind": "Format/process",
+  "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/what-are-matrix-codes-and-what-do-they-mean"
+ },
+ {
+  "marking": "A1 B1 (also A//1 B//1, A-1 B-1)",
+  "meaning": "Often a first-press code, per a UK shop blog; not proof on its own.",
+  "kind": "Code",
+  "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/what-are-matrix-codes-and-what-do-they-mean"
+ },
+ {
+  "marking": "1Y//1 2Y//1",
+  "meaning": "Often an early pressing, per a UK shop blog.",
+  "kind": "Code",
+  "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/what-are-matrix-codes-and-what-do-they-mean"
+ },
+ {
+  "marking": "-1A",
+  "meaning": "Typically a first pressing, side A, per Vinyl Me, Please; not proof on its own.",
+  "kind": "Code",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
+ },
+ {
+  "marking": "RE",
+  "meaning": "A repressing, per this guide. RE can also be initials, such as Rick Essig at Frankford/Wayne (listed separately), so read it in context.",
+  "kind": "Code",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
+ },
+ {
+  "marking": "Dash number (e.g. -1, -2, -3)",
+  "meaning": "Which cut of that side; a new mix or take moves it up.",
+  "kind": "Code",
+  "example": "X-1234-B7 = cut 7",
+  "source_url": "https://en.wikipedia.org/wiki/Dead_wax"
+ },
+ {
+  "marking": "1A to 1F (Columbia)",
+  "meaning": "Six first-cut lacquer sets, two each for Pitman, Terre Haute and Santa Maria; A is not earlier than F.",
+  "kind": "Code",
+  "source_url": "https://www.analogplanet.com/node/120712"
+ },
+ {
+  "marking": "S-T-E-R-E-O / STEREO stamp",
+  "meaning": "Contemporary Records stereo lacquers, 1958-1961.",
+  "kind": "Format/process",
+  "source_url": "https://melrose8481.squarespace.com/runouts-basics"
+ },
+ {
+  "marking": "Raised Roman I",
+  "meaning": "First take of the recording (Decca example).",
+  "kind": "Code",
+  "source_url": "https://pspatialaudio.com/deadwax.htm"
+ },
+ {
+  "marking": "Embossed vs carved code",
+  "meaning": "Raised (embossed) codes come from the stamper; carved ones from the lacquer or mother.",
+  "kind": "Code",
+  "source_url": "https://pspatialaudio.com/deadwax.htm"
+ },
+ {
+  "marking": "L-prefixed code (CDs)",
+  "meaning": "Mastering SID, added at glass mastering.",
+  "kind": "Code",
+  "source_url": "https://support.discogs.com/hc/articles/360005054893-Database-Guidelines-5-Barcodes-Identifiers"
+ },
+ {
+  "marking": "IFPI + four or five characters (CDs)",
+  "meaning": "Mould SID, added at pressing.",
+  "kind": "Code",
+  "source_url": "https://support.discogs.com/hc/articles/360005054893-Database-Guidelines-5-Barcodes-Identifiers"
+ },
+ {
+  "marking": "LC + four or five digits",
+  "meaning": "A GVL label code, not a matrix or catalog number.",
+  "kind": "Code",
+  "source_url": "https://support.discogs.com/hc/articles/360005054893-Database-Guidelines-5-Barcodes-Identifiers"
+ },
+ {
+  "marking": "Do What Thou Wilt Shall Be The Whole Of The Law",
+  "meaning": "On some copies of Led Zeppelin's \"Immigrant Song\" single; believed requested by the band.",
+  "kind": "Message",
+  "source_url": "https://en.wikipedia.org/wiki/Dead_wax"
+ },
+ {
+  "marking": "We Love You A.L.K.",
+  "meaning": "U2, Rattle and Hum (1988), for production manager Anne Louise Kelly.",
+  "kind": "Message",
+  "source_url": "https://en.wikipedia.org/wiki/Dead_wax"
+ },
+ {
+  "marking": "CALL THE COPS",
+  "meaning": "Happy Mondays, Pills 'n' Thrills and Bellyaches, on most US CDs.",
+  "kind": "Message",
+  "source_url": "https://en.wikipedia.org/wiki/Dead_wax"
+ },
+ {
+  "marking": "Contest message with phone number",
+  "meaning": "Elvis Costello, This Year's Model, UK (1978).",
+  "kind": "Message",
+  "source_url": "https://en.wikipedia.org/wiki/Dead_wax"
+ },
+ {
+  "marking": "Goodbye Waterface",
+  "meaning": "Neil Young, Tonight's the Night.",
+  "kind": "Message",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
+ },
+ {
+  "marking": "Recorded at Home (ornate)",
+  "meaning": "Emitt Rhodes, Emitt Rhodes.",
+  "kind": "Message",
+  "source_url": "https://en.wikipedia.org/wiki/Dead_wax"
+ },
+ {
+  "marking": "Label messages on every release",
+  "meaning": "Third Man Records puts runout messages on all its releases.",
+  "kind": "Message",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
+ },
+ {
+  "marking": "SH",
+  "meaning": "Scott Hull at Masterdisk.",
+  "kind": "Engineer",
+  "source_url": "https://www.discogs.com/label/264111-Masterdisk"
+ },
+ {
+  "marking": "cg / C.G.",
+  "meaning": "Chris Gehringer at Frankford/Wayne.",
+  "kind": "Engineer",
+  "source_url": "https://www.discogs.com/label/199325-FrankfordWayne-Mastering-Labs"
+ },
+ {
+  "marking": "GV, G.S.V.",
+  "meaning": "Greg Vaughn at Frankford/Wayne.",
+  "kind": "Engineer",
+  "source_url": "https://www.discogs.com/label/199325-FrankfordWayne-Mastering-Labs"
+ },
+ {
+  "marking": "JMS, MJS, MS",
+  "meaning": "Michael Sarsfield at Frankford/Wayne.",
+  "kind": "Engineer",
+  "source_url": "https://www.discogs.com/label/199325-FrankfordWayne-Mastering-Labs"
+ },
+ {
+  "marking": "CSB, C.B.",
+  "meaning": "Carlton Batts at Frankford/Wayne (1984-1993).",
+  "kind": "Engineer",
+  "source_url": "https://www.discogs.com/label/199325-FrankfordWayne-Mastering-Labs"
+ },
+ {
+  "marking": "RCE, R.C.E., RE (Frankford/Wayne)",
+  "meaning": "Rick Essig at Frankford/Wayne.",
+  "kind": "Engineer",
+  "source_url": "https://www.discogs.com/label/199325-FrankfordWayne-Mastering-Labs"
+ },
+ {
+  "marking": "SJR, Stu",
+  "meaning": "Stuart J. Romaine at Frankford/Wayne.",
+  "kind": "Engineer",
+  "source_url": "https://www.discogs.com/label/199325-FrankfordWayne-Mastering-Labs"
+ },
+ {
+  "marking": "MASTERDISK (stamped)",
+  "meaning": "Masterdisk, New York (name since 1973, formerly Mercury Records Mastering); lacquer cut there.",
+  "kind": "Mastering house",
+  "source_url": "https://www.discogs.com/label/264111-Masterdisk"
+ },
+ {
+  "marking": "MASTERING BY FRANKFORD/WAYNE NEW YORK, F/W + apple",
+  "meaning": "Frankford/Wayne Mastering Labs, New York (1973 to April 2008); the apple can look like \"C5\".",
+  "kind": "Mastering house",
+  "source_url": "https://www.discogs.com/label/199325-FrankfordWayne-Mastering-Labs"
+ },
+ {
+  "marking": "SPAR / SP-AL + B-#####",
+  "meaning": "Plated at Specialty, pressed at Allied.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.discogs.com/label/27576-Specialty-Records-Corporation"
+ },
+ {
+  "marking": "SPGER, SPENG, SPAUS, SPCAN, SP-ITA",
+  "meaning": "Plated at Specialty (usually mothers), pressed at a plant in the country named, from the 1980s.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.discogs.com/label/27576-Specialty-Records-Corporation"
+ },
+ {
+  "marking": "E A S T embossed round center hole",
+  "meaning": "Specialty Records Corporation, from 1979; a lone \"A\" there means Allied instead.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.discogs.com/label/27576-Specialty-Records-Corporation"
+ },
+ {
+  "marking": "(SP) or SP plant code on the center label",
+  "meaning": "Specialty Records Corporation; a -SP matrix suffix alone does not prove a Specialty pressing.",
+  "kind": "Pressing plant",
+  "source_url": "https://www.discogs.com/label/27576-Specialty-Records-Corporation"
+ }
+]

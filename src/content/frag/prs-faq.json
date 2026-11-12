@@ -1,0 +1,42 @@
+[
+ {
+  "q": "How many records can one stamper make?",
+  "a": "Sources disagree: Yamaha (2021) says about 1,000, a 2025 Hypebot piece says as few as 2,000 and usually more, and one plant says its coated stampers have pressed over 3,000 in outlier cases. New stampers can be grown from the mother, so a long run does not use up the cut.",
+  "section": "pressing"
+ },
+ {
+  "q": "What is the difference between a father, mother and stamper?",
+  "a": "The father is the first nickel negative plated off the lacquer, the mother is a positive plated from the father, and the stamper is a negative plated from the mother and mounted in the press. One plant uses 'father' for an archive copy instead, so terminology varies.",
+  "section": "pressing"
+ },
+ {
+  "q": "What happened to the Apollo Masters lacquer factory, and who makes lacquers now?",
+  "a": "Fire destroyed Apollo Masters in Banning, California, on February 6, 2020; it made an estimated 70-85% of the world's lacquers. 2020 sources named MDC in Japan as the only remaining maker, but a 2024 report named a different Japanese company, and no source we found confirms the 2026 supplier list.",
+  "section": "pressing"
+ },
+ {
+  "q": "Why do vinyl records take so long to make?",
+  "a": "In late 2021 lead times were reported at three months to a year, with capacity of about 160 million records a year against demand of about 400 million (Billboard, via Mixmag). By January 2025 the typical backlog was reported at about three months.",
+  "section": "pressing"
+ },
+ {
+  "q": "What is the biggest vinyl pressing plant in the world?",
+  "a": "GZ Media, near Prague, is described as the largest. It reported pressing more than 55 million records in 2021 and almost 200,000 a day in 2022 (company figures).",
+  "section": "pressing"
+ },
+ {
+  "q": "Does 180 gram vinyl sound better?",
+  "a": "180 gram records use the same stampers and groove depth as standard records of about 140 grams, and Disc Makers says they sound the same on most systems. Some hi-fi makers told What Hi-Fi? in 2025 that heavier discs vibrate less and warp less; others said the cut matters more than the weight.",
+  "section": "formats"
+ },
+ {
+  "q": "Does colored vinyl or a picture disc sound worse than black?",
+  "a": "One plant says colored and picture discs can introduce higher surface noise if not handled properly and that black virgin vinyl is typically the lowest-noise option. Listener reports vary, from no difference on translucent vinyl to advice to avoid white, and no measured comparison turned up.",
+  "section": "formats"
+ },
+ {
+  "q": "Are there eco-friendly vinyl records that aren't PVC?",
+  "a": "Sonopress's EcoRecord is injection-molded from recyclable PET and claims up to 85% energy savings; it was reported to wear after about 35 plays versus about 50 for PVC. These figures have not been tested independently.",
+  "section": "formats"
+ }
+]

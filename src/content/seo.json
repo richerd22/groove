@@ -1,0 +1,80 @@
+{
+ "title": "The Groove: How a Vinyl Record Is Made, Pressed, Played and Collected",
+ "description": "A cited, independent field guide to the vinyl record: cutting the lacquer, plating and pressing, sizes and speeds, what the runout etchings mean, turntables and DJs, collecting and grading, what a record costs, and where records are made. With a runout decoder.",
+ "paths": [
+  {
+   "who": "Just bought a turntable",
+   "title": "First time on wax",
+   "blurb": "How the needle reads the groove, what to buy, how to look after it.",
+   "slugs": [
+    "playing",
+    "formats",
+    "collecting"
+   ]
+  },
+  {
+   "who": "Pressing your first run",
+   "title": "From master to box",
+   "blurb": "Cutting, plating, pressing, side lengths, costs and lead times.",
+   "slugs": [
+    "cutting",
+    "pressing",
+    "money"
+   ]
+  },
+  {
+   "who": "Digging in crates",
+   "title": "Read a record",
+   "blurb": "Runout codes, first pressings, grading and what sells.",
+   "slugs": [
+    "runout",
+    "collecting",
+    "history"
+   ]
+  },
+  {
+   "who": "Behind the decks",
+   "title": "Records and DJs",
+   "blurb": "The Technics story, scratching, timecode vinyl.",
+   "slugs": [
+    "dj",
+    "playing",
+    "formats"
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How are vinyl records made?",
+   "a": "An engineer cuts the groove in real time on a lathe into a lacquer, an aluminum disc with a lacquer coat, one per side. The lacquer is silvered and electroplated with nickel to make metal parts, ending in stampers. A warm lump of PVC is then squeezed between two stampers in a press, on the order of 100 tons for about half a minute."
+  },
+  {
+   "q": "Why is vinyl so expensive?",
+   "a": "Setup costs land on every run whatever its size, so small runs cost far more per record: one US plant's 2026 card lists $11.69 a record at 100 copies and $3.35 at 1,000. Once the record is in a shop, one label's breakdown of a $24 LP gave about 35% to the retailer and 25% to the manufacturer. A plant owner told GRAMMY.com in 2022 that the price of PVC had increased three times since the plant opened in 2020."
+  },
+  {
+   "q": "What do 33, 45 and 78 mean on a record?",
+   "a": "They are speeds in revolutions per minute. The 33 1/3 rpm LP came from Columbia in 1948 and became the album, and RCA Victor's 7-inch 45 rpm record of 1949 became the single. The 78 is the older shellac format, made commercially from 1897 until the late 1950s."
+  },
+  {
+   "q": "What do the etchings in the runout groove mean?",
+   "a": "The smooth band by the label, the dead wax, carries a matrix number for each side plus cut numbers, stamper codes, plant marks and sometimes the cutting engineer's initials or signature. The codes exist so the factory can file stampers and match each side to the right label; collectors use them to tell pressings apart."
+  },
+  {
+   "q": "How can I tell if I have a first pressing?",
+   "a": "No single mark proves it, because a first cut may have been rejected and reissues often restart at 1. Collectors stack evidence: the lowest cut and stamper numbers in the runout, the label design, jacket details, and the barcode test, since barcodes were not widely used before the late 1970s. Cross-check Discogs against forums and specialist sites, since Discogs has errors."
+  },
+  {
+   "q": "How should I store vinyl records?",
+   "a": "Store them upright, on edge, with immovable dividers every 4 to 6 inches, and do not mix sizes on a shelf. The Library of Congress suggests room temperature or below and about 35 to 40% relative humidity at home, away from attics and basements. Keep them away from heat, which warps records, as a hot car shows."
+  },
+  {
+   "q": "Does vinyl sound better than digital?",
+   "a": "The sources here do not settle it. A record has physical limits a digital file does not: longer sides cost level or bass, and the inner grooves near the label are harder to cut and track. A weight claim such as 180 grams says nothing about the quality of the cut or the pressing, and makers disagree on whether weight itself changes the sound."
+  },
+  {
+   "q": "Where are vinyl records pressed?",
+   "a": "The largest presser, GZ Media near Prague in Czechia, pressed more than 55 million records in 2021 and runs plants in North America and France. In 2022 the North American trade body projected 43 plants in the US, nine in Canada and three in Mexico, and records are also pressed in Japan, Brazil, Germany and the Netherlands, among other countries."
+  }
+ ]
+}

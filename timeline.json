@@ -1,0 +1,541 @@
+[
+ {
+  "date": "1877",
+  "label": "Edison's tinfoil phonograph",
+  "detail": "The first machine to record and play back sound; patent application filed December 24, 1877.",
+  "source_url": "https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/",
+  "era": "Before 1948"
+ },
+ {
+  "date": "1887-11-08",
+  "label": "Berliner patents the gramophone",
+  "detail": "Flat, double-sided discs with spiral grooves, cheaper to mass-produce than cylinders.",
+  "source_url": "https://loc.gov/loc/lcib/1106/berliner.html",
+  "era": "Before 1948"
+ },
+ {
+  "date": "1897",
+  "label": "Commercial shellac 78s begin",
+  "detail": "Shellac discs are produced commercially from 1897 until the late 1950s.",
+  "source_url": "https://psap.library.illinois.edu/collection-id-guide/phonodisc",
+  "era": "Before 1948"
+ },
+ {
+  "date": "1913",
+  "label": "Edison switches to discs",
+  "detail": "Edison announces the Edison Disc Phonograph, conceding the public prefers discs; cylinders continue until 1929.",
+  "source_url": "https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/",
+  "era": "Before 1948"
+ },
+ {
+  "date": "1921",
+  "label": "Scully builds a lathe",
+  "detail": "John J. Scully builds a weight-driven disc lathe.",
+  "source_url": "https://www.wikiwand.com/en/articles/Mastering_lathe",
+  "era": "Before 1948"
+ },
+ {
+  "date": "1931",
+  "label": "Neumann AM31",
+  "detail": "Neumann's first lathe, the AM31, arrives.",
+  "source_url": "https://www.wikiwand.com/en/articles/Mastering_lathe",
+  "era": "Before 1948"
+ },
+ {
+  "date": "1939",
+  "label": "Cage uses records as an instrument",
+  "detail": "John Cage's Imaginary Landscape No. 1 uses records switched between speeds.",
+  "source_url": "https://www.thevinylfactory.com/features/a-brief-history-of-turntablism",
+  "era": "Before 1948"
+ },
+ {
+  "date": "1946",
+  "label": "Ortofon cutter head",
+  "detail": "Ortofon makes its first moving-coil cutter head.",
+  "source_url": "https://pspatialaudio.com/lathes.htm",
+  "era": "Before 1948"
+ },
+ {
+  "date": "1946",
+  "label": "US press-parts supplier starts out",
+  "detail": "Record Products of America begins supplying the record industry; it later sells parts for legacy presses.",
+  "source_url": "https://buzzsonic.com/resource/record-products-of-america",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1948",
+  "label": "The hot stylus",
+  "detail": "William S. Bachman at Columbia develops the heated cutting stylus.",
+  "source_url": "https://microgroove.jp/history-of-phono-eq-curves/en/FAQ/what-is-hot-stylus/",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1948-06",
+  "label": "Columbia unveils the LP",
+  "detail": "Announced at the Waldorf Astoria in New York; the Library of Congress gives June 21, other sources June 18.",
+  "source_url": "https://blogs.loc.gov/now-see-hear/2019/04/inside-the-archival-box-the-first-long-playing-disc/",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1949-01-10",
+  "label": "RCA Victor introduces the 45",
+  "detail": "A 7-inch 45 rpm single with a large center hole, the day after Columbia announced a 7-inch 33 1/3 single.",
+  "source_url": "https://microgroove.jp/history-of-phono-eq-curves/en/FAQ/battle-of-the-speeds/",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1950",
+  "label": "Variable pitch at Scully",
+  "detail": "Per Wikipedia, Scully introduces variable pitch, automated in 1955.",
+  "source_url": "https://www.wikiwand.com/en/articles/Mastering_lathe",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1950",
+  "label": "The war of the speeds ends in a split",
+  "detail": "RCA issues LPs in April and Columbia issues 45s in August: LP for albums, 45 for singles.",
+  "source_url": "https://microgroove.jp/history-of-phono-eq-curves/en/FAQ/battle-of-the-speeds/",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1951",
+  "label": "First record pressed at Loděnice",
+  "detail": "The state-run Gramofonové závody near Prague, later GZ Media, presses its first record.",
+  "source_url": "https://english.radio.cz/gz-media-czech-firm-world-leader-vinyl-record-production-8766954",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1951",
+  "label": "First record pressed at Lodenice",
+  "detail": "The plant that became GZ Media, later described as the world's largest, presses its first record.",
+  "source_url": "https://english.radio.cz/gz-media-czech-firm-world-leader-vinyl-record-production-8766954",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1954",
+  "label": "RIAA curve standardized",
+  "detail": "The RIAA equalization curve replaces a mix of competing EQs, after the 1953 NARTB standard.",
+  "source_url": "https://microgroove.jp/history-of-phono-eq-curves/en/FAQ/what-is-hot-stylus/",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1954-01-29",
+  "label": "RIAA curve approved",
+  "detail": "The RIAA Technical Committee approves one US playback equalization standard, still in use.",
+  "source_url": "https://microgroove.jp/history-of-phono-eq-curves/en/FAQ/when-was-riaa-established/",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1957",
+  "label": "45/45 stereo cutter head",
+  "detail": "Per Wikipedia, Western Electric/Westrex demonstrates the first commercial 45/45 stereo cutter head.",
+  "source_url": "https://www.wikiwand.com/en/articles/Mastering_lathe",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1957-12-27",
+  "label": "Stereo standard adopted",
+  "detail": "The RIAA adopts the Westrex 45/45 single-groove stereo system as the US standard.",
+  "source_url": "https://gammaelectronics.xyz/audio_03-1975_westrex.html",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1957-12-27",
+  "label": "45/45 becomes the US stereo standard",
+  "detail": "The Record Industry Association of America adopts the Westrex 45/45 stereo disc system as the American standard.",
+  "source_url": "https://gammaelectronics.xyz/audio_03-1975_westrex.html",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1963",
+  "label": "Capitol's IAM triangle",
+  "detail": "Capitol's Scranton plant marks records with IAM in a triangle, roughly 1963 to 1973.",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1964",
+  "label": "IEC 98 published",
+  "detail": "The IEC disc recording standard that includes the RIAA curve is first published.",
+  "source_url": "https://www.stereophile.com/features/cut_and_thrust_riaa_lp_equalization/index.html",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1968",
+  "label": "RCA record-wear study",
+  "detail": "Woodward and colleagues at RCA publish an electron-microscope study of groove wear in JAES.",
+  "source_url": "https://pspatialaudio.com/record_wear.htm",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1968",
+  "label": "Porky starts cutting",
+  "detail": "George Peckham starts as a cutting engineer at Apple in London.",
+  "source_url": "https://www.soundandvision.com/content/porkys-prime-cuts",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1970",
+  "label": "Neumann VMS 70",
+  "detail": "Neumann's VMS 70, which Pspatial Audio calls the world's most popular recording lathe.",
+  "source_url": "https://pspatialaudio.com/lathes.htm",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1970",
+  "label": "Rounder Records founded in Somerville",
+  "detail": "Bill Nowlin, Ken Irwin and Marian Leighton Levy start the roots label in an apartment.",
+  "source_url": "https://now.tufts.edu/2021/06/14/how-indie-folk-label-made-it-big",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1972-10",
+  "label": "Technics SL-1200 launched",
+  "detail": "Matsushita launches the direct-drive SL-1200 under the Technics brand.",
+  "source_url": "https://en.wikipedia.org/wiki/Technics_SL-1200",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1975",
+  "label": "Scratching discovered (dates disputed)",
+  "detail": "KEXP dates Grand Wizzard Theodore's discovery of scratching to 1975; other sources say 1977, the early 1980s or the early 1970s.",
+  "source_url": "https://kexp.org/podcasts/50-years-of-hip-hop/2023/2/15/1977-grand-wizzard-theodore-and-the-invention-of-scratching",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1976-09",
+  "label": "IEC adds a fourth time constant",
+  "detail": "The IEC adds a 7950 microsecond infrasonic roll-off to the RIAA curve.",
+  "source_url": "https://www.stereophile.com/features/cut_and_thrust_riaa_lp_equalization/index.html",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1977",
+  "label": "Peak plastic for US recorded music",
+  "detail": "The US recording industry uses an estimated 58 million kg of plastic (academic estimate).",
+  "source_url": "https://www.gla.ac.uk/news/headline_643297_en.html",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1979",
+  "label": "SL-1200MK2",
+  "detail": "Technics releases the MK2, which it bills as the first turntable developed for discos.",
+  "source_url": "https://technics.com/global/home/60th-anniversary/technics-brand-story/history-of-the-sl-1200.html",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1980",
+  "label": "Neumann VMS 80",
+  "detail": "Neumann's last lathe line, the first without the traditional bed, with DC servo motors.",
+  "source_url": "https://www.psaudio.com/blogs/copper/around-the-world-in-80-lathes-part-two",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1982",
+  "label": "DMM arrives",
+  "detail": "Teldec and Neumann's Direct Metal Mastering spreads in the early 1980s, cutting straight into copper.",
+  "source_url": "https://en.wikipedia.org/wiki/Direct_metal_mastering",
+  "era": "1982-2006"
+ },
+ {
+  "date": "1983",
+  "label": "Cassettes pass LPs",
+  "detail": "Cassettes take 47.8% of US dollar value against 44.6% for LPs and EPs.",
+  "source_url": "https://richardhess.com/notes/2013/04/10/us-music-media-statistics/",
+  "era": "1982-2006"
+ },
+ {
+  "date": "1985",
+  "label": "DMC championships begin",
+  "detail": "The DMC World DJ Championships start.",
+  "source_url": "https://www.thevinylfactory.com/features/a-brief-history-of-turntablism",
+  "era": "1982-2006"
+ },
+ {
+  "date": "1989",
+  "label": "Last VMS-82 DMM lathe",
+  "detail": "The last Neumann VMS-82 DMM lathe is assembled in Berlin.",
+  "source_url": "https://www.psaudio.com/blogs/copper/around-the-world-in-80-lathes-part-two",
+  "era": "1982-2006"
+ },
+ {
+  "date": "1995",
+  "label": "'Turntablism' coined",
+  "detail": "DJ Babu of the Beat Junkies coins the word turntablism.",
+  "source_url": "https://www.thevinylfactory.com/features/a-brief-history-of-turntablism",
+  "era": "1982-2006"
+ },
+ {
+  "date": "2000-11",
+  "label": "Discogs launches",
+  "detail": "Kevin Lewandowski starts Discogs.",
+  "source_url": "https://en.wikipedia.org/wiki/Discogs",
+  "era": "1982-2006"
+ },
+ {
+  "date": "2001",
+  "label": "Final Scratch released",
+  "detail": "Stanton's Final Scratch, the first DVS software sold publicly per Wikipedia, comes out late in the year.",
+  "source_url": "https://en.wikipedia.org/wiki/Vinyl_emulation",
+  "era": "1982-2006"
+ },
+ {
+  "date": "2004",
+  "label": "Serato Scratch Live",
+  "detail": "Serato Scratch Live is released with Rane.",
+  "source_url": "https://audioculture.co.nz/articles/serato-the-new-zealand-created-global-standard-in-djing",
+  "era": "1982-2006"
+ },
+ {
+  "date": "2005",
+  "label": "US loses its last DMM room",
+  "detail": "Per Wikipedia, the last public DMM facility in the US closes.",
+  "source_url": "https://en.wikipedia.org/wiki/Direct_metal_mastering",
+  "era": "1982-2006"
+ },
+ {
+  "date": "2005",
+  "label": "Last US DMM room closes",
+  "detail": "Per Wikipedia, the US loses its last DMM facility; a Discogs profile lists DMM cutting at Masterdisk, so this is disputed.",
+  "source_url": "https://en.wikipedia.org/wiki/Direct_metal_mastering",
+  "era": "1982-2006"
+ },
+ {
+  "date": "2006",
+  "label": "US vinyl hits bottom",
+  "detail": "RIAA LP and EP shipments fall to about 900,000 (SoundScan's low, 857,000 albums, came in 2005).",
+  "source_url": "https://www.spinmagazine.com/2014/05/did-vinyl-really-die-in-the-90s-death-resurgence-sales/",
+  "era": "1982-2006"
+ },
+ {
+  "date": "2008-04",
+  "label": "First Record Store Day",
+  "detail": "Conceived in September 2007 and first held in April 2008.",
+  "source_url": "https://www.thevinyldistrict.com/storefront/record-store-days-michael-kurtz-and-carrie-colliton-the-tvd-interview/",
+  "era": "2007-now"
+ },
+ {
+  "date": "2008-04-19",
+  "label": "First Record Store Day",
+  "detail": "The first official Record Store Day, after a 2007 gathering of US shop owners.",
+  "source_url": "https://www.recordstoreday.co.uk/about",
+  "era": "2007-now"
+ },
+ {
+  "date": "2010-11",
+  "label": "Black Friday RSD",
+  "detail": "Record Store Day adds a Black Friday edition.",
+  "source_url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Record_Store_Day",
+  "era": "2007-now"
+ },
+ {
+  "date": "2010-11-01",
+  "label": "SL-1200 discontinued",
+  "detail": "Panasonic announces the end of Technics analog turntables.",
+  "source_url": "https://en.wikipedia.org/wiki/Technics_SL-1200",
+  "era": "2007-now"
+ },
+ {
+  "date": "2011",
+  "label": "DMC allows DVS",
+  "detail": "The DMC championships begin permitting vinyl-emulation systems.",
+  "source_url": "https://www.thevinylfactory.com/features/a-brief-history-of-turntablism",
+  "era": "2007-now"
+ },
+ {
+  "date": "2014-12-02",
+  "label": "40 vinyl manufacturers counted worldwide",
+  "detail": "The Vinyl Factory counts 40 manufacturers, with the US and Europe home to more than 80% (reported).",
+  "source_url": "https://thevinylfactory.com/features/world-records-the-global-vinyl-economy-in-four-interactive-maps/",
+  "era": "2007-now"
+ },
+ {
+  "date": "2014-12-15",
+  "label": "Thai supplier reported at up to 90% of record PVC",
+  "detail": "FACT reports Thai Plastic & Chemicals supplies up to 90% of record compound; the last US supplier closed in the mid-2000s.",
+  "source_url": "https://factmag.com/2014/12/15/us-vinyl-suppliers-struggling-to-keep-up-with-demand-from-pressing-plants",
+  "era": "2007-now"
+ },
+ {
+  "date": "2015-12-05",
+  "label": "$790,000 White Album",
+  "detail": "Ringo Starr's White Album No. 0000001 sells at Julien's, Los Angeles, the Guinness record for a vinyl record at auction.",
+  "source_url": "https://guinnessworldrecords.com/world-records/412717-most-expensive-vinyl-record-sold-at-auction",
+  "era": "2007-now"
+ },
+ {
+  "date": "2016",
+  "label": "SL-1200 returns",
+  "detail": "The SL-1200G and limited SL-1200GAE are announced at CES and ship in April and October.",
+  "source_url": "https://en.wikipedia.org/wiki/Technics_SL-1200",
+  "era": "2007-now"
+ },
+ {
+  "date": "2016",
+  "label": "New presses arrive",
+  "detail": "Viryl's WarmTone and Newbilt's Finebilt-based presses appear, among the first new presses in decades.",
+  "source_url": "https://thevinylfactory.com/features/could-these-new-pressing-machines-save-the-record-industry/",
+  "era": "2007-now"
+ },
+ {
+  "date": "2016-01-21",
+  "label": "Vinyl Brazil announced",
+  "detail": "A planned São Paulo plant would join Polysom, then Latin America's only plant.",
+  "source_url": "https://www.thevinylfactory.com/news/vinyl-brazil-new-pressing-plant-sao-paulo",
+  "era": "2007-now"
+ },
+ {
+  "date": "2018",
+  "label": "Third Man Pressing runs Newbilt presses in Detroit",
+  "detail": "The plant bought eight of the first ten Newbilt machines and expected about 5,000 records a shift.",
+  "source_url": "https://tapeop.com/interviews/127/third-pressing",
+  "era": "2007-now"
+ },
+ {
+  "date": "2018-12-03",
+  "label": "Steamless press reported",
+  "detail": "Viryl's steamless module heats mold water electrically to 285 F, removing the gas boiler.",
+  "source_url": "https://www.engadget.com/2018-12-03-vinyl-record-production-steamless-viryl-technologies.html",
+  "era": "2007-now"
+ },
+ {
+  "date": "2020",
+  "label": "US vinyl revenue passes CD",
+  "detail": "$626 million against $483 million, the first time since 1986 (RIAA).",
+  "source_url": "https://www.whathifi.com/news/vinyl-revenue-overtakes-cds-for-the-first-time-since-1986",
+  "era": "2007-now"
+ },
+ {
+  "date": "2020",
+  "label": "RSD Drops",
+  "detail": "Record Store Day is split into three Drops.",
+  "source_url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Record_Store_Day",
+  "era": "2007-now"
+ },
+ {
+  "date": "2020-02-06",
+  "label": "Lacquer factory fire",
+  "detail": "A fire destroys the Apollo Masters lacquer factory in Banning, California, leaving MDC in Japan as the sole lacquer maker.",
+  "source_url": "https://en.wikipedia.org/wiki/Apollo_Masters_Corporation_fire",
+  "era": "2007-now"
+ },
+ {
+  "date": "2020-02-06",
+  "label": "Apollo Masters lacquer plant burns",
+  "detail": "Fire destroys the only US lacquer maker, estimated at 70-85% of world supply (reported).",
+  "source_url": "https://en.wikipedia.org/wiki/Apollo_Masters_Corporation_fire",
+  "era": "2007-now"
+ },
+ {
+  "date": "2021-11-05",
+  "label": "Lead times of three months to a year",
+  "detail": "Mixmag reports long waits, Adele's 30 at over 500,000 vinyl copies, and capacity of about 160 million against demand of about 400 million a year.",
+  "source_url": "https://mixmag.net/read/vinyl-delays-30-adele-pressing-plants-news",
+  "era": "2007-now"
+ },
+ {
+  "date": "2022",
+  "label": "US vinyl passes CD in units",
+  "detail": "41 million vinyl units against 33 million CDs, the first time since 1987 (RIAA).",
+  "source_url": "https://www.rollingstone.com/music/music-news/riaa-vinyl-units-surpass-cds-1234693223/",
+  "era": "2007-now"
+ },
+ {
+  "date": "2022-07-06",
+  "label": "Lead times hit 9-12 months",
+  "detail": "GRAMMY.com reports industry-wide waits, against 4-6 weeks in 2018.",
+  "source_url": "https://grammy.com/news/the-vinyl-shortage-explainer-how-long-waits-expensive-materials-high-demand-are-affecting-the-industry",
+  "era": "2007-now"
+ },
+ {
+  "date": "2023-07",
+  "label": "Agnew Type 612",
+  "detail": "A new disk mastering lathe is unveiled at the International Disk Recording and Mastering Convention.",
+  "source_url": "https://agnewanalog.com/blog/agnew-analog-reference-instruments-type-612-a-new-disk-mastering-lathe.html",
+  "era": "2007-now"
+ },
+ {
+  "date": "2023-07-11",
+  "label": "BioVinyl launched",
+  "detail": "optimal media and PlastChem launch a bio-attributed PVC record.",
+  "source_url": "https://www.optimal-media.com/en/news/biovinyl/",
+  "era": "2007-now"
+ },
+ {
+  "date": "2024-03-26",
+  "label": "EcoRecord launched",
+  "detail": "Sonopress and Warner Music launch an injection-molded PET record; energy and sound claims are the maker's.",
+  "source_url": "https://fromvinyltoplastic.com/sonopress-launches-eco-record/",
+  "era": "2007-now"
+ },
+ {
+  "date": "2024-04-24",
+  "label": "Burlington Record Plant sold, set to move",
+  "detail": "Equal Vision Records buys the plant, planning a July 2024 move to Albany, New York.",
+  "source_url": "https://www.sevendaysvt.com/music/soundbites-burlington-record-plant-on-the-move-40731641/",
+  "era": "2007-now"
+ },
+ {
+  "date": "2024-08",
+  "label": "India presses its first record in decades",
+  "detail": "A plant in Navi Mumbai presses its first record, one of several new entrants reported in 2024.",
+  "source_url": "https://www.psaudio.com/blogs/copper/a-new-normal-was-in-sight-at-making-vinyl-europe-2024",
+  "era": "2007-now"
+ },
+ {
+  "date": "2025",
+  "label": "US vinyl tops $1 billion",
+  "detail": "$1,042.9 million on 46.8 million units, the 19th straight year of growth (RIAA).",
+  "source_url": "https://www.riaa.com/wp-content/uploads/2026/03/RIAA-Year-End-Revenue-2025.pdf",
+  "era": "2007-now"
+ },
+ {
+  "date": "2025",
+  "label": "Discogs collection record",
+  "detail": "Discogs users add a record 114.2 million items to their collections (official, company figure).",
+  "source_url": "https://shorefire.com/releases/entry/discogs-breaks-all-time-collection-record-as-music-fans-catalog-more-than-114-million-items-in-2025",
+  "era": "2007-now"
+ },
+ {
+  "date": "2025-01-23",
+  "label": "Backlog about three months",
+  "detail": "Hypebot reports the typical plant backlog at about three months.",
+  "source_url": "https://www.hypebot.com/vinyl-record-pressing-is-finally-improving.md",
+  "era": "2007-now"
+ },
+ {
+  "date": "2025-10-03",
+  "label": "The Life of a Showgirl released",
+  "detail": "It sells 1.2 million vinyl copies on day one in the US, per Luminate.",
+  "source_url": "https://6abc.com/post/taylor-swifts-life-showgirl-makes-history-selling-4m-copies-first-week/18003996/",
+  "era": "2007-now"
+ },
+ {
+  "date": "2026-03-16",
+  "label": "US vinyl passes $1 billion",
+  "detail": "The RIAA's 2025 report shows vinyl revenue over $1 billion for the first time since 1983.",
+  "source_url": "https://www.musicweek.com/labels/read/riaa-us-revenue-hits-record-high-as-vinyl-sales-pass-1-billion/093770",
+  "era": "2007-now"
+ },
+ {
+  "date": "2026-06",
+  "label": "$25,000 White Stripes 7-inch",
+  "detail": "The White Stripes' \"Lafayette Blues\" sells for $25,000 on Discogs (reported).",
+  "source_url": "https://loudwire.com/white-stripes-most-expensive-discogs/",
+  "era": "2007-now"
+ },
+ {
+  "date": "2026-07-17",
+  "label": "APC-2 lathe",
+  "detail": "MusicTech reports the Teenage Engineering and SUPERSENSE APC-2, a 104 kg made-to-order lathe.",
+  "source_url": "https://musictech.com/news/gear/teenage-engineering-apc-2/",
+  "era": "2007-now"
+ },
+ {
+  "date": "2026-09-01",
+  "label": "RIAA mid-year 2026",
+  "detail": "US vinyl up 17.7% and CDs up 58.6% in the first half of 2026.",
+  "source_url": "https://www.riaa.com/?p=47595",
+  "era": "2007-now"
+ }
+]

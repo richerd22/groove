@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://groove.cold.fyi/sitemap.xml

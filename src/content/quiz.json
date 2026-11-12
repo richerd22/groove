@@ -1,0 +1,194 @@
+[
+ {
+  "q": "Which company introduced the 7-inch single at 45 rpm in January 1949?",
+  "options": [
+   "Columbia",
+   "Decca",
+   "RCA Victor",
+   "Capitol"
+  ],
+  "answer": 2,
+  "why": "RCA Victor launched its 45 the day after Columbia announced a 33 1/3 single. The LP ended up as the album and the 45 as the single.",
+  "section": "history"
+ },
+ {
+  "q": "What is a lacquer, in record making?",
+  "options": [
+   "An aluminum disc coated in lacquer that the groove is first cut into",
+   "The clear coat sprayed on a finished record",
+   "The varnish that seals the paper label",
+   "A plastic sleeve that protects the stampers"
+  ],
+  "answer": 0,
+  "why": "The lacquer is an aluminum plate with a thick lacquer coat, cut in real time on a lathe, one per side. Everything pressed later is copied from it.",
+  "section": "cutting"
+ },
+ {
+  "q": "Why do cutting engineers usually keep the bass in mono?",
+  "options": [
+   "Mono bass sounds louder on small speakers",
+   "Stereo bass differences make big vertical groove swings that can mistrack or lift the cutter",
+   "Plants charge extra for stereo bass",
+   "The RIAA curve removes stereo below 500 Hz"
+  ],
+  "answer": 1,
+  "why": "The side (difference) signal moves the groove up and down. Large low-frequency differences between channels can narrow the groove until a stylus cannot track it, or lift the cutter head off the lacquer.",
+  "section": "cutting"
+ },
+ {
+  "q": "What is a stamper?",
+  "options": [
+   "The rubber stamp used to print the label",
+   "The machine that trims the flash",
+   "A metal negative of the groove, mounted in the press to mold the record",
+   "The engineer who signs the dead wax"
+  ],
+  "answer": 2,
+  "why": "Stampers are plated from a mother, chrome plated and mounted in the press. Because they are negatives, they press grooves into the vinyl.",
+  "section": "pressing"
+ },
+ {
+  "q": "What does a 180 gram LP share with a standard-weight LP of about 140 grams?",
+  "options": [
+   "The same stampers and groove depth",
+   "A deeper groove",
+   "A longer playing time per side",
+   "A different cutting curve"
+  ],
+  "answer": 0,
+  "why": "Disc Makers says 180 gram records use the same stampers and groove depth as standard weight. The weight is printed on the sticker; the quality of the cut is not.",
+  "section": "formats"
+ },
+ {
+  "q": "Why do some 12-inch records spin at 45 rpm instead of 33 1/3?",
+  "options": [
+   "To fit more songs on a side",
+   "Because 45 rpm records need no RIAA curve",
+   "Because DJ mixers only accept 45 rpm",
+   "The groove passes the stylus faster, leaving more room for short high-frequency wavelengths"
+  ],
+  "answer": 3,
+  "why": "At the outer edge a 12-inch moves about 28.3 inches per second at 45, against almost 21 at 33 1/3. The cost is time: a 45 side holds far less music.",
+  "section": "formats"
+ },
+ {
+  "q": "On a UK Decca record, the stamper code uses the word BUCKINGHAM. What does \"NN\" mean?",
+  "options": [
+   "The 11th stamper",
+   "The 66th stamper",
+   "The 14th stamper",
+   "A new number after a recut"
+  ],
+  "answer": 1,
+  "why": "In BUCKINGHAM each letter is a digit: B=1 through M=0, with N=6. So NN is the 66th stamper.",
+  "section": "runout"
+ },
+ {
+  "q": "A former Columbia cutting engineer explained the lacquer sets 1A to 1F. What did they mean?",
+  "options": [
+   "1A was the first cut and 1F the sixth",
+   "1A to 1F were test pressings",
+   "All six were first cuttings, sent two each to three plants",
+   "Each letter marked a different mastering engineer"
+  ],
+  "answer": 2,
+  "why": "Phil Brown said 1A and 1B went to Pitman, 1C and 1D to Terre Haute, 1E and 1F to Santa Maria. The belief that A came before B and C is wrong.",
+  "section": "runout"
+ },
+ {
+  "q": "What does a phono preamp do?",
+  "options": [
+   "Adds gain and applies the inverse RIAA curve",
+   "Converts the signal to digital",
+   "Removes surface noise",
+   "Sets the tracking force"
+  ],
+  "answer": 0,
+  "why": "A cartridge's signal is far below line level. The phono stage boosts it and undoes the cutting EQ, restoring bass and taming treble.",
+  "section": "playing"
+ },
+ {
+  "q": "What usually happens if the tracking force is set too light?",
+  "options": [
+   "The record plays faster",
+   "The stylus wears out sooner",
+   "The bass gets louder",
+   "The stylus can lose the groove and skip"
+  ],
+  "answer": 3,
+  "why": "Tracking force should match the cartridge maker's figure. Too light and the record skips, too heavy and it can damage the groove.",
+  "section": "playing"
+ },
+ {
+  "q": "What feature made the Technics SL-1200 suit DJs?",
+  "options": [
+   "A built-in mixer",
+   "Direct drive, with high torque, a near-instant start and steady speed",
+   "A belt that could be swapped quickly",
+   "An automatic tonearm return"
+  ],
+  "answer": 1,
+  "why": "With the platter on the motor, the deck could be pushed around or spun backward without harm. IEEE Spectrum notes that scratching would destroy a belt drive.",
+  "section": "dj"
+ },
+ {
+  "q": "What is on a timecode record used with a digital vinyl system?",
+  "options": [
+   "A compressed copy of the DJ's music",
+   "Silence, so the needle does not wear",
+   "A control signal that software reads for speed, direction and position",
+   "A backup of the mixer's settings"
+  ],
+  "answer": 2,
+  "why": "The software reads the control signal from the turntable for speed, direction and position, and plays a digital file to match.",
+  "section": "dj"
+ },
+ {
+  "q": "On the Goldmine scale, which grade has surface noise that is evident, especially in soft passages, but does not overpower the music?",
+  "options": [
+   "Near Mint",
+   "Very Good Plus",
+   "Good",
+   "Very Good"
+  ],
+  "answer": 3,
+  "why": "That is the Goldmine definition of VG. VG+ shows only slight signs of wear, while Good plays through with significant noise.",
+  "section": "collecting"
+ },
+ {
+  "q": "In one label's published breakdown of a $24 LP sold in an independent shop, roughly how much did the artist get?",
+  "options": [
+   "$3.19",
+   "$8.49",
+   "$6.03",
+   "$12.00"
+  ],
+  "answer": 0,
+  "why": "Colemine Records' figures gave the retailer $8.49, the manufacturer $6.03, the distributor $3.10, and the label and artist about $3.19 each. The label says the numbers are specific to that release.",
+  "section": "money"
+ },
+ {
+  "q": "What is BioVinyl, launched by optimal media in 2023?",
+  "options": [
+   "A record made from sugars and starches",
+   "Still PVC, made with feedstock from used cooking oil or industrial waste gases instead of petroleum",
+   "An injection-molded PET record",
+   "Recycled records with the labels punched out"
+  ],
+  "answer": 1,
+  "why": "BioVinyl is bio-attributed PVC and runs in a conventional press. Its claimed lower CO2 footprint is the manufacturer's claim.",
+  "section": "planet"
+ },
+ {
+  "q": "Where is GZ Media, described as the world's largest record presser?",
+  "options": [
+   "Germany, near Hamburg",
+   "The US, in Nashville",
+   "Japan, in Yokohama",
+   "Czechia, in a village near Prague"
+  ],
+  "answer": 3,
+  "why": "GZ Media in Lodenice pressed more than 55 million records in 2021. It also runs plants in North America and France.",
+  "section": "world"
+ }
+]

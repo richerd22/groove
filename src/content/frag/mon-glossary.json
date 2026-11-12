@@ -1,0 +1,104 @@
+[
+ {
+  "term": "Combo package",
+  "definition": "A plant's bundled price for a finished record: lacquers, plating, labels, sleeves and a printed jacket.",
+  "section": "money",
+  "source_url": "https://www.nationalaudiocompany.com/wp-content/uploads/2026/06/Vinyl-Pricing-June-1-2026.pdf"
+ },
+ {
+  "term": "Lacquer",
+  "definition": "The coated disc a mastering engineer cuts the grooves into; the first physical copy of a record, and a line item on plant price cards.",
+  "section": "money",
+  "source_url": "https://gottagrooverecords.com/wp-content/uploads/2024/04/180-GRAM-2024-PRICE-CARD-1.pdf"
+ },
+ {
+  "term": "2-step / 3-step plating",
+  "definition": "Making metal parts from the lacquer to produce stampers; 3-step adds a metal mother so more stampers can be made for bigger runs.",
+  "section": "money",
+  "source_url": "https://gottagrooverecords.com/wp-content/uploads/2024/04/180-GRAM-2024-PRICE-CARD-1.pdf"
+ },
+ {
+  "term": "Stamper",
+  "definition": "The metal negative that presses the grooves into the plastic.",
+  "section": "planet",
+  "source_url": "https://www.vermontpublic.org/vpr-news/2015-06-01/burlington-record-plant-revives-the-art-of-pressing-vinyl"
+ },
+ {
+  "term": "Biscuit (puck)",
+  "definition": "The lump of PVC placed in the press before it is squeezed into a record.",
+  "section": "planet",
+  "source_url": "https://www.vermontpublic.org/vpr-news/2015-06-01/burlington-record-plant-revives-the-art-of-pressing-vinyl"
+ },
+ {
+  "term": "Test pressing",
+  "definition": "A small number of early copies the artist plays and approves before the full run.",
+  "section": "money",
+  "source_url": "https://www.nationalaudiocompany.com/wp-content/uploads/2026/06/Vinyl-Pricing-June-1-2026.pdf"
+ },
+ {
+  "term": "Tip-on jacket",
+  "definition": "An older jacket construction with printed paper glued over board.",
+  "section": "money",
+  "source_url": "https://www.nationalaudiocompany.com/wp-content/uploads/2026/06/Vinyl-Pricing-June-1-2026.pdf"
+ },
+ {
+  "term": "Turnaround",
+  "definition": "The time from an approved order to delivery; one US plant listed 6-8 weeks as standard in 2026.",
+  "section": "money",
+  "source_url": "https://www.nationalaudiocompany.com/wp-content/uploads/2026/06/Vinyl-Pricing-June-1-2026.pdf"
+ },
+ {
+  "term": "Rush",
+  "definition": "A paid faster turnaround, priced per record.",
+  "section": "money",
+  "source_url": "https://www.nationalaudiocompany.com/wp-content/uploads/2026/06/Vinyl-Pricing-June-1-2026.pdf"
+ },
+ {
+  "term": "Variant",
+  "definition": "The same album in a different color, cover or retailer-exclusive edition.",
+  "section": "money",
+  "source_url": "https://6abc.com/post/taylor-swifts-life-showgirl-makes-history-selling-4m-copies-first-week/18003996/"
+ },
+ {
+  "term": "Equivalent album units",
+  "definition": "Luminate's measure combining album sales with streams and track downloads.",
+  "section": "money",
+  "source_url": "https://6abc.com/post/taylor-swifts-life-showgirl-makes-history-selling-4m-copies-first-week/18003996/"
+ },
+ {
+  "term": "Pure album sales",
+  "definition": "Physical and digital album purchases only, without streams.",
+  "section": "money",
+  "source_url": "https://6abc.com/post/taylor-swifts-life-showgirl-makes-history-selling-4m-copies-first-week/18003996/"
+ },
+ {
+  "term": "PVC",
+  "definition": "Polyvinyl chloride, the plastic most records are pressed from.",
+  "section": "planet",
+  "source_url": "https://www.vermontpublic.org/vpr-news/2015-06-01/burlington-record-plant-revives-the-art-of-pressing-vinyl"
+ },
+ {
+  "term": "Bio-attributed PVC",
+  "definition": "PVC made with renewable feedstock, such as used cooking oil, in place of petroleum.",
+  "section": "planet",
+  "source_url": "https://www.optimal-media.com/en/news/biovinyl/"
+ },
+ {
+  "term": "ISCC PLUS",
+  "definition": "A certification for sustainable and circular supply chains, used for BioVinyl.",
+  "section": "planet",
+  "source_url": "https://www.optimal-media.com/en/news/biovinyl/"
+ },
+ {
+  "term": "Injection molding",
+  "definition": "Forcing molten material into a mold, used by Green Vinyl Records in place of steam presses.",
+  "section": "planet",
+  "source_url": "https://www.stampthewax.com/2021/12/14/a-green-future-needs-green-vinyls-eco-approach-to-vinyl-production/"
+ },
+ {
+  "term": "Bioplastic record",
+  "definition": "A record pressed from a non-PVC plastic, such as Evolution Music's sugar-and-starch recipe.",
+  "section": "planet",
+  "source_url": "https://www.cbsnews.com/amp/news/bioplastic-vinyl-records-evolution-music-uk"
+ }
+]

@@ -1,0 +1,686 @@
+[
+ {
+  "term": "180 gram",
+  "definition": "A heavier 12 inch LP. Standard weight is about 130-155 grams; 180 gram records use the same stampers and groove depth.",
+  "section": "formats",
+  "source_url": "https://support.discmakers.com/hc/en-us/articles/209637637-Vinyl-Record-Weights-What-Is-180-Gram-And-Is-It-Important"
+ },
+ {
+  "term": "2-step / 3-step plating",
+  "definition": "Making metal parts from the lacquer to produce stampers; 3-step adds a metal mother so more stampers can be made for bigger runs.",
+  "section": "money",
+  "source_url": "https://gottagrooverecords.com/wp-content/uploads/2024/04/180-GRAM-2024-PRICE-CARD-1.pdf"
+ },
+ {
+  "term": "45",
+  "definition": "RCA Victor's 7-inch single at 45 rpm with a large center hole, introduced January 10, 1949.",
+  "section": "history",
+  "source_url": "https://microgroove.jp/history-of-phono-eq-curves/en/FAQ/battle-of-the-speeds/"
+ },
+ {
+  "term": "45/45 stereo",
+  "definition": "The Westrex system that cuts left and right channels on the two walls of one groove, each at 45 degrees; the US standard from December 27, 1957.",
+  "section": "history",
+  "source_url": "https://gammaelectronics.xyz/audio_03-1975_westrex.html"
+ },
+ {
+  "term": "45/45 system",
+  "definition": "The stereo groove standard: two channels cut at 45 degrees to the record surface and 90 degrees to each other, so the stylus moves both sideways and up and down.",
+  "section": "playing",
+  "source_url": "https://dsu-digital-sound-design.github.io/f-23-history-of-recorded-music/lectures/week-8/control-men/The_Westrex_Stereo_Disk_System.pdf"
+ },
+ {
+  "term": "78 rpm",
+  "definition": "The shellac-era disc, produced commercially from 1897 to the late 1950s; speeds were not standardized, despite the name.",
+  "section": "history",
+  "source_url": "https://great78.archive.org/preservation/"
+ },
+ {
+  "term": "Absolute and relative mode",
+  "definition": "DVS modes that do (absolute) or do not (relative) track where the needle sits on the record.",
+  "section": "dj",
+  "source_url": "https://homepages.rub.de/jan.holthuis/how-does-timecode-vinyl-actually-work-pt-1.html"
+ },
+ {
+  "term": "Anti-skate",
+  "definition": "An outward bias on the tonearm that cancels skating force; dial numbers do not equal the actual force.",
+  "section": "playing",
+  "source_url": "https://www.stereophile.com/content/skating-force-phenomenon"
+ },
+ {
+  "term": "Belt drive",
+  "definition": "A turntable whose motor turns the platter through a belt.",
+  "section": "playing",
+  "source_url": "https://audio-technica.com/en-us/support/audio-solutions-question-of-the-week-what-do-the-specifications-on-your-turntable-product-pages-mean"
+ },
+ {
+  "term": "Bio-attributed PVC",
+  "definition": "PVC made with renewable feedstock, such as used cooking oil, in place of petroleum.",
+  "section": "planet",
+  "source_url": "https://www.optimal-media.com/en/news/biovinyl/"
+ },
+ {
+  "term": "Bioplastic record",
+  "definition": "A record pressed from a non-PVC plastic, such as Evolution Music's sugar-and-starch recipe.",
+  "section": "planet",
+  "source_url": "https://www.cbsnews.com/amp/news/bioplastic-vinyl-records-evolution-music-uk"
+ },
+ {
+  "term": "Biscuit (puck)",
+  "definition": "The lump of PVC placed in the press before it is squeezed into a record.",
+  "section": "planet",
+  "source_url": "https://www.vermontpublic.org/vpr-news/2015-06-01/burlington-record-plant-revives-the-art-of-pressing-vinyl"
+ },
+ {
+  "term": "BPI",
+  "definition": "British Phonographic Industry; publishes official UK sales from Official Charts Company data.",
+  "section": "history",
+  "source_url": "https://www.bpi.co.uk/news/12963051"
+ },
+ {
+  "term": "Burnishing facet",
+  "definition": "A tiny flat on the cutting stylus that polishes the groove wall; the hot stylus allowed much smaller ones.",
+  "section": "cutting",
+  "source_url": "https://microgroove.jp/history-of-phono-eq-curves/en/FAQ/what-is-hot-stylus/"
+ },
+ {
+  "term": "Cantilever",
+  "definition": "The tiny arm that carries the stylus and passes its motion to the cartridge's generator.",
+  "section": "playing",
+  "source_url": "https://www.whathifi.com/advice/moving-magnet-vs-moving-coil-cartridges-which-is-right-for-you"
+ },
+ {
+  "term": "Catalog number",
+  "definition": "The release's number, usually the same on both labels; unlike the matrix number it does not change from side to side.",
+  "section": "runout",
+  "source_url": "https://en.wikipedia.org/wiki/Dead_wax"
+ },
+ {
+  "term": "Coarse groove",
+  "definition": "The wide groove used on most records made before 1948.",
+  "section": "history",
+  "source_url": "https://psap.library.illinois.edu/collection-id-guide/phonodisc"
+ },
+ {
+  "term": "Combo package",
+  "definition": "A plant's bundled price for a finished record: lacquers, plating, labels, sleeves and a printed jacket.",
+  "section": "money",
+  "source_url": "https://www.nationalaudiocompany.com/wp-content/uploads/2026/06/Vinyl-Pricing-June-1-2026.pdf"
+ },
+ {
+  "term": "Compound",
+  "definition": "The PVC mix records are pressed from, sold as pellets. Black comes from carbon black.",
+  "section": "pressing",
+  "source_url": "https://www.analogplanet.com/content/thai-vinyl-noodle-factory-tpc-thai-plastic-company"
+ },
+ {
+  "term": "Cut number",
+  "definition": "The suffix after the dash showing which cut of a side this is, such as -1 or -2.",
+  "section": "runout",
+  "source_url": "https://en.wikipedia.org/wiki/Dead_wax"
+ },
+ {
+  "term": "Cutter head",
+  "definition": "The transducer that turns the amplified signal into stylus motion, such as the Neumann SX-74.",
+  "section": "cutting",
+  "source_url": "https://www.psaudio.com/blogs/copper/around-the-world-in-80-lathes-part-two"
+ },
+ {
+  "term": "Cutting stylus",
+  "definition": "The small chisel, usually sapphire, in the cutter head that carves the groove.",
+  "section": "cutting",
+  "source_url": "https://hub.yamaha.com/audio/vinyl/how-a-vinyl-record-is-made"
+ },
+ {
+  "term": "Cylinder",
+  "definition": "The first commercial record shape, a tube; Edison conceded to the disc in 1913 and made his last cylinders in 1929.",
+  "section": "history",
+  "source_url": "https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/"
+ },
+ {
+  "term": "De-essing",
+  "definition": "Taming harsh 's' sounds before cutting, since heavy sibilance can distort the master.",
+  "section": "cutting",
+  "source_url": "https://www.gottagrooverecords.com/vinyl-mastering"
+ },
+ {
+  "term": "Dead wax",
+  "definition": "The smooth band between the last groove and the label, also called the runout or matrix area, where codes are stamped or etched.",
+  "section": "runout",
+  "source_url": "https://en.wikipedia.org/wiki/Dead_wax"
+ },
+ {
+  "term": "Delta number",
+  "definition": "A triangle plus five digits: a job code used by Monarch and other plants, not proof of one plant.",
+  "section": "runout",
+  "source_url": "https://melrose8481.squarespace.com/runouts-basics"
+ },
+ {
+  "term": "Direct drive",
+  "definition": "A turntable whose platter sits on the motor itself, giving high torque and a fast start.",
+  "section": "playing",
+  "source_url": "https://audio-technica.com/en-us/support/audio-solutions-question-of-the-week-what-do-the-specifications-on-your-turntable-product-pages-mean"
+ },
+ {
+  "term": "Direct Metal Mastering (DMM)",
+  "definition": "Cutting straight into copper instead of lacquer, which skips the lacquer and its plating.",
+  "section": "pressing",
+  "source_url": "https://direct.djmag.com/longreads/vinyl-production-really-under-threat"
+ },
+ {
+  "term": "Discogs",
+  "definition": "A user-built music database and marketplace launched in November 2000.",
+  "section": "collecting",
+  "source_url": "https://en.wikipedia.org/wiki/Discogs"
+ },
+ {
+  "term": "DMM",
+  "definition": "Direct Metal Mastering: cutting straight into a copper-plated master instead of a lacquer.",
+  "section": "runout",
+  "source_url": "https://en.wikipedia.org/wiki/Direct_metal_mastering"
+ },
+ {
+  "term": "DVS (digital vinyl system)",
+  "definition": "Software and an audio interface that let a turntable control digital files through timecode vinyl.",
+  "section": "dj",
+  "source_url": "https://en.wikipedia.org/wiki/Vinyl_emulation"
+ },
+ {
+  "term": "Electroplating",
+  "definition": "Growing nickel onto the silvered lacquer in a chemical bath with electric current to make metal copies of the groove.",
+  "section": "pressing",
+  "source_url": "https://en.wikipedia.org/wiki/Production_of_phonograph_records"
+ },
+ {
+  "term": "Elliptical EQ",
+  "definition": "A filter that sums low frequencies to mono so the groove avoids large vertical swings.",
+  "section": "cutting",
+  "source_url": "https://rpmrecords.dk/blog/50-years-of-record-cutting-with-richard-simpson/"
+ },
+ {
+  "term": "Equalization curve",
+  "definition": "The deliberate bass cut and treble boost applied when cutting a record, reversed by the phono preamp on playback.",
+  "section": "history",
+  "source_url": "https://microgroove.jp/history-of-phono-eq-curves/en/FAQ/when-was-riaa-established/"
+ },
+ {
+  "term": "Equivalent album units",
+  "definition": "Luminate's measure combining album sales with streams and track downloads.",
+  "section": "money",
+  "source_url": "https://6abc.com/post/taylor-swifts-life-showgirl-makes-history-selling-4m-copies-first-week/18003996/"
+ },
+ {
+  "term": "Etched vs stamped",
+  "definition": "Hand-scribed into the lacquer vs machine-punched; Discogs asks that the difference go in notes.",
+  "section": "runout",
+  "source_url": "https://support.discogs.com/hc/articles/360005054893-Database-Guidelines-5-Barcodes-Identifiers"
+ },
+ {
+  "term": "Extruder",
+  "definition": "The machine that heats compound and pushes it out, like toothpaste, to form the puck.",
+  "section": "pressing",
+  "source_url": "https://tapeop.com/interviews/127/third-pressing"
+ },
+ {
+  "term": "Father",
+  "definition": "The first nickel negative pulled off the lacquer, called the master in the UK. Its grooves are ridges. One US plant uses the word for an archive copy instead.",
+  "section": "pressing",
+  "source_url": "https://en.wikipedia.org/wiki/Production_of_phonograph_records"
+ },
+ {
+  "term": "Father, mother, stamper",
+  "definition": "The plating generations off a lacquer: a negative father, a positive mother, then the negative stamper used in the press.",
+  "section": "cutting",
+  "source_url": "https://www.discmakers.com/resources/how-are-vinyl-records-made"
+ },
+ {
+  "term": "First pressing",
+  "definition": "Copies from the first production run; matrix data alone does not prove it.",
+  "section": "collecting",
+  "source_url": "https://en.wikipedia.org/wiki/Dead_wax"
+ },
+ {
+  "term": "Flash",
+  "definition": "The excess vinyl squeezed out at the edge during pressing, trimmed off and recycled.",
+  "section": "pressing",
+  "source_url": "https://www.urpressing.com/process"
+ },
+ {
+  "term": "Goldmine standard",
+  "definition": "The grading scale used mostly by US sellers and Discogs: M, NM, VG+, VG, G+, G, F, P.",
+  "section": "collecting",
+  "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/record-collectors-goldmine-what-are-the-differences-between-the-vinyl-record-grading-scales"
+ },
+ {
+  "term": "Gramophone",
+  "definition": "Emile Berliner's flat-disc system, patented November 8, 1887; the ancestor of every record since.",
+  "section": "history",
+  "source_url": "https://loc.gov/loc/lcib/1106/berliner.html"
+ },
+ {
+  "term": "Graphophone",
+  "definition": "The improved cylinder machine by Bell, Bell and Tainter that replaced tinfoil with wax, patented May 4, 1886.",
+  "section": "history",
+  "source_url": "https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/"
+ },
+ {
+  "term": "Groove pitch",
+  "definition": "How closely neighboring grooves are spaced, measured in lines per inch.",
+  "section": "cutting",
+  "source_url": "https://pspatialaudio.com/lathes.htm"
+ },
+ {
+  "term": "Groove speed",
+  "definition": "How fast the groove passes the stylus: about 21 inches per second at the outer edge of a 12 inch at 33 1/3, about 28.3 at 45.",
+  "section": "formats",
+  "source_url": "https://hifinews.com/node/134485"
+ },
+ {
+  "term": "Half-speed mastering",
+  "definition": "Running the source and lathe at half speed, an LP at about 16 2/3 rpm, to make high frequencies easier to cut.",
+  "section": "cutting",
+  "source_url": "https://www.udiscovermusic.com/halfspeed"
+ },
+ {
+  "term": "Hot stylus",
+  "definition": "A cutting stylus warmed by a wire coil so it softens the lacquer and cuts a quieter, more detailed groove; developed at Columbia in 1948.",
+  "section": "cutting",
+  "source_url": "https://microgroove.jp/history-of-phono-eq-curves/en/FAQ/what-is-hot-stylus/"
+ },
+ {
+  "term": "IAM triangle",
+  "definition": "A triangle with IAM inside, marking Capitol's Scranton plant about 1963-1973.",
+  "section": "runout",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
+ },
+ {
+  "term": "Injection molding",
+  "definition": "Shooting molten plastic into a closed mold, as Sonopress does with PET for its EcoRecord, instead of compressing a PVC puck.",
+  "section": "formats",
+  "source_url": "https://fromvinyltoplastic.com/sonopress-launches-eco-record/"
+ },
+ {
+  "term": "Inner groove distortion",
+  "definition": "Distortion and loss near the label, where the groove moves slower and wavelengths are shorter.",
+  "section": "cutting",
+  "source_url": "https://www.yoursoundmatters.com/vinyl-record-inner-groove-distortion-simple-explanation/"
+ },
+ {
+  "term": "ISCC PLUS",
+  "definition": "A certification for sustainable and circular supply chains, used for BioVinyl.",
+  "section": "planet",
+  "source_url": "https://www.optimal-media.com/en/news/biovinyl/"
+ },
+ {
+  "term": "Label baking",
+  "definition": "Drying center labels in an oven, often overnight, so moisture does not bubble them in the press.",
+  "section": "pressing",
+  "source_url": "https://customers.urpressing.com/labels"
+ },
+ {
+  "term": "Lacquer",
+  "definition": "An aluminum disc coated with nitrocellulose; the master groove is cut into the coating.",
+  "section": "pressing",
+  "source_url": "https://quals.ua/en/production-of-lacquers-on-the-example-of-gz-media"
+ },
+ {
+  "term": "Lateral and vertical modulation",
+  "definition": "Side-to-side and up-and-down motion of the groove; in stereo, music moves the stylus tip in a mix of the two.",
+  "section": "playing",
+  "source_url": "https://www.rfcafe.com/references/radio-electronics/stereo-disc-july-1958-radio-electronics.htm"
+ },
+ {
+  "term": "Lathe cut",
+  "definition": "A record cut one at a time in real time into a blank of vinyl, polycarbonate or acrylic, with no pressing.",
+  "section": "cutting",
+  "source_url": "https://www.freestyle-vinyl.com/blogs/news/what-are-lathe-cut-records"
+ },
+ {
+  "term": "LP",
+  "definition": "The long-playing 12-inch record at 33 1/3 rpm, unveiled by Columbia in June 1948.",
+  "section": "history",
+  "source_url": "https://blogs.loc.gov/now-see-hear/2019/04/inside-the-archival-box-the-first-long-playing-disc/"
+ },
+ {
+  "term": "Luminate",
+  "definition": "US sales tracker, formerly Nielsen SoundScan; counts consumer purchases rather than RIAA-style shipments.",
+  "section": "history",
+  "source_url": "https://luminatedata.com/blog/taylor-swift-wasnt-the-only-winner-of-physical-sales-in-2025/"
+ },
+ {
+  "term": "Mastering lathe",
+  "definition": "The machine that turns the blank and moves the cutter head across it.",
+  "section": "cutting",
+  "source_url": "https://www.wikiwand.com/en/articles/Mastering_lathe"
+ },
+ {
+  "term": "Mastering SID / Mould SID",
+  "definition": "Source codes on CDs: an L-code added at glass mastering and an IFPI code added at pressing.",
+  "section": "runout",
+  "source_url": "https://support.discogs.com/hc/articles/360005054893-Database-Guidelines-5-Barcodes-Identifiers"
+ },
+ {
+  "term": "Matrix number",
+  "definition": "The per-side production code in the dead wax that files the stamper and ties it to the right label.",
+  "section": "runout",
+  "source_url": "https://en.wikipedia.org/wiki/Dead_wax"
+ },
+ {
+  "term": "Microgroove",
+  "definition": "The narrow groove introduced with the 1948 LP; microgroove discs carry nearly twice as many grooves as coarse-groove discs.",
+  "section": "history",
+  "source_url": "https://psap.library.illinois.edu/collection-id-guide/phonodisc"
+ },
+ {
+  "term": "Mid and side signal",
+  "definition": "Mid (what both channels share) moves the groove side to side; side (their difference) moves it up and down.",
+  "section": "cutting",
+  "source_url": "https://flypaper.soundfly.com/produce/vinyl-how-it-works-and-what-that-means-for-you/"
+ },
+ {
+  "term": "Mother",
+  "definition": "A metal positive plated from the father, with grooves like a record, used to grow stampers.",
+  "section": "pressing",
+  "source_url": "https://en.wikipedia.org/wiki/Production_of_phonograph_records"
+ },
+ {
+  "term": "Mother number",
+  "definition": "The code showing which mother (the positive metal part) a stamper was made from.",
+  "section": "runout",
+  "source_url": "https://pspatialaudio.com/deadwax.htm"
+ },
+ {
+  "term": "Moving coil (MC)",
+  "definition": "A cartridge with the coils on the cantilever and a fixed magnet; lower output, usually under 2.5 mV, so it needs more gain.",
+  "section": "playing",
+  "source_url": "https://www.whathifi.com/advice/moving-magnet-vs-moving-coil-cartridges-which-is-right-for-you"
+ },
+ {
+  "term": "Moving magnet (MM)",
+  "definition": "A cartridge with the magnet on the cantilever and fixed coils; typical output about 4-8 mV.",
+  "section": "playing",
+  "source_url": "https://www.whathifi.com/advice/moving-magnet-vs-moving-coil-cartridges-which-is-right-for-you"
+ },
+ {
+  "term": "Near Mint (NM)",
+  "definition": "As summarized by Jazz Collector, a nearly perfect record with no obvious wear.",
+  "section": "collecting",
+  "source_url": "https://jazzcollector.com/features/grading-records/"
+ },
+ {
+  "term": "New Orthophonic",
+  "definition": "RCA Victor's equalization curve from about 1952, essentially identical to the RIAA curve.",
+  "section": "history",
+  "source_url": "https://microgroove.jp/history-of-phono-eq-curves/en/FAQ/when-was-riaa-established/"
+ },
+ {
+  "term": "One-step / two-step / three-step",
+  "definition": "How many generations of metal parts are made between lacquer and press. More steps means more stampers can come from one lacquer.",
+  "section": "pressing",
+  "source_url": "https://www.gottagrooverecords.com/process/groovecoated-stampers/"
+ },
+ {
+  "term": "One-step, two-step, three-step",
+  "definition": "How many plating generations come before the stamper; more steps give more stampers for bigger runs.",
+  "section": "cutting",
+  "source_url": "https://www.discmakers.com/resources/how-are-vinyl-records-made"
+ },
+ {
+  "term": "Overcut",
+  "definition": "Neighboring grooves running into each other, which can make a record skip.",
+  "section": "cutting",
+  "source_url": "https://rpmrecords.dk/blog/how-to-decide-on-record-length/"
+ },
+ {
+  "term": "Phonautograph",
+  "definition": "A device about 20 years older than the phonograph that traced sound waves but could not play them back; Edison reversed its process.",
+  "section": "history",
+  "source_url": "https://amhistory.si.edu/documentsgallery/exhibitions/hear-my-voice/4.html"
+ },
+ {
+  "term": "Phono preamp",
+  "definition": "An amplifier that lifts a cartridge's signal to line level and applies the inverse RIAA curve.",
+  "section": "playing",
+  "source_url": "https://crutchfield.com/learn/phono-preamp.html"
+ },
+ {
+  "term": "Phonograph",
+  "definition": "Edison's 1877 machine that recorded by pressing a stylus track into tinfoil on a cylinder, later wax; the first device to record and play back sound.",
+  "section": "history",
+  "source_url": "https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/"
+ },
+ {
+  "term": "Picture disc",
+  "definition": "A printed image sealed under a thin clear playing surface on a PVC core, per a retailer's description.",
+  "section": "formats",
+  "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/how-are-vinyl-picture-discs-made-and-why-dont-they-sound-as-good-as-a-regular-record"
+ },
+ {
+  "term": "Pitch control",
+  "definition": "A fader that changes platter speed to match tempos; plus or minus 8% or 16% on SL-1200 models.",
+  "section": "dj",
+  "source_url": "https://en.wikipedia.org/wiki/Technics_SL-1200"
+ },
+ {
+  "term": "Porky Prime Cut",
+  "definition": "The runout signature of UK cutting engineer George Peckham.",
+  "section": "runout",
+  "source_url": "https://www.soundandvision.com/content/porkys-prime-cuts"
+ },
+ {
+  "term": "Pre-echo and post-echo",
+  "definition": "A faint copy of a loud passage heard right before or after it, a risk of tight spacing on lacquer.",
+  "section": "cutting",
+  "source_url": "https://rpmrecords.dk/blog/how-to-decide-on-record-length/"
+ },
+ {
+  "term": "Pressing ring",
+  "definition": "The circular indent on the label left by the press; its diameter can point to a plant.",
+  "section": "runout",
+  "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
+ },
+ {
+  "term": "Puck (biscuit)",
+  "definition": "The warm lump of compound placed between the stampers, about three times as thick as the finished record.",
+  "section": "pressing",
+  "source_url": "https://vinylmoon.co/blogs/the-vinyl-moon-blog/how-records-are-made-part-2"
+ },
+ {
+  "term": "Pure album sales",
+  "definition": "Physical and digital album purchases only, without streams.",
+  "section": "money",
+  "source_url": "https://6abc.com/post/taylor-swifts-life-showgirl-makes-history-selling-4m-copies-first-week/18003996/"
+ },
+ {
+  "term": "PVC",
+  "definition": "Polyvinyl chloride, the plastic most records are pressed from.",
+  "section": "planet",
+  "source_url": "https://www.vermontpublic.org/vpr-news/2015-06-01/burlington-record-plant-revives-the-art-of-pressing-vinyl"
+ },
+ {
+  "term": "RE",
+  "definition": "A repress marker on some matrices.",
+  "section": "runout",
+  "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
+ },
+ {
+  "term": "Record Collector scale",
+  "definition": "The UK grading scale, which includes Excellent at roughly Goldmine VG+.",
+  "section": "collecting",
+  "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/record-collectors-goldmine-what-are-the-differences-between-the-vinyl-record-grading-scales"
+ },
+ {
+  "term": "Record Store Day",
+  "definition": "An annual day of shop-only limited releases, first held April 19, 2008.",
+  "section": "collecting",
+  "source_url": "https://www.recordstoreday.co.uk/about"
+ },
+ {
+  "term": "RIAA",
+  "definition": "Recording Industry Association of America; sets US record standards and publishes official US shipment and revenue figures.",
+  "section": "history",
+  "source_url": "https://www.riaa.com/wp-content/uploads/2026/03/RIAA-Year-End-Revenue-2025.pdf"
+ },
+ {
+  "term": "RIAA curve",
+  "definition": "The standard disc EQ: bass cut and treble boost when cutting, reversed on playback; time constants 3180, 318 and 75 microseconds.",
+  "section": "playing",
+  "source_url": "https://www.stereophile.com/features/cut_and_thrust_riaa_lp_equalization/index.html"
+ },
+ {
+  "term": "Rumble",
+  "definition": "Low-frequency noise from the turntable's own moving parts that the stylus picks up.",
+  "section": "playing",
+  "source_url": "https://audio-technica.com/en-us/support/audio-solutions-question-of-the-week-what-do-the-specifications-on-your-turntable-product-pages-mean"
+ },
+ {
+  "term": "Rush",
+  "definition": "A paid faster turnaround, priced per record.",
+  "section": "money",
+  "source_url": "https://www.nationalaudiocompany.com/wp-content/uploads/2026/06/Vinyl-Pricing-June-1-2026.pdf"
+ },
+ {
+  "term": "Scratching",
+  "definition": "Moving a record back and forth under the stylus to make rhythmic sounds.",
+  "section": "dj",
+  "source_url": "https://kexp.org/podcasts/50-years-of-hip-hop/2023/2/15/1977-grand-wizzard-theodore-and-the-invention-of-scratching"
+ },
+ {
+  "term": "Shellac",
+  "definition": "The compound used for 78s: shellac resin with fillers such as clay, slate or limestone, carbon black and cotton fibers. Heavy and brittle.",
+  "section": "history",
+  "source_url": "https://psap.library.illinois.edu/collection-id-guide/phonodisc"
+ },
+ {
+  "term": "Silvering",
+  "definition": "Spraying a thin conductive silver layer onto the lacquer, the same way a mirror is made, so it can be electroplated.",
+  "section": "pressing",
+  "source_url": "https://en.wikipedia.org/wiki/Production_of_phonograph_records"
+ },
+ {
+  "term": "Skating force",
+  "definition": "The inward pull on a pivoted, offset tonearm caused by groove friction.",
+  "section": "playing",
+  "source_url": "https://www.stereophile.com/content/skating-force-phenomenon"
+ },
+ {
+  "term": "Slip-cue",
+  "definition": "Holding a record still on a slipmat while the platter spins, then letting go; a workaround on belt-drive decks.",
+  "section": "dj",
+  "source_url": "https://spectrum.ieee.org/the-consumer-electronics-hall-of-fame-the-matsushitatechnics-sl1200"
+ },
+ {
+  "term": "Splatter",
+  "definition": "A color effect made by mixing pellets of different colors in one biscuit.",
+  "section": "formats",
+  "source_url": "https://archive.thevinylfactory.com/?p=218010"
+ },
+ {
+  "term": "Stamper",
+  "definition": "A thin nickel negative, about 145 grams, mounted in the press, one per side. Worn stampers are replaced from the mother.",
+  "section": "pressing",
+  "source_url": "https://en.wikipedia.org/wiki/Production_of_phonograph_records"
+ },
+ {
+  "term": "Stamper code",
+  "definition": "Letters or numbers showing which stamper pressed the copy, such as EMI's GRAMOPHLTD and Decca's BUCKINGHAM ciphers.",
+  "section": "runout",
+  "source_url": "https://pspatialaudio.com/deadwax.htm"
+ },
+ {
+  "term": "Steamless press",
+  "definition": "A press whose molds are heated by electrically heated water instead of steam from a gas boiler.",
+  "section": "pressing",
+  "source_url": "https://www.engadget.com/2018-12-03-vinyl-record-production-steamless-viryl-technologies.html"
+ },
+ {
+  "term": "Stylus",
+  "definition": "The diamond tip that rides in the groove; its shape (conical, elliptical, Shibata, MicroLine, line contact) sets how much of the groove wall it touches.",
+  "section": "playing",
+  "source_url": "https://online.flippingbook.com/view/420781538/33/"
+ },
+ {
+  "term": "Test pressing",
+  "definition": "The first few records off new stampers, usually four or five, sent to the artist and label for approval before the run.",
+  "section": "pressing",
+  "source_url": "https://vinylmoon.co/blogs/the-vinyl-moon-blog/how-records-are-made-part-2"
+ },
+ {
+  "term": "Time constant",
+  "definition": "One of the values (3180, 318 and 75 microseconds) that set the corners of the RIAA curve.",
+  "section": "cutting",
+  "source_url": "https://www.stereophile.com/features/cut_and_thrust_riaa_lp_equalization/index.html"
+ },
+ {
+  "term": "Timecode vinyl",
+  "definition": "A control record pressed with a tone (1,000 Hz for Serato) that software reads for speed, direction and position.",
+  "section": "dj",
+  "source_url": "https://homepages.rub.de/jan.holthuis/how-does-timecode-vinyl-actually-work-pt-1.html"
+ },
+ {
+  "term": "Tip-on jacket",
+  "definition": "An older jacket construction with printed paper glued over board.",
+  "section": "money",
+  "source_url": "https://www.nationalaudiocompany.com/wp-content/uploads/2026/06/Vinyl-Pricing-June-1-2026.pdf"
+ },
+ {
+  "term": "Tracking force",
+  "definition": "The downward weight on the stylus in grams, set with the counterweight to the cartridge maker's figure.",
+  "section": "playing",
+  "source_url": "https://www.ortofon.com/stylus-2m-red-p-390"
+ },
+ {
+  "term": "Turnaround",
+  "definition": "The time from an approved order to delivery; one US plant listed 6-8 weeks as standard in 2026.",
+  "section": "money",
+  "source_url": "https://www.nationalaudiocompany.com/wp-content/uploads/2026/06/Vinyl-Pricing-June-1-2026.pdf"
+ },
+ {
+  "term": "Turntablism",
+  "definition": "Using turntables as musical instruments; the term was coined by DJ Babu in 1995.",
+  "section": "dj",
+  "source_url": "https://www.thevinylfactory.com/features/a-brief-history-of-turntablism"
+ },
+ {
+  "term": "Variable pitch",
+  "definition": "Automatic widening and tightening of groove spacing to fit the music, driven by a preview signal about a second ahead.",
+  "section": "cutting",
+  "source_url": "https://pspatialaudio.com/lathes.htm"
+ },
+ {
+  "term": "Variant",
+  "definition": "The same album in a different color, cover or retailer-exclusive edition.",
+  "section": "money",
+  "source_url": "https://6abc.com/post/taylor-swifts-life-showgirl-makes-history-selling-4m-copies-first-week/18003996/"
+ },
+ {
+  "term": "Very Good Plus (VG+)",
+  "definition": "As summarized by Jazz Collector, a record showing signs of careful play and slight wear.",
+  "section": "collecting",
+  "source_url": "https://jazzcollector.com/features/grading-records/"
+ },
+ {
+  "term": "Vinylite",
+  "definition": "The vinyl compound Columbia used for its first LPs, sold as nonbreakable.",
+  "section": "history",
+  "source_url": "https://blogs.loc.gov/now-see-hear/2019/04/inside-the-archival-box-the-first-long-playing-disc/"
+ },
+ {
+  "term": "VRMA",
+  "definition": "The Vinyl Record Manufacturers Association of North America, founded after the 2020 Apollo Masters fire.",
+  "section": "pressing",
+  "source_url": "https://en.wikipedia.org/wiki/Apollo_Masters_Corporation_fire"
+ },
+ {
+  "term": "War of the speeds",
+  "definition": "The 1949-50 contest between Columbia's 33 1/3 and RCA Victor's 45; it ended with the LP as the album and the 45 as the single.",
+  "section": "history",
+  "source_url": "https://microgroove.jp/history-of-phono-eq-curves/en/FAQ/battle-of-the-speeds/"
+ },
+ {
+  "term": "Wow and flutter",
+  "definition": "Slow (wow) and fast (flutter) speed wobble, given as a percentage; lower is better.",
+  "section": "playing",
+  "source_url": "https://audio-technica.com/en-us/support/audio-solutions-question-of-the-week-what-do-the-specifications-on-your-turntable-product-pages-mean"
+ }
+]

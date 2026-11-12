@@ -1,0 +1,128 @@
+[
+ {
+  "term": "Lacquer",
+  "definition": "An aluminum disc coated with nitrocellulose; the master groove is cut into the coating.",
+  "section": "pressing",
+  "source_url": "https://quals.ua/en/production-of-lacquers-on-the-example-of-gz-media"
+ },
+ {
+  "term": "Silvering",
+  "definition": "Spraying a thin conductive silver layer onto the lacquer, the same way a mirror is made, so it can be electroplated.",
+  "section": "pressing",
+  "source_url": "https://en.wikipedia.org/wiki/Production_of_phonograph_records"
+ },
+ {
+  "term": "Electroplating",
+  "definition": "Growing nickel onto the silvered lacquer in a chemical bath with electric current to make metal copies of the groove.",
+  "section": "pressing",
+  "source_url": "https://en.wikipedia.org/wiki/Production_of_phonograph_records"
+ },
+ {
+  "term": "Father",
+  "definition": "The first nickel negative pulled off the lacquer, called the master in the UK. Its grooves are ridges. One US plant uses the word for an archive copy instead.",
+  "section": "pressing",
+  "source_url": "https://en.wikipedia.org/wiki/Production_of_phonograph_records"
+ },
+ {
+  "term": "Mother",
+  "definition": "A metal positive plated from the father, with grooves like a record, used to grow stampers.",
+  "section": "pressing",
+  "source_url": "https://en.wikipedia.org/wiki/Production_of_phonograph_records"
+ },
+ {
+  "term": "Stamper",
+  "definition": "A thin nickel negative, about 145 grams, mounted in the press, one per side. Worn stampers are replaced from the mother.",
+  "section": "pressing",
+  "source_url": "https://en.wikipedia.org/wiki/Production_of_phonograph_records"
+ },
+ {
+  "term": "One-step / two-step / three-step",
+  "definition": "How many generations of metal parts are made between lacquer and press. More steps means more stampers can come from one lacquer.",
+  "section": "pressing",
+  "source_url": "https://www.gottagrooverecords.com/process/groovecoated-stampers/"
+ },
+ {
+  "term": "Direct Metal Mastering (DMM)",
+  "definition": "Cutting straight into copper instead of lacquer, which skips the lacquer and its plating.",
+  "section": "pressing",
+  "source_url": "https://direct.djmag.com/longreads/vinyl-production-really-under-threat"
+ },
+ {
+  "term": "Test pressing",
+  "definition": "The first few records off new stampers, usually four or five, sent to the artist and label for approval before the run.",
+  "section": "pressing",
+  "source_url": "https://vinylmoon.co/blogs/the-vinyl-moon-blog/how-records-are-made-part-2"
+ },
+ {
+  "term": "Compound",
+  "definition": "The PVC mix records are pressed from, sold as pellets. Black comes from carbon black.",
+  "section": "pressing",
+  "source_url": "https://www.analogplanet.com/content/thai-vinyl-noodle-factory-tpc-thai-plastic-company"
+ },
+ {
+  "term": "Puck (biscuit)",
+  "definition": "The warm lump of compound placed between the stampers, about three times as thick as the finished record.",
+  "section": "pressing",
+  "source_url": "https://vinylmoon.co/blogs/the-vinyl-moon-blog/how-records-are-made-part-2"
+ },
+ {
+  "term": "Extruder",
+  "definition": "The machine that heats compound and pushes it out, like toothpaste, to form the puck.",
+  "section": "pressing",
+  "source_url": "https://tapeop.com/interviews/127/third-pressing"
+ },
+ {
+  "term": "Flash",
+  "definition": "The excess vinyl squeezed out at the edge during pressing, trimmed off and recycled.",
+  "section": "pressing",
+  "source_url": "https://www.urpressing.com/process"
+ },
+ {
+  "term": "Label baking",
+  "definition": "Drying center labels in an oven, often overnight, so moisture does not bubble them in the press.",
+  "section": "pressing",
+  "source_url": "https://customers.urpressing.com/labels"
+ },
+ {
+  "term": "Steamless press",
+  "definition": "A press whose molds are heated by electrically heated water instead of steam from a gas boiler.",
+  "section": "pressing",
+  "source_url": "https://www.engadget.com/2018-12-03-vinyl-record-production-steamless-viryl-technologies.html"
+ },
+ {
+  "term": "VRMA",
+  "definition": "The Vinyl Record Manufacturers Association of North America, founded after the 2020 Apollo Masters fire.",
+  "section": "pressing",
+  "source_url": "https://en.wikipedia.org/wiki/Apollo_Masters_Corporation_fire"
+ },
+ {
+  "term": "180 gram",
+  "definition": "A heavier 12 inch LP. Standard weight is about 130-155 grams; 180 gram records use the same stampers and groove depth.",
+  "section": "formats",
+  "source_url": "https://support.discmakers.com/hc/en-us/articles/209637637-Vinyl-Record-Weights-What-Is-180-Gram-And-Is-It-Important"
+ },
+ {
+  "term": "Splatter",
+  "definition": "A color effect made by mixing pellets of different colors in one biscuit.",
+  "section": "formats",
+  "source_url": "https://archive.thevinylfactory.com/?p=218010"
+ },
+ {
+  "term": "Picture disc",
+  "definition": "A printed image sealed under a thin clear playing surface on a PVC core, per a retailer's description.",
+  "section": "formats",
+  "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/how-are-vinyl-picture-discs-made-and-why-dont-they-sound-as-good-as-a-regular-record"
+ },
+ {
+  "term": "Injection molding",
+  "definition": "Shooting molten plastic into a closed mold, as Sonopress does with PET for its EcoRecord, instead of compressing a PVC puck.",
+  "section": "formats",
+  "source_url": "https://fromvinyltoplastic.com/sonopress-launches-eco-record/"
+ },
+ {
+  "term": "Groove speed",
+  "definition": "How fast the groove passes the stylus: about 21 inches per second at the outer edge of a 12 inch at 33 1/3, about 28.3 at 45.",
+  "section": "formats",
+  "source_url": "https://hifinews.com/node/134485"
+ }
+]

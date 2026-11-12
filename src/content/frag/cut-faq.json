@@ -1,0 +1,37 @@
+[
+ {
+  "q": "How many minutes fit on one side of a vinyl record?",
+  "a": "It depends on size, speed and the music. One US plant suggests 18 to 20 minutes for a 12-inch at 33 1/3 rpm and 12 to 14 at 45, while a Danish plant allows up to 15 minutes at 45 and 5 on a 7-inch. Quiet, lightly compressed music can run longer.",
+  "section": "cutting"
+ },
+ {
+  "q": "Why does bass need to be mono for vinyl?",
+  "a": "Differences between the left and right channels move the groove up and down, and big low-frequency differences make big vertical swings that can cause skipping. Plants advise centering bass, though at least one veteran cutting engineer found that skipping the mono filter often sounded fuller.",
+  "section": "cutting"
+ },
+ {
+  "q": "What is the RIAA curve?",
+  "a": "It is the standard EQ for records, set in 1954: the cut reduces bass and boosts treble, and the playback stage reverses it so the result is flat. It keeps bass from hogging groove space and improves signal-to-noise.",
+  "section": "cutting"
+ },
+ {
+  "q": "Why does the end of a record side sound worse?",
+  "a": "The groove moves slower near the label, about 7.4 inches per second against almost 21 at the rim on a 12-inch LP, so wavelengths get shorter and harder to track. Loud, bright passages suffer most, which is why quiet songs often close a side.",
+  "section": "cutting"
+ },
+ {
+  "q": "What does DMM mean on a vinyl record?",
+  "a": "Direct Metal Mastering cuts the groove into copper on a stainless steel disc instead of lacquer, and the cut disc acts as the mother for plating. Teldec claims more playing time and less noise; some listeners hear DMM as bright.",
+  "section": "cutting"
+ },
+ {
+  "q": "What is half-speed mastering?",
+  "a": "The source and lathe both run at half speed, so an LP is cut at about 16 2/3 rpm, giving the stylus more time for high frequencies. It needs modified EQ and takes about four times as long per cut.",
+  "section": "cutting"
+ },
+ {
+  "q": "What is a lathe-cut record?",
+  "a": "A record cut one at a time in real time into a blank, with no plating or pressing. Sellers pitch it for one copy up to a few dozen, with lower and more variable fidelity than pressed vinyl.",
+  "section": "cutting"
+ }
+]

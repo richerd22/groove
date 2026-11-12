@@ -1,0 +1,42 @@
+[
+ {
+  "q": "How long does a turntable stylus last?",
+  "a": "It depends on the maker and shape. Audio-Technica's 2025 catalogue rates its conical styli at about 300-500 hours, elliptical at about 300 and MicroLine at about 1,000, while Ortofon says its elliptical 2M Red can reach up to 1,000 hours.",
+  "section": "playing"
+ },
+ {
+  "q": "What's the difference between moving magnet and moving coil cartridges?",
+  "a": "A moving magnet cartridge has the magnet on the cantilever and fixed coils; a moving coil cartridge reverses that. MC output is lower, usually under 2.5 mV against 4-8 mV for MM, so MC needs more phono gain.",
+  "section": "playing"
+ },
+ {
+  "q": "Do I need a phono preamp for my turntable?",
+  "a": "Yes, either built into the turntable or separate. It lifts the cartridge's tiny signal to line level and applies the inverse RIAA curve; a PHONO/LINE switch on a turntable selects a built-in stage.",
+  "section": "playing"
+ },
+ {
+  "q": "Why does my record keep skipping?",
+  "a": "The stylus is losing the groove. Common causes are a deck that is not level, tracking force too light, wrong anti-skate, a dirty or worn stylus, a warp, worn grooves or dust.",
+  "section": "playing"
+ },
+ {
+  "q": "Does playing vinyl wear it out?",
+  "a": "Yes, to a degree. A 1968 RCA study found wear rose sharply between 1.5 g and 5 g of tracking force, and a 1980 study found chip-like fractures that grew with plays; the two disagree on the mechanism.",
+  "section": "playing"
+ },
+ {
+  "q": "How should I store vinyl records?",
+  "a": "Upright on edge with full-height dividers every 4-6 inches, without mixing sizes. The Library of Congress suggests room temperature or below and about 35-40% relative humidity at home, away from attics and basements.",
+  "section": "playing"
+ },
+ {
+  "q": "Who invented scratching?",
+  "a": "Grand Wizzard Theodore in the Bronx is usually credited. KEXP dates his discovery to 1975 and his public debut to 1977, other sources give the early 1980s or early 1970s, and KEXP notes he may not have been the first.",
+  "section": "dj"
+ },
+ {
+  "q": "How does Serato timecode vinyl work?",
+  "a": "The control record carries a 1,000 Hz tone with the right channel 90 degrees behind the left, which tells the software speed and direction. Position bits on the tone let absolute mode know where the needle is, per open-source developers who reverse-engineered it.",
+  "section": "dj"
+ }
+]

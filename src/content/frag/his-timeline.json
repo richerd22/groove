@@ -1,0 +1,107 @@
+[
+ {
+  "date": "1877",
+  "label": "Edison's tinfoil phonograph",
+  "detail": "The first machine to record and play back sound; patent application filed December 24, 1877.",
+  "source_url": "https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/",
+  "era": "Before 1948"
+ },
+ {
+  "date": "1887-11-08",
+  "label": "Berliner patents the gramophone",
+  "detail": "Flat, double-sided discs with spiral grooves, cheaper to mass-produce than cylinders.",
+  "source_url": "https://loc.gov/loc/lcib/1106/berliner.html",
+  "era": "Before 1948"
+ },
+ {
+  "date": "1897",
+  "label": "Commercial shellac 78s begin",
+  "detail": "Shellac discs are produced commercially from 1897 until the late 1950s.",
+  "source_url": "https://psap.library.illinois.edu/collection-id-guide/phonodisc",
+  "era": "Before 1948"
+ },
+ {
+  "date": "1913",
+  "label": "Edison switches to discs",
+  "detail": "Edison announces the Edison Disc Phonograph, conceding the public prefers discs; cylinders continue until 1929.",
+  "source_url": "https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/",
+  "era": "Before 1948"
+ },
+ {
+  "date": "1948-06",
+  "label": "Columbia unveils the LP",
+  "detail": "Announced at the Waldorf Astoria in New York; the Library of Congress gives June 21, other sources June 18.",
+  "source_url": "https://blogs.loc.gov/now-see-hear/2019/04/inside-the-archival-box-the-first-long-playing-disc/",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1949-01-10",
+  "label": "RCA Victor introduces the 45",
+  "detail": "A 7-inch 45 rpm single with a large center hole, the day after Columbia announced a 7-inch 33 1/3 single.",
+  "source_url": "https://microgroove.jp/history-of-phono-eq-curves/en/FAQ/battle-of-the-speeds/",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1950",
+  "label": "The war of the speeds ends in a split",
+  "detail": "RCA issues LPs in April and Columbia issues 45s in August: LP for albums, 45 for singles.",
+  "source_url": "https://microgroove.jp/history-of-phono-eq-curves/en/FAQ/battle-of-the-speeds/",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1954-01-29",
+  "label": "RIAA curve approved",
+  "detail": "The RIAA Technical Committee approves one US playback equalization standard, still in use.",
+  "source_url": "https://microgroove.jp/history-of-phono-eq-curves/en/FAQ/when-was-riaa-established/",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1957-12-27",
+  "label": "Stereo standard adopted",
+  "detail": "The RIAA adopts the Westrex 45/45 single-groove stereo system as the US standard.",
+  "source_url": "https://gammaelectronics.xyz/audio_03-1975_westrex.html",
+  "era": "1948-1981"
+ },
+ {
+  "date": "1983",
+  "label": "Cassettes pass LPs",
+  "detail": "Cassettes take 47.8% of US dollar value against 44.6% for LPs and EPs.",
+  "source_url": "https://richardhess.com/notes/2013/04/10/us-music-media-statistics/",
+  "era": "1982-2006"
+ },
+ {
+  "date": "2006",
+  "label": "US vinyl hits bottom",
+  "detail": "RIAA LP and EP shipments fall to about 900,000 (SoundScan's low, 857,000 albums, came in 2005).",
+  "source_url": "https://www.spinmagazine.com/2014/05/did-vinyl-really-die-in-the-90s-death-resurgence-sales/",
+  "era": "1982-2006"
+ },
+ {
+  "date": "2008-04",
+  "label": "First Record Store Day",
+  "detail": "Conceived in September 2007 and first held in April 2008.",
+  "source_url": "https://www.thevinyldistrict.com/storefront/record-store-days-michael-kurtz-and-carrie-colliton-the-tvd-interview/",
+  "era": "2007-now"
+ },
+ {
+  "date": "2020",
+  "label": "US vinyl revenue passes CD",
+  "detail": "$626 million against $483 million, the first time since 1986 (RIAA).",
+  "source_url": "https://www.whathifi.com/news/vinyl-revenue-overtakes-cds-for-the-first-time-since-1986",
+  "era": "2007-now"
+ },
+ {
+  "date": "2022",
+  "label": "US vinyl passes CD in units",
+  "detail": "41 million vinyl units against 33 million CDs, the first time since 1987 (RIAA).",
+  "source_url": "https://www.rollingstone.com/music/music-news/riaa-vinyl-units-surpass-cds-1234693223/",
+  "era": "2007-now"
+ },
+ {
+  "date": "2025",
+  "label": "US vinyl tops $1 billion",
+  "detail": "$1,042.9 million on 46.8 million units, the 19th straight year of growth (RIAA).",
+  "source_url": "https://www.riaa.com/wp-content/uploads/2026/03/RIAA-Year-End-Revenue-2025.pdf",
+  "era": "2007-now"
+ }
+]

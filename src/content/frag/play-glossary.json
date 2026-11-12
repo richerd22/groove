@@ -1,0 +1,134 @@
+[
+ {
+  "term": "45/45 system",
+  "definition": "The stereo groove standard: two channels cut at 45 degrees to the record surface and 90 degrees to each other, so the stylus moves both sideways and up and down.",
+  "section": "playing",
+  "source_url": "https://dsu-digital-sound-design.github.io/f-23-history-of-recorded-music/lectures/week-8/control-men/The_Westrex_Stereo_Disk_System.pdf"
+ },
+ {
+  "term": "Lateral and vertical modulation",
+  "definition": "Side-to-side and up-and-down motion of the groove; in stereo, music moves the stylus tip in a mix of the two.",
+  "section": "playing",
+  "source_url": "https://www.rfcafe.com/references/radio-electronics/stereo-disc-july-1958-radio-electronics.htm"
+ },
+ {
+  "term": "Moving magnet (MM)",
+  "definition": "A cartridge with the magnet on the cantilever and fixed coils; typical output about 4-8 mV.",
+  "section": "playing",
+  "source_url": "https://www.whathifi.com/advice/moving-magnet-vs-moving-coil-cartridges-which-is-right-for-you"
+ },
+ {
+  "term": "Moving coil (MC)",
+  "definition": "A cartridge with the coils on the cantilever and a fixed magnet; lower output, usually under 2.5 mV, so it needs more gain.",
+  "section": "playing",
+  "source_url": "https://www.whathifi.com/advice/moving-magnet-vs-moving-coil-cartridges-which-is-right-for-you"
+ },
+ {
+  "term": "Cantilever",
+  "definition": "The tiny arm that carries the stylus and passes its motion to the cartridge's generator.",
+  "section": "playing",
+  "source_url": "https://www.whathifi.com/advice/moving-magnet-vs-moving-coil-cartridges-which-is-right-for-you"
+ },
+ {
+  "term": "Stylus",
+  "definition": "The diamond tip that rides in the groove; its shape (conical, elliptical, Shibata, MicroLine, line contact) sets how much of the groove wall it touches.",
+  "section": "playing",
+  "source_url": "https://online.flippingbook.com/view/420781538/33/"
+ },
+ {
+  "term": "Tracking force",
+  "definition": "The downward weight on the stylus in grams, set with the counterweight to the cartridge maker's figure.",
+  "section": "playing",
+  "source_url": "https://www.ortofon.com/stylus-2m-red-p-390"
+ },
+ {
+  "term": "Skating force",
+  "definition": "The inward pull on a pivoted, offset tonearm caused by groove friction.",
+  "section": "playing",
+  "source_url": "https://www.stereophile.com/content/skating-force-phenomenon"
+ },
+ {
+  "term": "Anti-skate",
+  "definition": "An outward bias on the tonearm that cancels skating force; dial numbers do not equal the actual force.",
+  "section": "playing",
+  "source_url": "https://www.stereophile.com/content/skating-force-phenomenon"
+ },
+ {
+  "term": "Phono preamp",
+  "definition": "An amplifier that lifts a cartridge's signal to line level and applies the inverse RIAA curve.",
+  "section": "playing",
+  "source_url": "https://crutchfield.com/learn/phono-preamp.html"
+ },
+ {
+  "term": "RIAA curve",
+  "definition": "The standard disc EQ: bass cut and treble boost when cutting, reversed on playback; time constants 3180, 318 and 75 microseconds.",
+  "section": "playing",
+  "source_url": "https://www.stereophile.com/features/cut_and_thrust_riaa_lp_equalization/index.html"
+ },
+ {
+  "term": "Direct drive",
+  "definition": "A turntable whose platter sits on the motor itself, giving high torque and a fast start.",
+  "section": "playing",
+  "source_url": "https://audio-technica.com/en-us/support/audio-solutions-question-of-the-week-what-do-the-specifications-on-your-turntable-product-pages-mean"
+ },
+ {
+  "term": "Belt drive",
+  "definition": "A turntable whose motor turns the platter through a belt.",
+  "section": "playing",
+  "source_url": "https://audio-technica.com/en-us/support/audio-solutions-question-of-the-week-what-do-the-specifications-on-your-turntable-product-pages-mean"
+ },
+ {
+  "term": "Wow and flutter",
+  "definition": "Slow (wow) and fast (flutter) speed wobble, given as a percentage; lower is better.",
+  "section": "playing",
+  "source_url": "https://audio-technica.com/en-us/support/audio-solutions-question-of-the-week-what-do-the-specifications-on-your-turntable-product-pages-mean"
+ },
+ {
+  "term": "Rumble",
+  "definition": "Low-frequency noise from the turntable's own moving parts that the stylus picks up.",
+  "section": "playing",
+  "source_url": "https://audio-technica.com/en-us/support/audio-solutions-question-of-the-week-what-do-the-specifications-on-your-turntable-product-pages-mean"
+ },
+ {
+  "term": "Pitch control",
+  "definition": "A fader that changes platter speed to match tempos; plus or minus 8% or 16% on SL-1200 models.",
+  "section": "dj",
+  "source_url": "https://en.wikipedia.org/wiki/Technics_SL-1200"
+ },
+ {
+  "term": "Slip-cue",
+  "definition": "Holding a record still on a slipmat while the platter spins, then letting go; a workaround on belt-drive decks.",
+  "section": "dj",
+  "source_url": "https://spectrum.ieee.org/the-consumer-electronics-hall-of-fame-the-matsushitatechnics-sl1200"
+ },
+ {
+  "term": "Scratching",
+  "definition": "Moving a record back and forth under the stylus to make rhythmic sounds.",
+  "section": "dj",
+  "source_url": "https://kexp.org/podcasts/50-years-of-hip-hop/2023/2/15/1977-grand-wizzard-theodore-and-the-invention-of-scratching"
+ },
+ {
+  "term": "Turntablism",
+  "definition": "Using turntables as musical instruments; the term was coined by DJ Babu in 1995.",
+  "section": "dj",
+  "source_url": "https://www.thevinylfactory.com/features/a-brief-history-of-turntablism"
+ },
+ {
+  "term": "DVS (digital vinyl system)",
+  "definition": "Software and an audio interface that let a turntable control digital files through timecode vinyl.",
+  "section": "dj",
+  "source_url": "https://en.wikipedia.org/wiki/Vinyl_emulation"
+ },
+ {
+  "term": "Timecode vinyl",
+  "definition": "A control record pressed with a tone (1,000 Hz for Serato) that software reads for speed, direction and position.",
+  "section": "dj",
+  "source_url": "https://homepages.rub.de/jan.holthuis/how-does-timecode-vinyl-actually-work-pt-1.html"
+ },
+ {
+  "term": "Absolute and relative mode",
+  "definition": "DVS modes that do (absolute) or do not (relative) track where the needle sits on the record.",
+  "section": "dj",
+  "source_url": "https://homepages.rub.de/jan.holthuis/how-does-timecode-vinyl-actually-work-pt-1.html"
+ }
+]

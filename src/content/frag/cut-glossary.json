@@ -1,0 +1,128 @@
+[
+ {
+  "term": "Lacquer",
+  "definition": "An aluminum disc with a thick lacquer coat, cut in real time on a lathe; one is cut per side.",
+  "section": "cutting",
+  "source_url": "https://hub.yamaha.com/audio/vinyl/how-a-vinyl-record-is-made"
+ },
+ {
+  "term": "Cutting stylus",
+  "definition": "The small chisel, usually sapphire, in the cutter head that carves the groove.",
+  "section": "cutting",
+  "source_url": "https://hub.yamaha.com/audio/vinyl/how-a-vinyl-record-is-made"
+ },
+ {
+  "term": "Hot stylus",
+  "definition": "A cutting stylus warmed by a wire coil so it softens the lacquer and cuts a quieter, more detailed groove; developed at Columbia in 1948.",
+  "section": "cutting",
+  "source_url": "https://microgroove.jp/history-of-phono-eq-curves/en/FAQ/what-is-hot-stylus/"
+ },
+ {
+  "term": "Burnishing facet",
+  "definition": "A tiny flat on the cutting stylus that polishes the groove wall; the hot stylus allowed much smaller ones.",
+  "section": "cutting",
+  "source_url": "https://microgroove.jp/history-of-phono-eq-curves/en/FAQ/what-is-hot-stylus/"
+ },
+ {
+  "term": "Mastering lathe",
+  "definition": "The machine that turns the blank and moves the cutter head across it.",
+  "section": "cutting",
+  "source_url": "https://www.wikiwand.com/en/articles/Mastering_lathe"
+ },
+ {
+  "term": "Cutter head",
+  "definition": "The transducer that turns the amplified signal into stylus motion, such as the Neumann SX-74.",
+  "section": "cutting",
+  "source_url": "https://www.psaudio.com/blogs/copper/around-the-world-in-80-lathes-part-two"
+ },
+ {
+  "term": "Direct Metal Mastering (DMM)",
+  "definition": "Cutting the groove straight into copper plated on stainless steel instead of lacquer; the cut disc serves as the mother for plating.",
+  "section": "cutting",
+  "source_url": "https://www.discolathe.com/.pdfs/TELDEC_DMM_Technology-EN.pdf"
+ },
+ {
+  "term": "RIAA curve",
+  "definition": "The standard EQ for records: bass cut and treble boost when cutting, the reverse on playback, for a flat overall response.",
+  "section": "cutting",
+  "source_url": "https://www.stereophile.com/features/cut_and_thrust_riaa_lp_equalization/index.html"
+ },
+ {
+  "term": "Time constant",
+  "definition": "One of the values (3180, 318 and 75 microseconds) that set the corners of the RIAA curve.",
+  "section": "cutting",
+  "source_url": "https://www.stereophile.com/features/cut_and_thrust_riaa_lp_equalization/index.html"
+ },
+ {
+  "term": "Groove pitch",
+  "definition": "How closely neighboring grooves are spaced, measured in lines per inch.",
+  "section": "cutting",
+  "source_url": "https://pspatialaudio.com/lathes.htm"
+ },
+ {
+  "term": "Variable pitch",
+  "definition": "Automatic widening and tightening of groove spacing to fit the music, driven by a preview signal about a second ahead.",
+  "section": "cutting",
+  "source_url": "https://pspatialaudio.com/lathes.htm"
+ },
+ {
+  "term": "Overcut",
+  "definition": "Neighboring grooves running into each other, which can make a record skip.",
+  "section": "cutting",
+  "source_url": "https://rpmrecords.dk/blog/how-to-decide-on-record-length/"
+ },
+ {
+  "term": "Pre-echo and post-echo",
+  "definition": "A faint copy of a loud passage heard right before or after it, a risk of tight spacing on lacquer.",
+  "section": "cutting",
+  "source_url": "https://rpmrecords.dk/blog/how-to-decide-on-record-length/"
+ },
+ {
+  "term": "Inner groove distortion",
+  "definition": "Distortion and loss near the label, where the groove moves slower and wavelengths are shorter.",
+  "section": "cutting",
+  "source_url": "https://www.yoursoundmatters.com/vinyl-record-inner-groove-distortion-simple-explanation/"
+ },
+ {
+  "term": "Elliptical EQ",
+  "definition": "A filter that sums low frequencies to mono so the groove avoids large vertical swings.",
+  "section": "cutting",
+  "source_url": "https://rpmrecords.dk/blog/50-years-of-record-cutting-with-richard-simpson/"
+ },
+ {
+  "term": "Mid and side signal",
+  "definition": "Mid (what both channels share) moves the groove side to side; side (their difference) moves it up and down.",
+  "section": "cutting",
+  "source_url": "https://flypaper.soundfly.com/produce/vinyl-how-it-works-and-what-that-means-for-you/"
+ },
+ {
+  "term": "De-essing",
+  "definition": "Taming harsh 's' sounds before cutting, since heavy sibilance can distort the master.",
+  "section": "cutting",
+  "source_url": "https://www.gottagrooverecords.com/vinyl-mastering"
+ },
+ {
+  "term": "Half-speed mastering",
+  "definition": "Running the source and lathe at half speed, an LP at about 16 2/3 rpm, to make high frequencies easier to cut.",
+  "section": "cutting",
+  "source_url": "https://www.udiscovermusic.com/halfspeed"
+ },
+ {
+  "term": "Father, mother, stamper",
+  "definition": "The plating generations off a lacquer: a negative father, a positive mother, then the negative stamper used in the press.",
+  "section": "cutting",
+  "source_url": "https://www.discmakers.com/resources/how-are-vinyl-records-made"
+ },
+ {
+  "term": "One-step, two-step, three-step",
+  "definition": "How many plating generations come before the stamper; more steps give more stampers for bigger runs.",
+  "section": "cutting",
+  "source_url": "https://www.discmakers.com/resources/how-are-vinyl-records-made"
+ },
+ {
+  "term": "Lathe cut",
+  "definition": "A record cut one at a time in real time into a blank of vinyl, polycarbonate or acrylic, with no pressing.",
+  "section": "cutting",
+  "source_url": "https://www.freestyle-vinyl.com/blogs/news/what-are-lathe-cut-records"
+ }
+]
