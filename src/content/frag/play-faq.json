@@ -36,7 +36,7 @@
  },
  {
   "q": "How does Serato timecode vinyl work?",
-  "a": "The control record carries a 1,000 Hz tone with the right channel 90 degrees behind the left, which tells the software speed and direction. Position bits on the tone let absolute mode know where the needle is, per open-source developers who reverse-engineered it.",
+  "a": "The control record carries a 1,000 Hz tone with the right channel 90 degrees behind the left, which tells the software speed and direction. Position bits on the tone let absolute mode know where the needle is; open-source developers worked this out by reverse-engineering it.",
   "section": "dj"
  }
 ]

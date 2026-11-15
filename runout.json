@@ -27,7 +27,7 @@
   },
   {
    "marking": "-1A",
-   "meaning": "Typically a first pressing, side A, per Vinyl Me, Please; not proof on its own.",
+   "meaning": "Typically a first pressing, side A; not proof on its own.",
    "kind": "Code",
    "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
   },
@@ -45,7 +45,7 @@
   },
   {
    "marking": "1Y//1 2Y//1",
-   "meaning": "Often an early pressing, per a UK shop blog.",
+   "meaning": "Often an early pressing; not proof on its own.",
    "kind": "Code",
    "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/what-are-matrix-codes-and-what-do-they-mean"
   },
@@ -88,7 +88,7 @@
   },
   {
    "marking": "A1 B1 (also A//1 B//1, A-1 B-1)",
-   "meaning": "Often a first-press code, per a UK shop blog; not proof on its own.",
+   "meaning": "Often a first-press code; not proof on its own.",
    "kind": "Code",
    "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/what-are-matrix-codes-and-what-do-they-mean"
   },
@@ -257,7 +257,7 @@
   },
   {
    "marking": "f (at right)",
-   "meaning": "Sam Feldman at Bell Sound, per one collector's photo caption.",
+   "meaning": "Sam Feldman at Bell Sound, going by one collector's photo caption.",
    "kind": "Engineer",
    "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
   },
@@ -356,7 +356,7 @@
   },
   {
    "marking": "K-###",
-   "meaning": "Allied Record Company, Los Angeles, per one source; another describes Allied's mark as a Q-shaped stamp.",
+   "meaning": "Allied Record Company, Los Angeles, by one account; another describes Allied's mark as a Q-shaped stamp.",
    "kind": "Pressing plant",
    "source_url": "https://www.home.zappafrenzy.com/?p=18842"
   },
@@ -535,7 +535,7 @@
   },
   {
    "marking": "Q-shaped stamp",
-   "meaning": "Allied Records, Hollywood, per one collector; another source lists Allied as K-###.",
+   "meaning": "Allied Records, Hollywood by one collector's account; another lists Allied as K-###.",
    "kind": "Pressing plant",
    "source_url": "https://vinyldiscovery.blogspot.com/2016/12/first-pressings-label-variations-and.html"
   },
@@ -559,7 +559,7 @@
   },
   {
    "marking": "RE",
-   "meaning": "A repressing, per this guide. RE can also be initials, such as Rick Essig at Frankford/Wayne (listed separately), so read it in context.",
+   "meaning": "A repressing. RE can also be initials, such as Rick Essig at Frankford/Wayne (listed separately), so read it in context.",
    "kind": "Code",
    "source_url": "https://vinylmeplease.com/magazine/guide-deciphering-dead-wax"
   },
@@ -679,7 +679,7 @@
   },
   {
    "marking": "ST / MO prefix",
-   "meaning": "Stereo / mono (example given for Atlantic), per a shop blog.",
+   "meaning": "Stereo / mono (example given for Atlantic).",
    "kind": "Format/process",
    "source_url": "https://musicrecordshop.com/blogs/news/how-to-identify-a-vinyl-pressing"
   },
@@ -721,7 +721,7 @@
   },
   {
    "marking": "U (East German labels, 1980s)",
-   "meaning": "UC noise-reduction encoding, per Wikipedia.",
+   "meaning": "UC noise-reduction encoding.",
    "kind": "Format/process",
    "source_url": "https://en.wikipedia.org/wiki/Dead_wax"
   },
@@ -751,7 +751,7 @@
   },
   {
    "marking": "YEX, YAX / XEX",
-   "meaning": "EMI lacquer prefixes: YEX and YAX usually stereo, XEX usually mono, per a shop blog.",
+   "meaning": "EMI lacquer prefixes: YEX and YAX usually stereo, XEX usually mono.",
    "kind": "Format/process",
    "source_url": "https://atlasrecords.co.uk/blogs/all-about-vinyl/what-are-matrix-codes-and-what-do-they-mean"
   },
