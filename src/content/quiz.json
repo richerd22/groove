@@ -128,7 +128,7 @@
    "An automatic tonearm return"
   ],
   "answer": 1,
-  "why": "With the platter on the motor, the deck could be pushed around or spun backward without harm. IEEE Spectrum notes that scratching would destroy a belt drive.",
+  "why": "With the platter on the motor, the deck could be pushed around or spun backward without harm. Scratching would destroy a belt drive.",
   "section": "dj"
  },
  {
@@ -164,7 +164,7 @@
    "$12.00"
   ],
   "answer": 0,
-  "why": "Colemine Records' figures gave the retailer $8.49, the manufacturer $6.03, the distributor $3.10, and the label and artist about $3.19 each. The label says the numbers are specific to that release.",
+  "why": "Colemine Records' figures gave the retailer $8.49, the manufacturer $6.03, the distributor $3.10, and the label and artist about $3.19 each - numbers the label says apply to that one release.",
   "section": "money"
  },
  {
@@ -176,7 +176,7 @@
    "Recycled records with the labels punched out"
   ],
   "answer": 1,
-  "why": "BioVinyl is bio-attributed PVC and runs in a conventional press. Its claimed lower CO2 footprint is the manufacturer's claim.",
+  "why": "BioVinyl is bio-attributed PVC: the same plastic, with the petroleum feedstock swapped for used cooking oil or waste gases. The lower CO2 footprint is the maker's own claim, with no number attached.",
   "section": "planet"
  },
  {

@@ -1,6 +1,6 @@
 ## Test yourself, and where to go next
 
-**The short version:** Questions drawn from every section, the full glossary, the best outside sources, and what this guide could not pin down. If you can source any of the open questions, the corrections desk wants to hear from you.
+**The short version:** A quiz covering every chapter, the glossary, the best outside reading, and the questions nobody has answered in public yet. If you can answer one with a source, the corrections desk wants to hear from you.
 
 [[MODULE:quiz]]
 

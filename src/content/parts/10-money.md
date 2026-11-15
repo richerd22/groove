@@ -1,6 +1,6 @@
 ## What a record costs, and who gets paid
 
-**The short version:** This section is about the money in a record: what pressing costs, who gets paid from a sale, and how big the market is. Pressing costs a few dollars a record at 1,000 copies and $10 or more at 100, because setup costs land on every run whatever its size, and a $24 indie-store LP, in one label's breakdown, leaves about $3.19 each for the label and the artist. US vinyl revenue passed $1 billion in 2025 for the first time since 1983, per the RIAA.
+**The short version:** Pressing costs a few dollars a record at 1,000 copies and $10 or more at 100, because setup costs land on every run whatever its size. Sell the result for $24 in an indie shop and, in one label's breakdown, the label and the artist each keep about $3.19. US vinyl revenue passed $1 billion in 2025 for the first time since 1983.
 
 ### How much does it cost to press 300 records?
 
@@ -47,7 +47,7 @@ Other plants split the bill differently. Gotta Groove Records in Cleveland price
 
 *Gotta Groove Records 2024 price card, official list price.*[^mon-gotta-groove-2024]
 
-Divide it out and 300 black LPs with standard jackets come to about $9.90 a record, and 1,000 to about $5.41, before shipping and sleeves. That is our arithmetic from the card, not a figure the plant quotes.[^mon-gotta-groove-2024] The same card adds shrinkwrap at $0.35 a unit, extra test pressings at $5 each, asks a 50% deposit before work begins, and leaves shipping to the buyer, with a rough estimate of $200 minimum for 100 LPs and $350-600 for 1,000.[^mon-gotta-groove-2024] The two cards are from different years and bundle different things, so they are not a like-for-like comparison.
+Divide the totals out and 300 black LPs with standard jackets come to about $9.90 a record, and 1,000 to about $5.41, before shipping and sleeves; the plant itself doesn't quote a per-record price.[^mon-gotta-groove-2024] The same card adds shrinkwrap at $0.35 a unit, extra test pressings at $5 each, asks a 50% deposit before work begins, and leaves shipping to the buyer, with a rough estimate of $200 minimum for 100 LPs and $350-600 for 1,000.[^mon-gotta-groove-2024] The two cards are from different years and bundle different things, so they are not a like-for-like comparison.
 
 ### Why does 100 cost so much more per record than 1,000?
 
@@ -61,23 +61,23 @@ Minimums are set plant by plant, and the price card is where to look. National A
 
 ### How long does pressing take?
 
-It depends on the year. In 2018 plants could deliver in four to six weeks.[^mon-grammy-shortage-2022] By mid-2022, GRAMMY.com reported, orders across the industry "routinely" took 9-12 months, and one new plant was quoting five to six months.[^mon-grammy-shortage-2022] The same report quoted that plant's owner saying the price of PVC had increased three times since the plant opened in 2020.[^mon-grammy-shortage-2022]
+It depends on the year. In 2018 plants could deliver in four to six weeks.[^mon-grammy-shortage-2022] By mid-2022 orders across the industry "routinely" took 9-12 months, and one new plant was quoting five to six months.[^mon-grammy-shortage-2022] Its owner said the price of PVC had gone up three times since the plant opened in 2020.[^mon-grammy-shortage-2022]
 
-Capacity grew to meet it. North America had about 15 plants in 2014; the Vinyl Record Manufacturers Association projected 43 in the US by summer 2022, plus nine in Canada and three in Mexico (an estimate, reported 2022).[^mon-grammy-shortage-2022]
+Capacity grew to meet it. North America had about 15 plants in 2014; the Vinyl Record Manufacturers Association projected 43 in the US by summer 2022, plus nine in Canada and three in Mexico.[^mon-grammy-shortage-2022]
 
 By 2026, National Audio Company lists six to eight weeks as its standard turnaround, with paid rush tiers at four to five and three to four weeks.[^mon-nac-2026] That is one plant's official card, not an industry average.
 
-The backlog was already easing in 2023: new plants had helped reduce it, Marketplace reported that May, and a plant owner said most supply-chain issues had eased.[^gf-d-marketplace-2023] Gotta Groove Records' planning page, undated when opened in 2026, puts most orders at about two to three months and advises planning for at least three.[^gf-d-gottagroove-planning]
+The backlog was already easing by May 2023, helped by the new plants, and one plant owner said most supply-chain problems had cleared.[^gf-d-marketplace-2023] Gotta Groove Records' planning page puts most orders at about two to three months and advises planning for at least three.[^gf-d-gottagroove-planning]
 
 ### Why does a new LP cost $30 or more?
 
-In dollars, records used to cost far less. Single-disc LP list prices in the 1970s and '80s ran from $5.98 to $8.98; an $8.98 record in 1982 works out to about $26.63 in 2022 dollars, per GRAMMY.com.[^mon-grammy-shortage-2022] In 2022 a new major-artist record could cost $45; a record-store owner said buyers balked at $40, and the head of the VRMA said demand would hold as long as buyers would pay $30 for a black record (reported, 2022).[^mon-grammy-shortage-2022]
+In dollars, records used to cost far less. Single-disc LP list prices in the 1970s and '80s ran from $5.98 to $8.98; an $8.98 record in 1982 works out to about $26.63 in 2022 dollars.[^mon-grammy-shortage-2022] In 2022 a new major-artist record could cost $45; a record-store owner said buyers balked at $40, and the head of the VRMA said demand would hold as long as buyers would pay $30 for a black record.[^mon-grammy-shortage-2022]
 
-Measured against pay, the picture flips for recorded music overall. Matt Brennan of the University of Glasgow found that recorded music cost about 4.83% of an average US weekly salary in 1977, the vinyl peak, against about 1.22% in 2013 (academic research, reported 2019).[^mon-glasgow-2019]
+Measured against pay, the picture flips for recorded music overall. Matt Brennan of the University of Glasgow found that recorded music cost about 4.83% of an average US weekly salary in 1977, the vinyl peak, against about 1.22% in 2013.[^mon-glasgow-2019]
 
 ### Who gets what from a $24 LP?
 
-In one label's published numbers, the artist and the label each take home about $3.19 from a $24 record sold in an independent shop.[^mon-dmn-split-2024] Colemine Records shared the breakdown, reported by Digital Music News in 2024, and the report notes the figures are specific to that release:[^mon-dmn-split-2024]
+In one label's published numbers, the artist and the label each take home about $3.19 from a $24 record sold in an independent shop.[^mon-dmn-split-2024] Colemine Records made the breakdown public in 2024, with the caveat that the figures apply to that one release:[^mon-dmn-split-2024]
 
 | Who | Share of $24 | Approx. % |
 |---|---|---|
@@ -93,15 +93,15 @@ The label and artist halves come from about $6.37 left over, split evenly.[^mon-
 
 ### Why are there so many versions of the same album?
 
-A **variant** is the same album in a different color, cover or retailer-exclusive edition. Taylor Swift's *The Life of a Showgirl*, released October 3, 2025, sold 1.2 million vinyl copies on its first day, beating the previous single-week vinyl record of 859,000 set by *The Tortured Poets Department* (Luminate, reported 2025).[^mon-abc-showgirl-2025] Its first-week report listed Target CDs, a Target vinyl, several vinyl "collections", a standard LP and a cassette.[^mon-abc-showgirl-2025] By March 2026 Luminate counted 27 physical editions.[^mon-luminate-2025]
+A **variant** is the same album in a different color, cover or retailer-exclusive edition. Taylor Swift's *The Life of a Showgirl*, released October 3, 2025, sold 1.2 million vinyl copies on its first day, beating the previous single-week vinyl record of 859,000 set by *The Tortured Poets Department*.[^mon-abc-showgirl-2025] Its first-week report listed Target CDs, a Target vinyl, several vinyl "collections", a standard LP and a cassette.[^mon-abc-showgirl-2025] By March 2026 Luminate counted 27 physical editions.[^mon-luminate-2025]
 
 The same report counted 4.002 million **equivalent album units** (sales plus streams and track downloads) and 3,479,500 **pure album sales** (purchases only) in week one.[^mon-abc-showgirl-2025]
 
-Whether a run of editions rewards superfans or squeezes them is argued in both directions. Luminate data reported by Billboard put the average number of variants among Billboard 200 top-10 albums at 3.3 a week in 2019 and 8.9 a week in 2023.[^gf-d-billboard-variants] Industry executives quoted in that piece describe variants as a way for fans to show loyalty, support a favorite shop, or find out-of-print catalog again.[^gf-d-billboard-variants] On the other side, in a 2024 Northeastern University piece, music professor Andrew Mall called staggered preorders that make fans pay shipping several times "a wasteful aspect," while also arguing that records are mostly kept rather than thrown away.[^gf-d-northeastern-2024] This guide does not pick a side.
+Whether a run of editions rewards superfans or squeezes them is argued both ways. The average number of variants among Billboard 200 top-10 albums went from 3.3 a week in 2019 to 8.9 a week in 2023.[^gf-d-billboard-variants] Industry executives describe variants as a way for fans to show loyalty, support a favorite shop, or find out-of-print catalog again.[^gf-d-billboard-variants] On the other side, in a 2024 Northeastern University piece, music professor Andrew Mall called staggered preorders that make fans pay shipping several times "a wasteful aspect," while also arguing that records are mostly kept rather than thrown away.[^gf-d-northeastern-2024]
 
 ### How big is vinyl now?
 
-In the US, the RIAA's 2025 year-end report put recorded-music revenue at a record $11.5 billion, with vinyl revenue passing $1 billion for the first time since 1983, up 9.3%, the 19th straight year of growth.[^mon-musicweek-riaa-2025] Vinyl was 75% of US physical revenue; CDs brought in $312 million, down nearly 8% (official, 2025).[^mon-hypebot-riaa-2025] In the first half of 2026 the RIAA reported about $6 billion in total revenue, physical up 25.9%, vinyl up 17.7%, and CDs up 58.6%.[^mon-riaa-h1-2026]
+In the US, the RIAA's 2025 year-end report put recorded-music revenue at a record $11.5 billion, with vinyl revenue passing $1 billion for the first time since 1983, up 9.3%, the 19th straight year of growth.[^mon-musicweek-riaa-2025] Vinyl was 75% of US physical revenue; CDs brought in $312 million, down nearly 8%.[^mon-hypebot-riaa-2025] In the first half of 2026 the RIAA reported about $6 billion in total revenue, physical up 25.9%, vinyl up 17.7%, and CDs up 58.6%.[^mon-riaa-h1-2026]
 
 The two main US counters give different unit totals:
 
@@ -112,11 +112,11 @@ The two main US counters give different unit totals:
 
 The RIAA also counted 29.5 million CDs in 2025.[^mon-musicweek-riaa-2025] Luminate put Q4 2025 vinyl up 13.1% on Q4 2024.[^mon-luminate-2025]
 
-Who bought them: *The Life of a Showgirl* sold 1.6 million US vinyl copies in 2025, over 3% of all vinyl units; Sabrina Carpenter's *Man's Best Friend* sold 292,000 and Kendrick Lamar's *GNX* 279,000 (Luminate data, reported by Axios, 2026).[^mon-axios-2026] Roughly half of vinyl buyers were nonwhite, and about two in five records were sold at independent stores.[^mon-axios-2026]
+Who bought them: *The Life of a Showgirl* sold 1.6 million US vinyl copies in 2025, over 3% of all vinyl units; Sabrina Carpenter's *Man's Best Friend* sold 292,000 and Kendrick Lamar's *GNX* 279,000.[^mon-axios-2026] Roughly half of vinyl buyers were nonwhite, and about two in five records were sold at independent stores.[^mon-axios-2026]
 
 ### How big is vinyl outside the US?
 
-The UK bought about 7.6 million vinyl LPs in 2025, up 13.3% after 9.1% growth in 2024, its 18th straight year of growth, per the BPI; streaming was still 89.3% of album consumption.[^mon-bpi-2025] *The Life of a Showgirl* topped UK vinyl too, with over 147,000 copies, the most for any release in a calendar year since the Official Charts Company launched in 1994, and 126,000 of them in its first week.[^mon-bpi-2025][^mon-officialcharts-2025] Germany's numbers, and where all these records are pressed, are in [where records are made](/world/).
+The UK bought about 7.6 million vinyl LPs in 2025, up 13.3% after 9.1% growth in 2024, its 18th straight year of growth; streaming was still 89.3% of album consumption.[^mon-bpi-2025] *The Life of a Showgirl* topped UK vinyl too, with over 147,000 copies, the most for any release in a calendar year since the Official Charts Company launched in 1994, and 126,000 of them in its first week.[^mon-bpi-2025][^mon-officialcharts-2025] Germany's numbers, and where all these records are pressed, are in [where records are made](/world/).
 
 [^mon-nac-2026]: National Audio Company - "Vinyl Pricing June 1 2026" (price card, PDF) - 2026-06-01 - https://www.nationalaudiocompany.com/wp-content/uploads/2026/06/Vinyl-Pricing-June-1-2026.pdf
 [^mon-gotta-groove-2024]: Gotta Groove Records - "180 GRAM 2024 PRICE CARD" (PDF) - 2024-04 - https://gottagrooverecords.com/wp-content/uploads/2024/04/180-GRAM-2024-PRICE-CARD-1.pdf

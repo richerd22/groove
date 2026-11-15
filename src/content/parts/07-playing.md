@@ -1,18 +1,18 @@
 ## How a turntable plays a record
 
-**The short version:** A diamond the size of a grain of sand rides a wiggling groove, and a magnet and a coil turn that wiggle into a tiny signal that a phono preamp lifts and corrects. This section covers that chain, plus the settings and storage habits behind most skips, hiss, lopsided stereo and worn records. Two lab studies of record wear disagree about what happens to the groove, and both are given here.
+**The short version:** A diamond the size of a grain of sand rides a wiggling groove, and a magnet and a coil turn that wiggle into a tiny signal that a phono preamp lifts and corrects. Most skips, hiss, lopsided stereo and worn records come down to a few settings and storage habits. Playing a record does wear it, though the two classic lab studies disagree about what happens to the groove.
 
 ### How does one groove carry two channels?
 
-A stereo LP has one groove with two walls, and the two recording directions sit at 90 degrees to each other and at 45 degrees to the record surface.[^play-westrex-1958] Put a signal on one channel alone and only one wall is modulated; the other stays smooth.[^play-westrex-1958] That is the **45/45 system**, which Westrex showed to engineers in Hollywood on August 26, 1957, and which, Ralph W. Wight wrote in 1975, the Record Industry Association of America adopted "as the American standard" on December 27, 1957.[^play-wight-1975] A rival vertical-lateral system had backing from Sugden in the UK and Telefunken in Germany, and Decca was experimenting with it too.[^play-wight-1975] One reason 45/45 won: both channels were cut the same way, so they used the same equalization and carried the same rumble, where a vertical system would have put more rumble in one channel.[^play-wight-1975] The [history](/history/) section tells how stereo records reached the public.
+A stereo LP has one groove with two walls, and the two recording directions sit at 90 degrees to each other and at 45 degrees to the record surface.[^play-westrex-1958] Put a signal on one channel alone and only one wall is modulated; the other stays smooth.[^play-westrex-1958] That is the **45/45 system**, which Westrex showed to engineers in Hollywood on August 26, 1957, and which the Record Industry Association of America adopted "as the American standard" on December 27, 1957.[^play-wight-1975] A rival vertical-lateral system had backing from Sugden in the UK and Telefunken in Germany, and Decca was experimenting with it too.[^play-wight-1975] One reason 45/45 won: both channels were cut the same way, so they used the same equalization and carried the same rumble, where a vertical system would have put more rumble in one channel.[^play-wight-1975] [The history](/history/) covers how stereo records reached the public.
 
 In practice the stylus does not read two walls separately. A 1958 magazine explainer called that idea a misconception, since "it is impossible for the stylus to follow different contours on both walls of the groove at the same time."[^play-crowhurst-1958] The tip moves in a mix of sideways (**lateral**) and up-and-down (**vertical**) motion, and real music traces angled, circular or elliptical paths.[^play-crowhurst-1958]
 
-Which phase gives which motion is where the 1958 sources part ways. The Westrex engineers wrote that in-phase signals cut a vertical groove and out-of-phase signals a lateral one.[^play-westrex-1958] Norman Crowhurst wrote the opposite: in-phase gives lateral motion, out-of-phase gives vertical.[^play-crowhurst-1958] The split comes from how each defines channel phase. The common modern explanation, that a mono signal moves the stylus purely sideways, follows Crowhurst's convention.
+Which phase gives which motion is where the 1958 sources part ways. The Westrex engineers wrote that in-phase signals cut a vertical groove and out-of-phase signals a lateral one.[^play-westrex-1958] Norman Crowhurst wrote the opposite: in-phase gives lateral motion, out-of-phase gives vertical.[^play-crowhurst-1958] The split comes from how each defines channel phase. The usual modern explanation, that a mono signal moves the stylus purely sideways, follows Crowhurst.
 
-The wall assignment, at least, is not in dispute: the International Association of Sound and Audiovisual Archives (IASA) states in its transfer guidelines that the inner wall carries the left channel and the outer wall the right.[^gf-c-iasa-groove] The standard that defines channel phasing, IEC 60098, lists "channel phasing" as a clause, but its public preview does not include the wording.[^gf-c-iec60098]
+Which wall is which is settled: the inner wall carries the left channel and the outer wall the right.[^gf-c-iasa-groove] The standard itself, IEC 60098, has a clause on channel phasing, but its wording isn't in the free preview.[^gf-c-iec60098]
 
-The design was also built to stay compatible: Westrex wrote that an ordinary lateral pickup with decent vertical give would still play back the lateral part of both channels, and each 45/45 channel came out about 3 dB below a mono lateral record with the same playing time.[^play-westrex-1958]
+The design was built to stay compatible. An ordinary lateral pickup with decent vertical give would still play back the lateral part of both channels, Westrex wrote, and each 45/45 channel came out about 3 dB below a mono lateral record with the same playing time.[^play-westrex-1958]
 
 [[DIAGRAM-IDEA: cross-section of a V groove with the two 45-degree walls, arrows showing lateral and vertical stylus motion, and a note that the two 1958 sources label the phases oppositely]]
 
@@ -23,11 +23,9 @@ Both types make a signal by moving a magnet relative to a coil. In a **moving ma
 | | Moving magnet (MM) | Moving coil (MC) |
 |---|---|---|
 | What moves | magnet on the cantilever | coils on the cantilever |
-| Typical output | 4-8 mV, many around 4 mV | usually under 2.5 mV |
-| Example (maker claim) | Ortofon 2M Blue, 5.5 mV | Ortofon Quintet Blue, 0.5 mV |
-| Phono gain suggested | about 40 dB | 60 dB or more |
-
-Sources: Crutchfield for typical outputs and gain;[^play-crutchfield-phono] What Hi-Fi? for the Ortofon examples.[^play-whathifi-mm-mc]
+| Typical output[^play-crutchfield-phono] | 4-8 mV, many around 4 mV | usually under 2.5 mV |
+| Example (maker claim)[^play-whathifi-mm-mc] | Ortofon 2M Blue, 5.5 mV | Ortofon Quintet Blue, 0.5 mV |
+| Phono gain suggested[^play-crutchfield-phono] | about 40 dB | 60 dB or more |
 
 On price, What Hi-Fi? listed a Goldring E3 MM at GBP 89 / USD 189 and the Quintet Blue MC at GBP 389 / USD 569 in 2023 (reported retail), and advised staying with MM if the turntable cost under GBP 1,000 / USD 1,250.[^play-whathifi-mm-mc]
 
@@ -35,9 +33,9 @@ The two types are also serviced differently. Ortofon says the styli in its MC ca
 
 ### Which stylus shape should I care about?
 
-The shape of the diamond decides how much of the groove wall it touches. Audio-Technica's 2025 catalogue rates its own styli by shape, and those hours are the maker's figures, not a law of nature.[^play-at-catalogue-2025]
+The shape of the diamond decides how much of the groove wall it touches. Audio-Technica's 2025 catalogue rates its own styli by shape; the hours are the maker's figures, not a law of nature.
 
-| Shape | What it is | Where you find it | Audio-Technica life (2025, maker) |
+| Shape | What it is[^play-kb-stylus] | Where you find it | Audio-Technica life (2025, maker)[^play-at-catalogue-2025] |
 |---|---|---|---|
 | **Conical** | most common, basic shape | entry-level | about 300-500 h |
 | **Elliptical** | more elongated, smaller contact area | mid-range to high end | about 300 h |
@@ -45,13 +43,11 @@ The shape of the diamond decides how much of the groove wall it touches. Audio-T
 | **MicroLine** | narrow contact surface | high end | about 1,000 h |
 | **Special Line Contact** | very fine, extended contact area | high end | about 800 h |
 
-Descriptions: K&B Audio;[^play-kb-stylus] hours: Audio-Technica.[^play-at-catalogue-2025]
-
 For a sense of scale, Ortofon specifies the elliptical tip on its 2M Red with radii of 8 and 18 µm.[^play-ortofon-2m-red] A 1968 RCA study used a 0.2 by 0.7 mil elliptical and a 0.7 mil conical.[^play-pspatial-wear]
 
 ### How long does a stylus last?
 
-It depends on whose number you read. Audio-Technica rates its elliptical at about 300 hours,[^play-at-catalogue-2025] while Ortofon says the elliptical 2M Red can reach up to 1,000 hours with proper care "without degradation of performance."[^play-ortofon-2m-red] A retailer guide puts conical at about 500 hours and credits Audio-Technica, which is the top of A-T's own range.[^play-kb-stylus] A turntable brand's blog says styli usually last about 1,000 hours.[^play-marley-skip] The fair reading: check the hours your cartridge's maker publishes, and treat any single universal figure with suspicion.
+It depends on whose number you read. Audio-Technica rates its elliptical at about 300 hours,[^play-at-catalogue-2025] while Ortofon says the elliptical 2M Red can reach up to 1,000 hours with proper care "without degradation of performance."[^play-ortofon-2m-red] K&B Audio puts conical at about 500 hours, crediting Audio-Technica, which is the top of A-T's own range.[^play-kb-stylus] House of Marley says styli usually last about 1,000 hours.[^play-marley-skip] Go by the hours your cartridge's maker publishes, and distrust any number that claims to cover every stylus.
 
 ### How much should the stylus weigh on the record?
 
@@ -73,13 +69,13 @@ Yes, built in or separate. A cartridge's signal is far below line level, and the
 
 The **RIAA curve** exists because of [cutting](/cutting/). The lathe boosts treble and cuts bass so the groove's swing stays more even across the range, and playback does the reverse to get back to flat.[^play-stereophile-riaa] The curve is defined by three time constants, 3180, 318 and 75 µs, with corners near 50 Hz, 500 Hz and 2,122 Hz.[^play-stereophile-riaa] A true constant-amplitude cut would need about 60 dB more gain at 20 kHz than at 20 Hz; RIAA settles for about 40 dB.[^play-stereophile-riaa] IEC 98 was first published in 1964, and a 1976 amendment added a 7950 µs infrasonic roll-off, -3.0 dB at 20 Hz, which drew criticism.[^play-stereophile-riaa] Nearly all vinyl follows RIAA, apart from some pre-1954 records.[^play-crutchfield-phono]
 
-The RIAA Technical Committee approved the curve on January 29, 1954, and the document circulated that June, according to Kohji Matsubayashi's History of Phono EQ Curves, which also notes that the original 1954 text has not been located.[^gf-c-microgroove-riaa]
+The RIAA Technical Committee approved the curve on January 29, 1954, and the document circulated that June. The original 1954 text has not turned up.[^gf-c-microgroove-riaa]
 
 ### Does direct drive or belt drive matter?
 
-In **direct drive** the platter sits on the motor; **belt drive** turns it through a belt; **idler drive** uses a rubber wheel.[^play-at-specs] For a listener at home, makers sell good decks of every type. For a DJ, direct drive changed everything: high torque, near-instant start, steady speed and a platter you can push around or spin backward without harm.[^play-ieee-sl1200] The [DJ](/dj/) section picks up from there.
+In **direct drive** the platter sits on the motor; **belt drive** turns it through a belt; **idler drive** uses a rubber wheel.[^play-at-specs] For a listener at home, makers sell good decks of every type. For a DJ, direct drive changed everything: high torque, near-instant start, steady speed and a platter you can push around or spin backward without harm.[^play-ieee-sl1200] [Records and DJs](/dj/) picks up from there.
 
-Two sources disagree on the first direct-drive deck. IEEE Spectrum says the Technics SP10, designed by Shuichi Obata, came out in 1969.[^play-ieee-sl1200] Technics' own history page says the SP-10 launched in 1970 as "the world's first direct drive turntable."[^play-technics-history]
+The first direct-drive deck was the Technics SP-10, designed by Shuichi Obata. IEEE Spectrum dates it to 1969;[^play-ieee-sl1200] Technics says it launched in 1970 as "the world's first direct drive turntable."[^play-technics-history]
 
 ### What do wow, flutter and rumble mean on a spec sheet?
 
@@ -89,21 +85,21 @@ Two sources disagree on the first direct-drive deck. IEEE Spectrum says the Tech
 
 Start with hands. The Library of Congress says to handle discs by the edge and label, with clean, dry hands, and to let discs from cool storage reach room temperature before playing.[^play-loc-record-care] It also says to brush the stylus with a dense bristle brush before each side.[^play-loc-nutshell]
 
-For the records, the methods line up like this, with views differing on which is best:
+Then the records. People argue about the best method more than about what each one does:
 
-| Method | What the sources say |
+| Method | What it does |
 |---|---|
-| Sink wash, mild detergent | common; an archival-leaning source suggests lukewarm mild detergent, a distilled-water rinse and air-drying, keeping the label dry, and says there seems to be "no systematic evidence" against dish soap[^play-pspatial-care] |
+| Sink wash, mild detergent | common; Pspatial Audio suggests lukewarm mild detergent, a distilled-water rinse and air-drying, keeping the label dry, and says there seems to be "no systematic evidence" against dish soap[^play-pspatial-care] |
 | Brush bath (Spin-Clean type) | removes dust, softens fingerprints and mold[^play-analogplanet-cleaning] |
 | Vacuum machine | removes large and small dirt, ideally with a final pure-water rinse[^play-analogplanet-cleaning] |
 | Ultrasonic | the only method AnalogPlanet's author says "effectively removes in-groove contaminants"; 40 kHz for larger dirt, 120 kHz for in-groove dirt, and below about 30 kHz cavitation may damage PVC[^play-analogplanet-cleaning] |
 | Wood-glue peel | no serious evidence, and the glue is likely acidic, about pH 3[^play-pspatial-care] |
 
-The same archival source notes that no published microscope study of ultrasonic cleaning on records exists, even though some archives endorse it.[^play-pspatial-care]
+Nobody has published a microscope study of ultrasonic cleaning on records, even though some archives endorse it.[^play-pspatial-care]
 
 ### Why does static matter?
 
-Fresh PVC records come out of the mold with a strong negative charge, which pulls in dust.[^play-pspatial-care] A 1980 microscope study in Audio rated static a minor cause of crackle next to groove fracture; its main harm is attracting grit that scours the groove.[^play-davies-1980] Remedies in the literature include carbon-fiber brushes, conductive mats, polonium-210 neutralizer bars and anti-static compounds, while the same archival source says detergent sprays give only "very temporary relief."[^play-pspatial-care] The Library of Congress recommends high-density polyethylene inner sleeves.[^play-loc-record-care]
+Fresh PVC records come out of the mold with a strong negative charge, which pulls in dust.[^play-pspatial-care] A 1980 microscope study in Audio rated static a minor cause of crackle next to groove fracture; its main harm is attracting grit that scours the groove.[^play-davies-1980] Remedies in the literature include carbon-fiber brushes, conductive mats, polonium-210 neutralizer bars and anti-static compounds; detergent sprays give only "very temporary relief."[^play-pspatial-care] The Library of Congress recommends high-density polyethylene inner sleeves.[^play-loc-record-care]
 
 ### How should I store records?
 
@@ -111,17 +107,17 @@ Upright, on edge, with immovable dividers every 4-6 inches, and without mixing s
 
 ### What warps a record?
 
-Heat. It relaxes the stresses molded into the PVC, and a hot car is the classic case; one archival summary says keep records below 70°F (21°C) and out of light, and that flattening with heat and pressure is "never certain."[^play-pspatial-care] A 2026 press piece puts the point where warping is all but guaranteed at about 140°F (60°C), and cites, via Vorby, a 2021 Discogs survey (reported, not seen here) in which 22% of collectors named warps as their most common damage.[^play-grunge-warp] Short dividers and mixed diameters on a shelf may contribute to warping too.[^play-loc-nutshell]
+Heat. It relaxes the stresses molded into the PVC, and a hot car is the classic case. Keep records below 70°F (21°C) and out of light; flattening a warp with heat and pressure is "never certain."[^play-pspatial-care] At about 140°F (60°C) warping is all but guaranteed, and in a 2021 Discogs survey, known only secondhand, 22% of collectors named warps as their most common damage.[^play-grunge-warp] Short dividers and mixed diameters on a shelf may contribute to warping too.[^play-loc-nutshell]
 
 ### Why does my record keep skipping?
 
-A skip is the stylus losing the groove. A turntable brand's checklist covers most causes: a deck that is not level, tracking force too light, anti-skate wrong (skipping outward means too much), a dirty or worn stylus, a warp, worn grooves (white streaks, skips in the same spot), and dust.[^play-marley-skip] A record weight can flatten a warp but is not a permanent fix.[^play-marley-skip] Sometimes the record arrived that way: a 1980 microscope study found small holes and surface flaws even on an unplayed audiophile pressing.[^play-davies-1980]
+A skip is the stylus losing the groove. The usual causes: a deck that is not level, tracking force too light, anti-skate wrong (skipping outward means too much), a dirty or worn stylus, a warp, worn grooves (white streaks, skips in the same spot), and dust.[^play-marley-skip] A record weight can flatten a warp but is not a permanent fix.[^play-marley-skip] Sometimes the record arrived that way: a 1980 microscope study found small holes and surface flaws even on an unplayed audiophile pressing.[^play-davies-1980]
 
 ### Does playing a record wear it out?
 
 Yes, and the two best-known studies disagree about how. In RCA's 1968 electron-microscope study by Woodward and colleagues, a 0.2 by 0.7 mil elliptical at 1.5 g left visible "plastic-flow of the groove wall" after one play, building over 10 and 50 plays; a 0.7 mil conical at 5 g nearly wiped out 20 kHz detail after 50 plays; the same conical at 1.5 g showed essentially no wear after 50.[^play-pspatial-wear] The study put a critical tracking weight somewhere between 1.5 g and 5 g, and its authors still preferred the elliptical, since the conical's first-play distortion was more than twice as high.[^play-pspatial-wear]
 
-In 1980, Walter E. Davies played records at 1 g with anti-skate set, at an estimated 30,000-69,000 psi of contact pressure, and found mostly small chip-like fractures rather than large permanent deformation.[^play-davies-1980] After 50 plays one record was "almost unlistenable," critical listeners heard loss after 2-10 plays, and the vinyl's formulation strongly affected wear.[^play-davies-1980] So Woodward saw flow and Davies saw fracture, in different decades with different vinyl and pickups. The overlap is practical: lighter, correctly set tracking and a clean stylus and record go easier on the groove.
+In 1980, Walter E. Davies played records at 1 g with anti-skate set, at an estimated 30,000-69,000 psi of contact pressure, and found mostly small chip-like fractures rather than large permanent deformation.[^play-davies-1980] After 50 plays one record was "almost unlistenable," critical listeners heard loss after 2-10 plays, and the vinyl's formulation strongly affected wear.[^play-davies-1980] So Woodward saw flow and Davies saw fracture, in different decades with different vinyl and pickups. Where they meet is practical: lighter, correctly set tracking and a clean stylus and record go easier on the groove.
 
 [^play-westrex-1958]: C. C. Davis and J. G. Frayne (Westrex Corp.) - "The Westrex StereoDisk System", Proceedings of the IRE - 1958-10 - https://dsu-digital-sound-design.github.io/f-23-history-of-recorded-music/lectures/week-8/control-men/The_Westrex_Stereo_Disk_System.pdf
 [^play-crowhurst-1958]: Radio-Electronics (Norman Crowhurst) - "Stereo Disc" - 1958-07 - https://www.rfcafe.com/references/radio-electronics/stereo-disc-july-1958-radio-electronics.htm

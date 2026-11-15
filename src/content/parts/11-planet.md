@@ -1,18 +1,18 @@
 ## Vinyl and the planet
 
-**The short version:** This section is about what records are made of and what making them costs the environment. Most are pressed from **PVC** (polyvinyl chloride), a petroleum-based plastic, and one academic estimate, by Kyle Devine of the University of Oslo, finds the US recording industry used far less plastic in 2016 than at the vinyl peak of 1977, but produced more greenhouse gas, because storing and streaming digital files takes energy too. Makers are trying bio-based PVC, bioplastics and injection molding, and the gains they report are their own claims, not independent measurements.
+**The short version:** Most records are pressed from **PVC** (polyvinyl chloride), a petroleum-based plastic. Kyle Devine of the University of Oslo estimates the US recording industry used far less plastic in 2016 than at the vinyl peak of 1977, but produced more greenhouse gas, because storing and streaming digital files takes energy too. Makers are trying bio-based PVC, bioplastics and injection molding; the gains they report are their own claims, not independent measurements.
 
 ### What is a record made of, and how is it pressed?
 
-A conventional LP starts as a lump of PVC called a **biscuit** (or puck), placed between two **stampers** in a steam-heated press and squeezed flat ([how pressing works](/pressing/)).[^mon-vtpublic-brp] On a manual press, Vermont Public reported in 2015, one cycle takes about 25 seconds.[^mon-vtpublic-brp] Heat, then cooling, then the next one.
+A conventional LP starts as a lump of PVC called a **biscuit** (or puck), placed between two **stampers** in a steam-heated press and squeezed flat ([how pressing works](/pressing/)).[^mon-vtpublic-brp] On a manual press one cycle takes about 25 seconds.[^mon-vtpublic-brp] Heat, then cooling, then the next one.
 
-The plastic itself is a commodity with a price that moves. A plant owner told GRAMMY.com that the price of PVC had increased three times since his plant opened in 2020 (reported, 2022).[^mon-grammy-shortage-2022] That feeds into the cost of every record, and is part of why some plants have looked at other materials.
+The plastic itself is a commodity with a price that moves. One plant owner said in 2022 that the price of PVC had gone up three times since his plant opened in 2020.[^mon-grammy-shortage-2022] That lands on the cost of every record, and it is part of why some plants have looked at other materials.
 
 [[DIAGRAM-IDEA: side-by-side of three ways to make a disc - steam press with a PVC biscuit, bio-attributed PVC in the same press, and injection molding of a non-PVC compound - showing what changes (feedstock, machine, both)]]
 
 ### Is vinyl worse for the planet than streaming?
 
-It depends what you count. The best-known numbers are an academic estimate for the US recording industry as a whole, not for any single record. Kyle Devine of the University of Oslo calculated the industry's plastic use and greenhouse gas emissions at four points, as reported by University of Glasgow news in 2019:[^mon-glasgow-2019]
+It depends what you count. The best-known numbers cover the whole US recording industry, not any single record. Kyle Devine of the University of Oslo estimated its plastic use and greenhouse gas emissions at four points:[^mon-glasgow-2019]
 
 | Year | Plastic used (US recording industry) | Greenhouse gas |
 |---|---|---|
@@ -21,13 +21,13 @@ It depends what you count. The best-known numbers are an academic estimate for t
 | 2000 | 61 million kg | 157 million kg |
 | 2016 | about 8 million kg | an estimated 200 to over 350 million kg |
 
-*Academic estimate (Kyle Devine), reported 2019.*[^mon-glasgow-2019]
+*Academic estimate (Kyle Devine), published 2019.*[^mon-glasgow-2019]
 
 Plastic fell by more than 85% between 1977 and 2016, while estimated emissions rose, with the 2016 figure attributed to storing and transmitting digital files.[^mon-glasgow-2019]
 
-Two ways to read that. One: physical formats were never the whole footprint, and streaming is not weightless. Two: 2016 is one year in a format cycle that keeps moving, and a table of industry totals says nothing about what one LP costs the planet compared with one month of streaming. Both readings are fair to the data; neither is in the data.
+Physical formats were never the whole footprint, and streaming isn't weightless. But 2016 is one year in a format cycle that keeps moving, and industry totals can't tell you what one LP costs the planet against a month of streaming.
 
-The same Glasgow research found the price of recorded music fell from about 4.83% of an average US weekly salary in 1977 to about 1.22% in 2013, the economic half of the study, by Matt Brennan.[^mon-glasgow-2019]
+The study had an economic half, by Matt Brennan: recorded music fell from about 4.83% of an average US weekly salary in 1977 to about 1.22% in 2013.[^mon-glasgow-2019]
 
 The industry's first carbon footprint report, published in June 2024 by the Vinyl Record Manufacturers Association and the Vinyl Alliance, put a record at about 1.15 kg CO2e on average, measured cradle to factory gate at one pressing plant over 2022-2023.[^gf-d-vrma-carbon-2024] For 12-inch LPs it ranged from about 1.07 kg at 140 grams to about 1.28 kg at 200 grams, with PVC compound about half the total and factory energy about 30%.[^gf-d-vrma-carbon-2024] The report calls the figure partial and leaves out distribution, use and disposal; it is the industry measuring itself, not an independent audit.[^gf-d-vrma-carbon-2024]
 
@@ -35,25 +35,25 @@ The industry's first carbon footprint report, published in June 2024 by the Viny
 
 **BioVinyl** is still PVC, made differently. optimal media in Germany[^fc-optimal-pressing] launched it with PlastChem in July 2023: the petroleum feedstock in the PVC is replaced with recycled used cooking oil or industrial waste gases.[^mon-optimal-biovinyl] That makes it **bio-attributed** (or bio-based) PVC, and the supply chain is certified under **ISCC PLUS**, an independent certification standard.[^mon-optimal-biovinyl]
 
-The claims, all the manufacturer's (2023): the records are "acoustically and optically identical" to conventional vinyl, come in black plus 11 colors, and have a "significantly reduced" CO2 footprint.[^mon-optimal-biovinyl] The text of the announcement gives no number for that reduction.[^mon-optimal-biovinyl] Because BioVinyl is chemically PVC, what changes is where the raw material comes from.
+optimal media says the records are "acoustically and optically identical" to conventional vinyl, come in black plus 11 colors, and carry a "significantly reduced" CO2 footprint - though it puts no number on the reduction.[^mon-optimal-biovinyl]
 
 ### Can a record be made without PVC at all?
 
 Two companies say yes, by different routes.
 
-**Evolution Music**, a UK company led by CEO Marc Carey, presses records from a bioplastic whose recipe includes sugars and starches, not PVC, CBS News reported in 2022.[^mon-cbs-evolution] The company said the records would cost about the same as vinyl at full production.[^mon-cbs-evolution] On sound, a producer quoted in the report estimated "Maybe 95%" of vinyl.[^mon-cbs-evolution] That is one listener's estimate, reported in 2022, not a measurement.
+**Evolution Music**, a UK company led by CEO Marc Carey, presses records from a bioplastic whose recipe includes sugars and starches, not PVC.[^mon-cbs-evolution] The company said the records would cost about the same as vinyl at full production.[^mon-cbs-evolution] On sound, one producer put it at "Maybe 95%" of vinyl[^mon-cbs-evolution] - a listener's guess, not a measurement.
 
-**Green Vinyl Records**, in the Eindhoven region of the Netherlands, came out of the CD and DVD industry as a project of the Symcon Group.[^mon-stampthewax-greenvinyl] Instead of steam presses, it uses **injection molding**, forcing molten material into a mold, with its own non-PVC compounds, and prints directly on the disc instead of using paper labels.[^mon-stampthewax-greenvinyl] It claims 93% less energy than conventional steam pressing, by its own measurement (company claim, reported 2021).[^mon-stampthewax-greenvinyl]
+**Green Vinyl Records**, in the Eindhoven region of the Netherlands, came out of the CD and DVD industry as a project of the Symcon Group.[^mon-stampthewax-greenvinyl] Instead of steam presses, it uses **injection molding**, forcing molten material into a mold, with its own non-PVC compounds, and prints directly on the disc instead of using paper labels.[^mon-stampthewax-greenvinyl] It claims 93% less energy than conventional steam pressing, by its own measurement.[^mon-stampthewax-greenvinyl]
 
-| Approach | Who (per sources) | Material | Press | Claimed benefit | Status of claim |
+| Approach | Who | Material | Press | Claimed benefit | Status of claim |
 |---|---|---|---|---|---|
-| Bio-attributed PVC | optimal media with PlastChem, 2023 | PVC from used cooking oil or waste gases | Not stated in source | "Significantly reduced" CO2 | Manufacturer[^mon-optimal-biovinyl] |
-| Bioplastic | Evolution Music, 2022 | Sugar and starch recipe | Not stated in source | Similar cost at full production | Company, reported[^mon-cbs-evolution] |
+| Bio-attributed PVC | optimal media with PlastChem, 2023 | PVC from used cooking oil or waste gases | Not stated | "Significantly reduced" CO2 | Manufacturer[^mon-optimal-biovinyl] |
+| Bioplastic | Evolution Music, 2022 | Sugar and starch recipe | Not stated | Similar cost at full production | Company, reported[^mon-cbs-evolution] |
 | Injection molding | Green Vinyl Records, 2021 | Non-PVC compounds | Injection molding | 93% less energy | Company's own measurement[^mon-stampthewax-greenvinyl] |
 
 ### Do these records sound as good?
 
-That is the contested part. optimal media says BioVinyl is acoustically identical.[^mon-optimal-biovinyl] The Evolution Music report put the bioplastic at "Maybe 95%," per one producer.[^mon-cbs-evolution] No independent listening test or lab comparison was among the sources used here, so this guide reports the claims and leaves the verdict to your ears.
+That is the contested part. optimal media says BioVinyl is acoustically identical;[^mon-optimal-biovinyl] one producer gave Evolution Music's bioplastic "Maybe 95%."[^mon-cbs-evolution] Nobody has published an independent listening test or lab comparison, so the verdict is down to your ears.
 
 ### What about shipping, jackets and shrinkwrap?
 

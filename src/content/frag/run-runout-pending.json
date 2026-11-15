@@ -1,0 +1,59 @@
+[
+ {
+  "marking": "STERLING CA",
+  "meaning": "Chris Athens at Sterling Sound.",
+  "kind": "Engineer",
+  "source_url": "https://muzilla.ru/disco/label/264060",
+  "discogs_url_to_check": "https://www.discogs.com/label/264060"
+ },
+ {
+  "marking": "-MO suffix on Atlantic/ATCO matrices",
+  "meaning": "Monarch Record Mfg. Co., Los Angeles.",
+  "kind": "Pressing plant",
+  "source_url": "https://muzilla.ru/disco/label/264380",
+  "discogs_url_to_check": "https://www.discogs.com/label/264380"
+ },
+ {
+  "marking": "XTMR + number",
+  "meaning": "Plated at Monarch, pressed at Columbia Terre Haute.",
+  "kind": "Pressing plant",
+  "source_url": "https://muzilla.ru/disco/label/264380",
+  "discogs_url_to_check": "https://www.discogs.com/label/264380"
+ },
+ {
+  "marking": "+ or ++ (sometimes with dots)",
+  "meaning": "Record Technology Inc. (RTI), Camarillo, California pressing, up to 1983.",
+  "kind": "Pressing plant",
+  "source_url": "https://muzilla.ru/disco/label/66254",
+  "discogs_url_to_check": "https://www.discogs.com/label/66254"
+ },
+ {
+  "marking": "(1) / (2) / (3) after RTI number",
+  "meaning": "One-, two- or three-step plating at RTI.",
+  "kind": "Format/process",
+  "source_url": "https://muzilla.ru/disco/label/66254",
+  "discogs_url_to_check": "https://www.discogs.com/label/66254"
+ },
+ {
+  "marking": "######X~/Z (GZ format code)",
+  "meaning": "GZ Media, Loděnice, Czech Republic: X is a format letter (E = 12-inch 33, H = 7-inch 45, M = 12-inch 45 and others), ~ the side, Z marks galvanoplasty.",
+  "kind": "Code",
+  "example": "######E~/Z",
+  "source_url": "https://muzilla.ru/disco/label/430654",
+  "discogs_url_to_check": "https://www.discogs.com/label/430654"
+ },
+ {
+  "marking": "MRP#### alongside GZ number",
+  "meaning": "GZ's Nashville plant (Nashville Record Pressing).",
+  "kind": "Pressing plant",
+  "source_url": "https://muzilla.ru/disco/label/430654",
+  "discogs_url_to_check": "https://www.discogs.com/label/430654"
+ },
+ {
+  "marking": "10-##### alongside GZ number",
+  "meaning": "GZ's Canadian plant.",
+  "kind": "Pressing plant",
+  "source_url": "https://muzilla.ru/disco/label/430654",
+  "discogs_url_to_check": "https://www.discogs.com/label/430654"
+ }
+]
