@@ -156,7 +156,7 @@ def m_decoder():
              + "".join(f'<tr data-k="{E(r["kind"])}" data-s="{E((r["marking"] + " " + r.get("meaning", "") + " " + r.get("example", "")).lower())}"><td class="etch">{E(r["marking"])}'
                        + (f'<br><span class="ex">e.g. {E(r["example"])}</span>' if r.get("example") else "") + f'</td><td>{E(r["meaning"])}{srcu(r["source_url"])}</td><td class="k">{E(r["kind"])}</td></tr>' for r in rows)
              + '</tbody></table></div>')
-    return mod("Runout decoder", f"{len(rows)} markings from the dead wax", "Search the letters, numbers, initials and symbols scratched or stamped between the last song and the label. Every row links to its source; plants and engineers varied their habits over the years, so a marking is a clue, not proof.", inner, "decoder")
+    return mod("Runout decoder", f"{len(rows)} markings from the dead wax", "The letters, numbers, initials and symbols scratched or stamped between the last song and the label. Plants and engineers changed their habits over the years, so a marking is a clue, not proof.", inner, "decoder")
 
 
 def m_sidetime():
@@ -168,7 +168,7 @@ def m_sidetime():
     inner = ('<div class="calc"><label class="field">Format<select id="st-f">' + "".join(f'<option value="{E(r["id"])}">{E(r["label"])}</option>' for r in rows) + '</select></label>'
              '<label class="field">Your side runs (minutes)<input id="st-m" type="number" min="1" max="40" step="0.5" value="18"></label></div>'
              '<p class="out" id="st-out" aria-live="polite"></p>' f'<script type="application/json" id="st-data">{data}</script>')
-    return mod("Side-length check", "Will it fit on one side?", "Cutting engineers trade loudness and bass for time: the longer the side, the closer the grooves and the quieter the cut. These are the recommended limits cited in this guide, not hard rules - ask your cutting engineer.", inner, "sidetime")
+    return mod("Side-length check", "Will it fit on one side?", "Cutting engineers trade loudness and bass for time: the longer the side, the closer the grooves and the quieter the cut. These are plants' recommended limits, not hard rules - ask your cutting engineer.", inner, "sidetime")
 
 
 def m_timeline():
@@ -189,18 +189,18 @@ def m_glossary():
 
 def m_resources():
     items = "".join(f'<li><a href="{E(r["url"])}" rel="noopener" target="_blank">{E(r["title"])}</a> - {E(r.get("why", ""))}</li>' for r in resources)
-    return mod("Further", "Where to go next", "The best outside sources behind this guide. None of them are ours.", f'<ul class="res">{items}</ul>', "resources")
+    return mod("Further", "Where to go next", "", f'<ul class="res">{items}</ul>', "resources")
 
 
 def m_quiz():
     if not quiz:
         return ""
-    return mod("Test yourself", f"{len(quiz)} questions", "Each answer explains itself and links to the section that covers it.", f'<div id="quiz"></div><script type="application/json" id="quiz-data">{js_json(quiz)}</script>', "quiz")
+    return mod("Test yourself", f"{len(quiz)} questions", "", f'<div id="quiz"></div><script type="application/json" id="quiz-data">{js_json(quiz)}</script>', "quiz")
 
 
 def m_gaps():
     items = "".join(f"<li>{E(g)}</li>" for g in gaps) or "<li>None listed.</li>"
-    return mod("Still digging", f"{len(gaps)} things we could not source well enough", "Send a source and it goes in, with credit if you want it.", f"<ul>{items}</ul>", "gaps")
+    return mod("Still unconfirmed", f"{len(gaps)} open questions", "Know the answer? hello@thirdpolararch.com", f"<ul>{items}</ul>", "gaps")
 
 
 MODULES = {"decoder": m_decoder, "sidetime": m_sidetime, "timeline": m_timeline, "glossary": m_glossary, "resources": m_resources, "quiz": m_quiz, "gaps": m_gaps}
@@ -364,7 +364,7 @@ def section_page(i, s):
 {toc}
 <article>{s['html']}</article>
 {qa_html}
-<p class="fix"><a href="mailto:hello@thirdpolararch.com?subject=groove.cold.fyi%20-%20{E(s['slug'])}">Spot a mistake in this section? Tell us.</a></p>
+<p class="fix"><a href="mailto:hello@thirdpolararch.com?subject=groove.cold.fyi%20-%20{E(s['slug'])}">Spot a mistake? Tell us.</a></p>
 {pn}
 {refs_list(s['refs'])}
 </main></div>"""
