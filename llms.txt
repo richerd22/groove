@@ -25,6 +25,7 @@ Independent cited field guide, 28,884 words, 200 sources, updated November 2026.
 - Everything on one page: https://groove.cold.fyi/all/
 
 ## Sister guides
+- https://flip.cold.fyi/ - The Flip: how sampling works
 - https://radiowheel.cold.fyi/ - The Radio Wheel: every GTA radio station, song and talk show
 - https://polo.cold.fyi/ - Polo: how Coachella works
 - https://wristband.cold.fyi/ - The Wristband: how music festivals work
