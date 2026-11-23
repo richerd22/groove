@@ -294,7 +294,7 @@ def head(title, desc, path, ld=None, robots="index, follow, max-image-preview:la
 """
 
 
-SISTERS = [("flip", "The Flip", "how sampling works"), ("radiowheel", "The Radio Wheel", "every GTA radio station, song and talk show"), ("polo", "Polo", "how Coachella works"), ("wristband", "The Wristband", "how music festivals work"), ("lastcall", "Last Call", "how nightlife works"),
+SISTERS = [("beam", "The Beam", "how laser shows work"), ("flip", "The Flip", "how sampling works"), ("radiowheel", "The Radio Wheel", "every GTA radio station, song and talk show"), ("polo", "Polo", "how Coachella works"), ("wristband", "The Wristband", "how music festivals work"), ("lastcall", "Last Call", "how nightlife works"),
            ("noise", "The Noise", "every sound in a city"), ("showfile", "The Show File", "how a dance music show is made"),
            ("tickets", "The Ticket", "how a concert ticket gets from artist to fan"), ("airwaves", "The Airwaves", "every radio signal over a city"),
            ("streetcode", "Street Code", "every mark on the street"), ("works", "How a City Works", "the systems under every street"),
